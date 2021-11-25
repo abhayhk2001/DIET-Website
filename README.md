@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # school-website-diet
 
 ## Project setup
@@ -23,6 +23,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
-# School-Website-DIET
->>>>>>> Initial commit
