@@ -1,40 +1,48 @@
 <template>
-    <div class="wrapper">
-        
-      <div class="Grade" style="background: rgba( 80, 227, 194, 0.25 ); box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 ); backdrop-filter: blur( 4px ); -webkit-backdrop-filter: blur( 4px ); border-radius: 10px; border: 1px solid rgba( 255, 255, 255, 0.18 );">
-        <h2>Class 1</h2>
-        <div class="subject" v-on:click="rout('/')">EVS</div>
-        <div class="subject" v-on:click="rout('/')">Math</div>
-        <div class="subject" v-on:click="rout('/')">English</div>
-      </div>
-
-      <div class="Grade">
-        <h2>Class 2</h2>
-        <div class="subject" v-on:click="rout('/')">EVS</div>
-        <div class="subject" v-on:click="rout('/')">Math</div>
-        <div class="subject" v-on:click="rout('/')">English</div>
-      </div>
-
-      <div class="Grade">
-        <h2>Class 3</h2>
-        <div class="subject" v-on:click="rout('/')">EVS</div>
-        <div class="subject" v-on:click="rout('/')">Math</div>
-        <div class="subject" v-on:click="rout('/')">English</div>
-      </div>
+  <div class="wrapper">
+    <div
+      class="Grade"
+      style="
+        background: rgba(80, 227, 194, 0.25);
+        box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+        backdrop-filter: blur(4px);
+        -webkit-backdrop-filter: blur(4px);
+        border-radius: 10px;
+        border: 1px solid rgba(255, 255, 255, 0.18);
+      "
+    >
+      <h2>Class 1</h2>
+      <div class="subject" v-on:click="rout('/')">EVS</div>
+      <div class="subject" v-on:click="rout('/')">Math</div>
+      <div class="subject" v-on:click="rout('/')">English</div>
     </div>
+
+    <div class="Grade">
+      <h2>Class 2</h2>
+      <div class="subject" v-on:click="rout('/')">EVS</div>
+      <div class="subject" v-on:click="rout('/')">Math</div>
+      <div class="subject" v-on:click="rout('/')">English</div>
+    </div>
+
+    <div class="Grade">
+      <h2>Class 3</h2>
+      <div class="subject" v-on:click="rout('/')">EVS</div>
+      <div class="subject" v-on:click="rout('/')">Math</div>
+      <div class="subject" v-on:click="rout('/')">English</div>
+    </div>
+  </div>
 </template>
 
 <script>
-import router from '../router'
+import router from "../router";
 
 export default {
-    methods: {
-      rout(dest) {
-        router.push(dest)
-
-      },
-    }
-  }
+  methods: {
+    rout(dest) {
+      router.push(dest);
+    },
+  },
+};
 </script>
 
 <style>
@@ -53,10 +61,7 @@ export default {
   paddng: 0;
 }
 
-body {
-  font-family: "Playfair Display", serif;
-  background: var(--clr-graylight);
-}
+
 
 main {
   margin: 2rem;
@@ -83,13 +88,14 @@ h1 {
   background: white;
   text-align: center;
   /* position: relative; */
-/*   
+  /*   
   background: rgba( 80, 227, 194, 0.25 );
 box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
 backdrop-filter: blur( 4px );
 -webkit-backdrop-filter: blur( 4px );
 border-radius: 10px;
-border: 1px solid rgba( 255, 255, 255, 0.18 ); */
+border: 1px solid rgba( 255, 255, 255, 0.18 ); 
+*/
 }
 
 .subject {
