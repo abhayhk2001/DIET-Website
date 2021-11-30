@@ -12,23 +12,23 @@
       "
     >
       <h2>Class 1</h2>
-      <div class="subject" v-on:click="rout('/')">EVS</div>
-      <div class="subject" v-on:click="rout('/')">Math</div>
-      <div class="subject" v-on:click="rout('/')">English</div>
+      <div class="subject" v-on:click="rout('/1/EVS')">EVS</div>
+      <div class="subject" v-on:click="rout('/1/MAT')">Math</div>
+      <div class="subject" v-on:click="rout('/1/ENG')">English</div>
     </div>
 
     <div class="Grade">
       <h2>Class 2</h2>
-      <div class="subject" v-on:click="rout('/')">EVS</div>
-      <div class="subject" v-on:click="rout('/')">Math</div>
-      <div class="subject" v-on:click="rout('/')">English</div>
+      <div class="subject" v-on:click="rout('/2/EVS')">EVS</div>
+      <div class="subject" v-on:click="rout('/2/MAT')">Math</div>
+      <div class="subject" v-on:click="rout('/2/ENG')">English</div>
     </div>
 
     <div class="Grade">
       <h2>Class 3</h2>
-      <div class="subject" v-on:click="rout('/')">EVS</div>
-      <div class="subject" v-on:click="rout('/')">Math</div>
-      <div class="subject" v-on:click="rout('/')">English</div>
+      <div class="subject" v-on:click="rout('/3/EVS')">EVS</div>
+      <div class="subject" v-on:click="rout('/3/MAT')">Math</div>
+      <div class="subject" v-on:click="rout('/3/ENG')">English</div>
     </div>
   </div>
 </template>
