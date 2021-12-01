@@ -3,6 +3,7 @@
       <span class="nav-element"><router-link to="/">Home</router-link></span>  
       <span class="nav-element"><router-link to="/about">About</router-link></span>  
       <span class="nav-element"><router-link to="/class">Class</router-link></span>  
+      <span class="nav-element"><router-link to="/subject">Temp subject(remove later)</router-link></span>  
     </div>
 </template>
 
