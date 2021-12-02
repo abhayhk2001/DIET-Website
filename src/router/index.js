@@ -21,7 +21,7 @@ const routes = [
     component: () => import("../views/Class.vue"),
   },
   {
-    path: "/:class/:SUB/:chap",
+    path: "/:class/:SUB/:chap/:COMP",
     name: "ChapterPage",
     component: () => import("../views/ChapterPage.vue"),
   },
@@ -36,7 +36,7 @@ const routes = [
     name: "Subject Page",
     component: () => import("../views/subject.vue"),
   },
-  
+    
 ];
 
 const router = new VueRouter({

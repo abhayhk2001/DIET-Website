@@ -8,14 +8,39 @@
       <div class="section4">PPTs</div>
       <div class="section5">Videos</div>
     </div>
-    <div class="main">hi hello world</div>
+    <div class="main">
+        <div
+          class="subject"
+          v-on:click="
+            rout('/' + $route.params.class + '/' + $route.params.SUB + '/' + a)
+          "
+          v-for="a in links[$route.params.class][$route.params.SUB][$route.params.chap][$route.params.COMP]"
+          :key="a"
+        >
+          Chapter {{ a['title'] }}
+          <div v-html="a['link']"></div>
+
+          dvi
+          Class __ Subject __ Chapter __ Video  
+        </div>
+
+
+    </div>
   </div>
 </template>
 
 
 
 <script>
-export default {};
+import links from "../links.js";
+
+export default {
+  data: function () {
+
+    return {links};
+  },
+  
+};
 </script>
 
 
@@ -36,5 +61,33 @@ main {
 .chapter-page {
   display: flex;
   height: 100%;
+}
+
+.wrapper {
+  counter-reset: number;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 2rem 0;
+}
+
+.Grade {
+  box-shadow: 0px 0px 20px var(--clr-graymed);
+  border-radius: var(--border-radius);
+  padding: 2rem;
+  width: 90%;
+  margin: 0 1rem 4rem;
+  background: white;
+  text-align: center;
+}
+
+.subject {
+  box-shadow: 0px 0px 20px var(--clr-graymed);
+  border-radius: var(--border-radius);
+  padding: 1rem;
+  width: 100%;
+  margin: 1rem 0 1rem 0;
+  background: white;
+  text-align: center;
 }
 </style>

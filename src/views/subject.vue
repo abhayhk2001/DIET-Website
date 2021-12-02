@@ -8,10 +8,10 @@
         v-on:click="
           rout('/' + $route.params.class + '/' + $route.params.SUB + '/' + a)
         "
-        v-for="(b, a) in chapterlist2[$route.params.class][$route.params.SUB]"
+        v-for="(b, a) in links[$route.params.class][$route.params.SUB]"
         :key="a"
       >
-        Chapter {{ a }} - {{ b }}
+        Chapter {{ a }} - {{ b['name'] }}
       </div>
     </div>
   </div>
@@ -19,6 +19,7 @@
 
 <script>
 import router from "../router";
+import links from "../links.js";
 
 export default {
   methods: {
@@ -121,6 +122,7 @@ export default {
     return {
       chapterlist,
       chapterlist2,
+      links,
       aaa,
     };
   },
