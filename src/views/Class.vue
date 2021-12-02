@@ -47,8 +47,6 @@ export default {
 *:before,
 *:after {
   box-sizing: border-box;
-  margin: 0;
-  paddng: 0;
 }
 
 main {

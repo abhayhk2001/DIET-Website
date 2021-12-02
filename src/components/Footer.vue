@@ -8,7 +8,7 @@
       </div>
       <div class="diet">
         <span>DIET</span>
-        <span>Ramnagara</span>
+        <span>Ramanagara</span>
         <span>&lt;email&gt;</span>
       </div>
       <div class="diet">

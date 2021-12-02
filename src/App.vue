@@ -8,7 +8,7 @@
   </div>
 </template>
 
-<style>
+<style >
 html,
 body {
   font-family: "Playfair Display", serif;
@@ -21,7 +21,7 @@ body {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  color: #2c3e50;
+  color: #0000008a;
   height: 100vh;
   display: flex;
   flex-direction: column;
@@ -29,8 +29,11 @@ body {
 
 .main-content {
   flex: 1 0 auto;
+  /* background-image: url("./assets/background.svg");
+  background-repeat: no-repeat;
+  background-attachment: fixed; */
 }
-</style>
+</style >
 
 <script>
 import Navbar from "@/components/Navbar.vue";

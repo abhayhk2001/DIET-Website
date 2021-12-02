@@ -8,6 +8,7 @@ var a = {
     video: [{ title: "", type: "", link: ``, description: "" }],
   },
   1: {
+    colour: "#8F99FF",
     EVS: {},
     MAT: {
       1: {
@@ -119,6 +120,7 @@ var a = {
     ENG: {},
   },
   2: {
+    colour: "#FFC6BF",
     EVS: {
       1: {
         name: "Invention of the Wheel",
@@ -511,6 +513,7 @@ var a = {
     },
   },
   3: {
+    colour: "#A6FBCE",
     EVS: {
       1: {
         name: "Poonam's Day Out",

@@ -5,7 +5,7 @@
       <div class="img"><img src="../assets/diet.jpg" alt="" /></div>
       <div class="img"><img src="../assets/cwc.jpeg" alt="" /></div>
     </div>
-    <div class="heading">
+    <div class="home-heading">
       <h1>A Collaboration between RVCE, DIET and CWC.</h1>
     </div>
   </div>
