@@ -1,8 +1,13 @@
 <template>
   <div class="wrapper">
     <!-- <div v-html="aaa"></div>  delete thsi line after next step-->
-    <div class="Subj-subject">
-      <h2>{{ $route.params.SUB }} {{ $route.params.class }}</h2>
+    <div
+      class="Subj-subject"
+      v-bind:style="{ backgroundColor: links[$route.params.class]['colour'] }"
+    >
+      <h2 class="class-heading">
+        Class {{ $route.params.class }} - {{ names[$route.params.SUB] }}
+      </h2>
       <div
         class="Chapter-subject"
         v-on:click="
@@ -37,9 +42,16 @@ export default {
   },
   data: function () {
     let aaa = `<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3GC9LSyNaGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`;
+
+    let names = {
+      ENG: "English",
+      EVS: "Environmental Studies",
+      MAT: "Mathematics",
+    };
     return {
       links,
       aaa,
+      names,
     };
   },
 };
@@ -61,12 +73,8 @@ export default {
   padding: 0;
 }
 
-main {
-  margin: 2rem;
-}
-
-h1 {
-  text-align: center;
+.class-heading {
+  margin-bottom: 2rem;
 }
 
 .wrapper {
@@ -80,20 +88,11 @@ h1 {
 .Subj-subject {
   box-shadow: 0px 0px 20px var(--clr-graymed);
   border-radius: var(--border-radius);
-  padding: 2rem;
+  padding: 2rem 15rem;
   width: 90%;
   margin: 0 1rem 4rem;
   background: white;
   text-align: center;
-  /* position: relative; */
-  /*   
-  background: rgba( 80, 227, 194, 0.25 );
-box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
-backdrop-filter: blur( 4px );
--webkit-backdrop-filter: blur( 4px );
-border-radius: 10px;
-border: 1px solid rgba( 255, 255, 255, 0.18 ); 
-*/
 }
 
 .Chapter-subject {
@@ -105,5 +104,10 @@ border: 1px solid rgba( 255, 255, 255, 0.18 );
   margin: 1rem 0 1rem 0;
   background: white;
   text-align: center;
+  transition: transform 0.2s;
+}
+
+.Chapter-subject:hover {
+  transform: scale(1.01);
 }
 </style>

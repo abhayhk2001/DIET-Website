@@ -1,20 +1,20 @@
 <template>
   <div class="wrapper">
-    <div v-bind:style="{ backgroundColor: links[1]['colour']}" class="Grade">
+    <div v-bind:style="{ backgroundColor: links[1]['colour'] }" class="Grade">
       <h2>Class 1</h2>
       <div class="subject" v-on:click="rout('/1/EVS')">EVS</div>
       <div class="subject" v-on:click="rout('/1/MAT')">Math</div>
       <div class="subject" v-on:click="rout('/1/ENG')">English</div>
     </div>
 
-    <div v-bind:style="{ backgroundColor: links[2]['colour']}"  class="Grade">
+    <div v-bind:style="{ backgroundColor: links[2]['colour'] }" class="Grade">
       <h2>Class 2</h2>
       <div class="subject" v-on:click="rout('/2/EVS')">EVS</div>
       <div class="subject" v-on:click="rout('/2/MAT')">Math</div>
       <div class="subject" v-on:click="rout('/2/ENG')">English</div>
     </div>
 
-    <div v-bind:style="{ backgroundColor: links[3]['colour']}"  class="Grade">
+    <div v-bind:style="{ backgroundColor: links[3]['colour'] }" class="Grade">
       <h2>Class 3</h2>
       <div class="subject" v-on:click="rout('/3/EVS')">EVS</div>
       <div class="subject" v-on:click="rout('/3/MAT')">Math</div>
@@ -33,9 +33,8 @@ export default {
     },
   },
   data: function () {
-    
-    let aaa = "#F73AB7"
-    return { links ,aaa};
+    let aaa = "#F73AB7";
+    return { links, aaa };
   },
 };
 </script>
@@ -55,14 +54,6 @@ export default {
   box-sizing: border-box;
 }
 
-main {
-  margin: 2rem;
-}
-
-h1 {
-  text-align: center;
-}
-
 .wrapper {
   counter-reset: number;
   display: flex;
@@ -72,7 +63,6 @@ h1 {
 }
 
 .Grade {
-  
   box-shadow: 0px 0px 20px var(--clr-graymed);
   border-radius: var(--border-radius);
   padding: 2rem;
@@ -80,18 +70,9 @@ h1 {
   margin: 0 1rem 4rem;
   background: white;
   text-align: center;
-  /* position: relative; */
-  /*   
-  background: rgba( 80, 227, 194, 0.25 );
-box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
-backdrop-filter: blur( 4px );
--webkit-backdrop-filter: blur( 4px );
-border-radius: 10px;
-border: 1px solid rgba( 255, 255, 255, 0.18 ); 
-*/
-box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
-backdrop-filter: blur( 10px );
--webkit-backdrop-filter: blur( 10px );
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
 }
 
 .subject {
@@ -103,5 +84,10 @@ backdrop-filter: blur( 10px );
   background: white;
   text-align: center;
   cursor: pointer;
+  transition: transform 0.2s;
+}
+
+.subject:hover {
+  transform: scale(1.05);
 }
 </style>

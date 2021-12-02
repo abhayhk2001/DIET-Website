@@ -113,6 +113,12 @@
 
 .nav-element {
   padding: 0 1vw;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.nav-element:hover {
+  text-decoration: underline;
 }
 </style>
 
