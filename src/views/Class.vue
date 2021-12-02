@@ -58,10 +58,8 @@ export default {
 *:after {
   box-sizing: border-box;
   margin: 0;
-  paddng: 0;
+  padding: 0;
 }
-
-
 
 main {
   margin: 2rem;

@@ -1,19 +1,20 @@
 <template>
   <div id="app">
-    <Navbar/>
+    <Navbar />
     <div class="main-content">
       <router-view />
     </div>
-    <Footer/>
+    <Footer />
   </div>
 </template>
 
 <style>
-  html , body {
-    font-family: "Playfair Display", serif;
-    background: var(--clr-graylight);
-    min-height: 100vh;
-  }
+html,
+body {
+  font-family: "Playfair Display", serif;
+  background: var(--clr-graylight);
+  min-height: 100vh;
+}
 
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
@@ -25,21 +26,20 @@
   flex-direction: column;
 }
 
-
-.main-content{
-  flex:1 0 auto;
+.main-content {
+  flex: 1 0 auto;
 }
 </style>
 
 <script>
-import Navbar from "@/components/Navbar.vue"
-import Footer from "@/components/Footer.vue"
+import Navbar from "@/components/Navbar.vue";
+import Footer from "@/components/Footer.vue";
 
 export default {
-  name: 'App',
+  name: "App",
   components: {
     Navbar,
-    Footer
-  }
-}
+    Footer,
+  },
+};
 </script>
