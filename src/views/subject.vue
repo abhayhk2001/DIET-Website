@@ -6,7 +6,7 @@
       <div
         class="subject"
         v-on:click="
-          rout('/' + $route.params.class + '/' + $route.params.SUB + '/' + a)
+          rout('/' + $route.params.class + '/' + $route.params.SUB + '/' + a+'/video')
         "
         v-for="(b, a) in links[$route.params.class][$route.params.SUB]"
         :key="a"
@@ -142,7 +142,7 @@ export default {
 *:after {
   box-sizing: border-box;
   margin: 0;
-  paddng: 0;
+  padding: 0;
 }
 
 main {
