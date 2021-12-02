@@ -1,5 +1,5 @@
 <template >
-  <div class="chapter-page">
+  <div class="wrapper">
     <!-- <div class="navbar-container">
       <div class="heading"><h1>Chapter Sections</h1></div>
       <div v-on:click="rout('/' + $route.params.class + '/' + $route.params.SUB + '/' + $route.params.chap+'/activity')">Activity Sheets</div>
@@ -8,7 +8,7 @@
       <div v-on:click="rout('/' + $route.params.class + '/' + $route.params.SUB + '/' + $route.params.chap+'/ppt')">PPTs</div>
       <div v-on:click="rout('/' + $route.params.class + '/' + $route.params.SUB + '/' + $route.params.chap+'/video')">Videos</div>
     </div> -->
-    <div class="man">
+    <!-- <div class="man wrapper"> -->
       <div
         class="component"
         v-on:click="
@@ -29,7 +29,7 @@
         <div v-else>{{ aa["description"] }}</div>
       </div>
     </div>
-  </div>
+  <!-- </div> -->
 </template>
 
 
@@ -68,6 +68,15 @@ export default {
   padding: 0;
 }
 
+
+.wrapper {
+  counter-reset: number;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 2rem 0;
+}
+
 .navbar-container {
   max-width: 10rem;
   flex: 1 0 10%;
@@ -85,6 +94,7 @@ export default {
   /*  margin: 0 1rem 4rem; */
   background: white;
   text-align: center;
+  justify-content: center;
 }
 
 .component {
@@ -94,5 +104,28 @@ export default {
   margin: 1rem 0 1rem 0;
   background: white;
   text-align: center;
+  width: 53%;
+  height: fit-content;
+  
 }
+
+/* .auto-resizable-iframe {
+  max-width:50%;
+  max-height: 70rem;
+  margin: 0px auto;
+}
+
+.auto-resizable-iframe > div {
+  position: relative;
+  padding-bottom: 75%;
+  height: 0px;
+}
+
+.auto-resizable-iframe iframe {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+} */
 </style>
