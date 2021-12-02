@@ -26,6 +26,8 @@ export default {
   flex-direction: column;
   align-items: center;
   width: 100vw;
+  padding: 5vh 0;
+  margin-bottom: 3vh;
 }
 
 .logos {

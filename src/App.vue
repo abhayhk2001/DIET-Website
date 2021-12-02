@@ -14,6 +14,7 @@ body {
   font-family: "Playfair Display", serif;
   background: var(--clr-graylight);
   min-height: 100vh;
+  margin: 0;
 }
 
 #app {
