@@ -1,26 +1,26 @@
 <template >
   <div class="chapter-page" >
-    <div class="navbar-container">
+    <!-- <div class="navbar-container">
       <div class="heading"><h1>Chapter Sections</h1></div>
-      <div class="section1">Activity Sheets</div>
-      <div class="section2">AR Video</div>
-      <div class="section3">Charts</div>
-      <div class="section4">PPTs</div>
-      <div class="section5">Videos</div>
-    </div>
+      <div v-on:click="rout('/' + $route.params.class + '/' + $route.params.SUB + '/' + $route.params.chap+'/activity')">Activity Sheets</div>
+      <div v-on:click="rout('/' + $route.params.class + '/' + $route.params.SUB + '/' + $route.params.chap+'/ar')">AR Video</div>
+      <div v-on:click="rout('/' + $route.params.class + '/' + $route.params.SUB + '/' + $route.params.chap+'/chart')">Charts</div>
+      <div v-on:click="rout('/' + $route.params.class + '/' + $route.params.SUB + '/' + $route.params.chap+'/ppt')">PPTs</div>
+      <div v-on:click="rout('/' + $route.params.class + '/' + $route.params.SUB + '/' + $route.params.chap+'/video')">Videos</div>
+    </div> -->
     <div class="man">
         <div
           class="component"
           v-on:click="
-            rout('/' + $route.params.class + '/' + $route.params.SUB + '/' + a)
+            rout('/' + $route.params.class + '/' + $route.params.SUB + '/' + aa)
           "
-          v-for="a in links[$route.params.class][$route.params.SUB][$route.params.chap][$route.params.COMP]"
-          :key="a"
+          v-for="aa in links[$route.params.class][$route.params.SUB][$route.params.chap][$route.params.COMP]"
+          :key="aa"
         >
-          Chapter {{ a['title'] }}
-          <div v-html="a['link']"></div>
-          <div v-if="a.description==undefined">Class __ Subject __ Chapter __ Video</div>
-          <div v-else>{{a['description']}} </div>
+          Chapter {{ aa['title'] }}
+          <div v-html="aa['link']"></div>
+          <div v-if="aa.description==undefined">Class {{$route.params.class}}  Subject {{$route.params.SUB}} Chapter {{$route.params.chap}} - {{aa['type']}}</div>
+          <div v-else>{{aa['description']}} </div>
            
         </div>
 
@@ -32,9 +32,15 @@
 
 
 <script>
-import links from "../links.js";
+import links from "../assets/links.js";
+import router from "../router";
 
 export default {
+  methods: {
+    rout(dest) {
+      router.push(dest);
+    },
+  },
   data: function () {
 
     return {links};

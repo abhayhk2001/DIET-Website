@@ -2,14 +2,6 @@
   <div class="wrapper">
     <div
       class="Grade"
-      style="
-        background: rgba(80, 227, 194, 0.25);
-        box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
-        backdrop-filter: blur(4px);
-        -webkit-backdrop-filter: blur(4px);
-        border-radius: 10px;
-        border: 1px solid rgba(255, 255, 255, 0.18);
-      "
     >
       <h2>Class 1</h2>
       <div class="subject" v-on:click="rout('/1/EVS')">EVS</div>
@@ -58,8 +50,10 @@ export default {
 *:after {
   box-sizing: border-box;
   margin: 0;
-  padding: 0;
+  paddng: 0;
 }
+
+
 
 main {
   margin: 2rem;

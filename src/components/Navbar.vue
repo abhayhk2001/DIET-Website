@@ -1,10 +1,20 @@
 <template>
+<div>
     <div id="nav">
       <span class="nav-element"><router-link to="/">Home</router-link></span>  
       <span class="nav-element"><router-link to="/about">About</router-link></span>  
       <span class="nav-element"><router-link to="/class">Class</router-link></span>  
-      <span class="nav-element"><router-link to="/subject">Temp subject(remove later)</router-link></span>  
+      <div v-if="$route.params.chap!= undefined" style="float: right;">
+        <!-- <span  class="nav-element"><router-link to="/subject">Temp subject(remove later)</router-link></span> -->
+        <span  class="nav-element" v-on:click="rout('/' + $route.params.class + '/' + $route.params.SUB + '/' + $route.params.chap+'/activity')">Activity Sheets</span>
+        <span  class="nav-element" v-on:click="rout('/' + $route.params.class + '/' + $route.params.SUB + '/' + $route.params.chap+'/ar')">AR Video</span>
+        <span  class="nav-element" v-on:click="rout('/' + $route.params.class + '/' + $route.params.SUB + '/' + $route.params.chap+'/chart')">Charts</span>
+        <span  class="nav-element" v-on:click="rout('/' + $route.params.class + '/' + $route.params.SUB + '/' + $route.params.chap+'/ppt')">PPTs</span>
+        <span  class="nav-element" v-on:click="rout('/' + $route.params.class + '/' + $route.params.SUB + '/' + $route.params.chap+'/video')">Videos</span>
+      </div>
     </div>
+
+</div>
 </template>
 
 <style> 
@@ -31,7 +41,14 @@
 </style>
 
 <script>
+import router from "../router";
+
 export default ({
+    methods: {
+    rout(dest) {
+      router.push(dest);
+    },
+  },
   name : 'Navbar'
 })
 </script>

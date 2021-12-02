@@ -1,10 +1,10 @@
 <template>
   <div class="wrapper">
-    <div v-html="aaa"></div>
-    <div class="Grade">
+    <!-- <div v-html="aaa"></div>  delete thsi line after next step-->
+    <div class="Subj-subject">
       <h2>{{ $route.params.SUB }} {{ $route.params.class }}</h2>
       <div
-        class="subject"
+        class="Chapter-subject"
         v-on:click="
           rout('/' + $route.params.class + '/' + $route.params.SUB + '/' + a+'/video')
         "
@@ -19,7 +19,7 @@
 
 <script>
 import router from "../router";
-import links from "../links.js";
+import links from "../assets/links.js";
 
 export default {
   methods: {
@@ -28,100 +28,9 @@ export default {
     },
   },
   data: function () {
-    let chapterlist = {
-      1: "Lalu and Peelu",
-      2: "Clap Clap Clap",
-      3: "Looking Around",
-    };
-
-    let chapterlist2 = {
-      1: {},
-      2: {},
-      3: {
-        EVS: {
-          1: "evsPoonam's Day Out",
-          2: "The Plant Fairy",
-          3: "Water O’ Water",
-          4: "Our First School",
-          5: "Chhotu’s House",
-          6: "Foods We Eat",
-          7: "Saying Without Speaking",
-          8: "Flying High",
-          9: "It’s Raining",
-          10: "What Is Cooking",
-          11: "From Here To There",
-          12: "Work We Do",
-          13: "Sharing Our Feelings",
-          14: "The Story Of Food",
-          15: "Making Pots",
-          16: "Games We Play",
-          17: "Here Comes A Letter",
-          18: "A House Like This",
-          19: "Our Friends Animals",
-          20: "Drop By Drop",
-          21: "Families Can Be Different",
-          22: "Left Right",
-          23: "A Beautiful Cloth",
-          24: "Web Of Life",
-        },
-        ENG: {
-          1: "ENG3Poonam's Day Out",
-          2: "The Plant Fairy",
-          3: "Water O’ Water",
-          4: "Our First School",
-          5: "Chhotu’s House",
-          6: "Foods We Eat",
-          7: "Saying Without Speaking",
-          8: "Flying High",
-          9: "It’s Raining",
-          10: "What Is Cooking",
-          11: "From Here To There",
-          12: "Work We Do",
-          13: "Sharing Our Feelings",
-          14: "The Story Of Food",
-          15: "Making Pots",
-          16: "Games We Play",
-          17: "Here Comes A Letter",
-          18: "A House Like This",
-          19: "Our Friends Animals",
-          20: "Drop By Drop",
-          21: "Families Can Be Different",
-          22: "Left Right",
-          23: "A Beautiful Cloth",
-          24: "Web Of Life",
-        },
-        MATH: {
-          1: "mat3Poonam's Day Out",
-          2: "The Plant Fairy",
-          3: "Water O’ Water",
-          4: "Our First School",
-          5: "Chhotu’s House",
-          6: "Foods We Eat",
-          7: "Saying Without Speaking",
-          8: "Flying High",
-          9: "It’s Raining",
-          10: "What Is Cooking",
-          11: "From Here To There",
-          12: "Work We Do",
-          13: "Sharing Our Feelings",
-          14: "The Story Of Food",
-          15: "Making Pots",
-          16: "Games We Play",
-          17: "Here Comes A Letter",
-          18: "A House Like This",
-          19: "Our Friends Animals",
-          20: "Drop By Drop",
-          21: "Families Can Be Different",
-          22: "Left Right",
-          23: "A Beautiful Cloth",
-          24: "Web Of Life",
-        },
-      },
-    };
+    
     let aaa = `<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3GC9LSyNaGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`;
     return {
-      chapterlist,
-      chapterlist2,
       links,
       aaa,
     };
@@ -161,7 +70,7 @@ h1 {
   margin: 2rem 0;
 }
 
-.Grade {
+.Subj-subject {
   box-shadow: 0px 0px 20px var(--clr-graymed);
   border-radius: var(--border-radius);
   padding: 2rem;
@@ -180,7 +89,7 @@ border: 1px solid rgba( 255, 255, 255, 0.18 );
 */
 }
 
-.subject {
+.Chapter-subject {
   box-shadow: 0px 0px 20px var(--clr-graymed);
   border-radius: var(--border-radius);
   padding: 1rem;
