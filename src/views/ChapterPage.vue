@@ -1,5 +1,5 @@
 <template >
-  <div class="chapter-page" >
+  <div class="chapter-page">
     <!-- <div class="navbar-container">
       <div class="heading"><h1>Chapter Sections</h1></div>
       <div v-on:click="rout('/' + $route.params.class + '/' + $route.params.SUB + '/' + $route.params.chap+'/activity')">Activity Sheets</div>
@@ -9,22 +9,25 @@
       <div v-on:click="rout('/' + $route.params.class + '/' + $route.params.SUB + '/' + $route.params.chap+'/video')">Videos</div>
     </div> -->
     <div class="man">
-        <div
-          class="component"
-          v-on:click="
-            rout('/' + $route.params.class + '/' + $route.params.SUB + '/' + aa)
-          "
-          v-for="aa in links[$route.params.class][$route.params.SUB][$route.params.chap][$route.params.COMP]"
-          :key="aa"
-        >
-          Chapter {{ aa['title'] }}
-          <div v-html="aa['link']"></div>
-          <div v-if="aa.description==undefined">Class {{$route.params.class}}  Subject {{$route.params.SUB}} Chapter {{$route.params.chap}} - {{aa['type']}}</div>
-          <div v-else>{{aa['description']}} </div>
-           
+      <div
+        class="component"
+        v-on:click="
+          rout('/' + $route.params.class + '/' + $route.params.SUB + '/' + aa)
+        "
+        v-for="aa in links[$route.params.class][$route.params.SUB][
+          $route.params.chap
+        ][$route.params.COMP]"
+        :key="aa"
+      >
+        Chapter {{ aa["title"] }}
+        <div v-html="aa['link']"></div>
+        <div v-if="aa.description == undefined">
+          Class {{ $route.params.class }} Subject
+          {{ $route.params.SUB }} Chapter {{ $route.params.chap }} -
+          {{ aa["type"] }}
         </div>
-
-
+        <div v-else>{{ aa["description"] }}</div>
+      </div>
     </div>
   </div>
 </template>
@@ -42,17 +45,14 @@ export default {
     },
   },
   data: function () {
-
-    return {links};
+    return { links };
   },
-  
 };
 </script>
 
 
 
 <style>
-
 :root {
   --clr-primary: #12e7c0;
   --clr-graylight: #f3f3f3;
@@ -75,11 +75,9 @@ export default {
 }
 .chapter-page {
   display: flex;
-  overflow:auto;
+  overflow: auto;
   height: 100%;
-
 }
-
 
 .man {
   padding: 2rem;
@@ -92,7 +90,7 @@ export default {
 .component {
   box-shadow: 0px 0px 20px var(--clr-graymed);
   border-radius: var(--border-radius);
-  padding: 1rem;  
+  padding: 1rem;
   margin: 1rem 0 1rem 0;
   background: white;
   text-align: center;

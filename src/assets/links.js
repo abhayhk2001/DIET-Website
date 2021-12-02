@@ -9,7 +9,7 @@ var a = {
   },
   1: {
     EVS: {},
-    MATH: {
+    MAT: {
       1: {
         name: "Shapes and Space",
         activity: [{ title: "", type: "", link: ``, description: "" }],
@@ -225,7 +225,7 @@ var a = {
         video: [{ title: "", type: "", link: ``, description: "" }],
       },
     },
-    MATH: {
+    MAT: {
       1: {
         name: "What is Long,What is round?",
         activity: [{ title: "", type: "", link: ``, description: "" }],
@@ -756,7 +756,7 @@ var a = {
       19: { name: "How Creatures Move" },
       20: { name: "The Ship of the Desert" },
     },
-    MATH: {
+    MAT: {
       1: { name: "Where To Look From" },
       2: { name: "Fun With Numbers" },
       3: { name: "Give And Take" },

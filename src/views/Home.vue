@@ -3,12 +3,10 @@
     <div class="logos">
       <div class="img"><img src="../assets/rv.jpeg" alt="" /></div>
       <div class="img"><img src="../assets/diet.jpg" alt="" /></div>
-      <div class="img"><img src="../assets/rv.jpeg" alt="" /></div>
+      <div class="img"><img src="../assets/cwc.jpeg" alt="" /></div>
     </div>
     <div class="heading">
-      <h1>
-        A Collaboration between RV College Of Engineering, DIET,Ramanagara, NGO
-      </h1>
+      <h1>A Collaboration between RVCE, DIET and CWC.</h1>
     </div>
   </div>
 </template>
@@ -27,13 +25,13 @@ export default {
   align-items: center;
   width: 100vw;
   padding: 5vh 0;
-  margin-bottom: 3vh;
 }
 
 .logos {
   display: flex;
   flex-direction: row;
   flex-wrap: wr;
+  margin-bottom: 4vh;
   width: 100vw;
 }
 

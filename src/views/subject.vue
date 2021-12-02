@@ -6,12 +6,20 @@
       <div
         class="Chapter-subject"
         v-on:click="
-          rout('/' + $route.params.class + '/' + $route.params.SUB + '/' + a+'/video')
+          rout(
+            '/' +
+              $route.params.class +
+              '/' +
+              $route.params.SUB +
+              '/' +
+              a +
+              '/video'
+          )
         "
         v-for="(b, a) in links[$route.params.class][$route.params.SUB]"
         :key="a"
       >
-        Chapter {{ a }} - {{ b['name'] }}
+        Chapter {{ a }} - {{ b["name"] }}
       </div>
     </div>
   </div>
@@ -28,7 +36,6 @@ export default {
     },
   },
   data: function () {
-    
     let aaa = `<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3GC9LSyNaGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`;
     return {
       links,
@@ -92,6 +99,7 @@ border: 1px solid rgba( 255, 255, 255, 0.18 );
 .Chapter-subject {
   box-shadow: 0px 0px 20px var(--clr-graymed);
   border-radius: var(--border-radius);
+  cursor: pointer;
   padding: 1rem;
   width: 100%;
   margin: 1rem 0 1rem 0;

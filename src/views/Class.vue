@@ -1,8 +1,6 @@
 <template>
   <div class="wrapper">
-    <div
-      class="Grade"
-    >
+    <div class="Grade">
       <h2>Class 1</h2>
       <div class="subject" v-on:click="rout('/1/EVS')">EVS</div>
       <div class="subject" v-on:click="rout('/1/MAT')">Math</div>
@@ -53,8 +51,6 @@ export default {
   paddng: 0;
 }
 
-
-
 main {
   margin: 2rem;
 }
@@ -98,5 +94,6 @@ border: 1px solid rgba( 255, 255, 255, 0.18 );
   margin: 1rem 0 1rem 0;
   background: white;
   text-align: center;
+  cursor: pointer;
 }
 </style>
