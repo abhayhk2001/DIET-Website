@@ -2,23 +2,77 @@
   <div class="wrapper">
     <div v-bind:style="{ backgroundColor: links[1]['colour'] }" class="Grade">
       <h2>Class 1</h2>
-      <div class="subject" v-on:click="rout('/1/EVS')">EVS</div>
-      <div class="subject" v-on:click="rout('/1/MAT')">Math</div>
-      <div class="subject" v-on:click="rout('/1/ENG')">English</div>
+      <div
+        class="subject"
+        v-on:click="rout('/1/EVS')"
+        v-bind:style="{ backgroundColor: links[1]['EVS']['colour'] }"
+      >
+        EVS
+      </div>
+      <div
+        class="subject"
+        v-bind:style="{ backgroundColor: links[1]['MAT']['colour'] }"
+        v-on:click="rout('/1/MAT')"
+      >
+        Math
+      </div>
+      <div
+        class="subject"
+        v-bind:style="{ backgroundColor: links[1]['ENG']['colour'] }"
+        v-on:click="rout('/1/ENG')"
+      >
+        English
+      </div>
     </div>
 
     <div v-bind:style="{ backgroundColor: links[2]['colour'] }" class="Grade">
       <h2>Class 2</h2>
-      <div class="subject" v-on:click="rout('/2/EVS')">EVS</div>
-      <div class="subject" v-on:click="rout('/2/MAT')">Math</div>
-      <div class="subject" v-on:click="rout('/2/ENG')">English</div>
+      <div
+        class="subject"
+        v-bind:style="{ backgroundColor: links[1]['EVS']['colour'] }"
+        v-on:click="rout('/2/EVS')"
+      >
+        EVS
+      </div>
+      <div
+        class="subject"
+        v-bind:style="{ backgroundColor: links[1]['MAT']['colour'] }"
+        v-on:click="rout('/2/MAT')"
+      >
+        Math
+      </div>
+      <div
+        class="subject"
+        v-bind:style="{ backgroundColor: links[1]['ENG']['colour'] }"
+        v-on:click="rout('/2/ENG')"
+      >
+        English
+      </div>
     </div>
 
     <div v-bind:style="{ backgroundColor: links[3]['colour'] }" class="Grade">
       <h2>Class 3</h2>
-      <div class="subject" v-on:click="rout('/3/EVS')">EVS</div>
-      <div class="subject" v-on:click="rout('/3/MAT')">Math</div>
-      <div class="subject" v-on:click="rout('/3/ENG')">English</div>
+      <div
+        class="subject"
+        v-bind:style="{ backgroundColor: links[1]['EVS']['colour'] }"
+        v-on:click="rout('/3/EVS')"
+      >
+        EVS
+      </div>
+      <div
+        class="subject"
+        v-bind:style="{ backgroundColor: links[1]['MAT']['colour'] }"
+        v-on:click="rout('/3/MAT')"
+      >
+        Math
+      </div>
+      <div
+        class="subject"
+        v-bind:style="{ backgroundColor: links[1]['ENG']['colour'] }"
+        v-on:click="rout('/3/ENG')"
+      >
+        English
+      </div>
     </div>
   </div>
 </template>

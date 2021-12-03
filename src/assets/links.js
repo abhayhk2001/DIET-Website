@@ -9,8 +9,11 @@ var a = {
   },
   1: {
     colour: "#8F99FF",
-    EVS: {},
+    EVS: {
+      colour: "#FEEFD6",
+    },
     MAT: {
+      colour: "rgb(183 241 255)",
       1: {
         name: "Shapes and Space",
         activity: [{ title: "", type: "", link: ``, description: "" }],
@@ -117,11 +120,14 @@ var a = {
       },
     },
 
-    ENG: {},
+    ENG: {
+      colour: "rgb(216 255 225)",
+    },
   },
   2: {
     colour: "#FFC6BF",
     EVS: {
+      colour: "#FEEFD6",
       1: {
         name: "Invention of the Wheel",
         activity: [{ title: "", type: "", link: ``, description: "" }],
@@ -228,6 +234,7 @@ var a = {
       },
     },
     MAT: {
+      colour: "rgb(183 241 255)",
       1: {
         name: "What is Long,What is round?",
         activity: [{ title: "", type: "", link: ``, description: "" }],
@@ -350,6 +357,7 @@ var a = {
       },
     },
     ENG: {
+      colour: "rgb(216 255 225)",
       1: {
         name: "First Day at School",
         activity: [{ title: "", type: "", link: ``, description: "" }],
@@ -515,6 +523,7 @@ var a = {
   3: {
     colour: "#A6FBCE",
     EVS: {
+      colour: "#FEEFD6",
       1: {
         name: "Poonam's Day Out",
         activity: [
@@ -522,6 +531,7 @@ var a = {
             title: "Puzzles",
             type: "img",
             link: '<iframe src="https://drive.google.com/file/d/1Qsabarxsp2IeT27szUE20R6MP77AZWuv/preview" width="100%" height="100%" allow="autoplay"></iframe>',
+            description: "http://3rdclassevs.website2.me/",
           },
         ],
         arvr: [],
@@ -738,7 +748,42 @@ var a = {
       },
     },
     ENG: {
-      1: { name: "Good Morning" },
+      colour: "rgb(216 255 225)",
+      1: {
+        name: "Good Morning",
+        activity: [{ title: "", type: "", link: ``, description: "" }],
+        arvr: [{ title: "", type: "", link: ``, description: "" }],
+        chart: [
+          {
+            title: "Chart for Good Morning",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/1DRBGgdiBwWS4IwXuHjekd_IcGYPPmxHX/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Chart explaining the poem",
+          },
+        ],
+        ppt: [
+          {
+            title: "Presentation for Good Morning",
+            type: "ppt",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRn1pYLCkYZrYDP5MY7eMxcOj2yEac9etIX0qORgFdtdUrnyk-61naYsclKxVkCRw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "Enjoy the PPT",
+          },
+        ],
+        video: [
+          {
+            title: "Good Morning",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1ySZv8IzNtNswXeMi-4P5_LDO4QAMrLNF/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "AR app Screen Recording",
+          },
+          {
+            title: "Good Morning Explained",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1d4knXDVdubckIpiLtnSz-3uQeXUyAS9O/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Visual explanation of the chapter",
+          },
+        ],
+      },
       2: { name: "The Magic Garden" },
       3: { name: "Bird Talk" },
       4: { name: "Nina and the Baby Sparrows" },
@@ -760,6 +805,7 @@ var a = {
       20: { name: "The Ship of the Desert" },
     },
     MAT: {
+      colour: "rgb(183 241 255)",
       1: { name: "Where To Look From" },
       2: { name: "Fun With Numbers" },
       3: { name: "Give And Take" },

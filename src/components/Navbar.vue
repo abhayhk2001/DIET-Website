@@ -96,6 +96,7 @@
   top: 0;
   padding: 3vh 5vw;
   background: #fc002a94;
+  font-size: 1.2rem;
 }
 
 #nav a {

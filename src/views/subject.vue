@@ -1,6 +1,5 @@
 <template>
   <div class="wrapper">
-    <!-- <div v-html="aaa"></div>  delete thsi line after next step-->
     <div
       class="Subj-subject"
       v-bind:style="{ backgroundColor: links[$route.params.class]['colour'] }"
@@ -21,8 +20,13 @@
               '/video'
           )
         "
+        v-bind:style="{
+          backgroundColor:
+            links[$route.params.class][$route.params.SUB]['colour'],
+        }"
         v-for="(b, a) in links[$route.params.class][$route.params.SUB]"
         :key="a"
+        :visible="a !== 'colour'"
       >
         Chapter {{ a }} - {{ b["name"] }}
       </div>
@@ -88,9 +92,10 @@ export default {
 .Subj-subject {
   box-shadow: 0px 0px 20px var(--clr-graymed);
   border-radius: var(--border-radius);
-  padding: 2rem 15rem;
+  padding: 2rem 7rem;
   width: 90%;
-  margin: 0 1rem 4rem;
+  max-width: 100rem;
+  margin: 3rem 10rem 4rem;
   background: white;
   text-align: center;
 }
@@ -100,7 +105,7 @@ export default {
   border-radius: var(--border-radius);
   cursor: pointer;
   padding: 1rem;
-  width: 100%;
+  max-width: 70rem;
   margin: 1rem 0 1rem 0;
   background: white;
   text-align: center;
