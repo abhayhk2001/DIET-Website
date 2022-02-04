@@ -12,108 +12,583 @@ var a = {
     MAT: {
       colour: "rgb(183 241 255)",
       1: {
-        name: "Shapes and Space",
+        name: "Shapes and Spaces",
         activity: [{ title: "", type: "", link: ``, description: "" }],
         ar: [{ title: "", type: "", link: ``, description: "" }],
         chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        ppt: [
+          {
+            title: "Shapes and Spaces",
+            type: "pptx",
+            link: `<iframe src="https://drive.google.com/file/d/1fouPZAEr-UgSMEtdcuCvAlTzBbVL4DUB/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "PPT based on the chapter",
+          },
+          {
+            title: "Shapes and Spaces",
+            type: "pptx",
+            link: `<iframe src="https://drive.google.com/file/d/18pDKJ2zegwGYmFaWxMCbTxV8F4zifeBT/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "PPT based on the chapter",
+          },
+        ],
+        video: [
+          {
+            title: "Shapes and Spaces",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/1q3uNNbTAiBLxvlFafs_TcCM8X_1biBU-/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video on the chapter",
+          },
+          {
+            title: "Shapes and Spaces",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/1hE004P4nc_LzwB-mwYy3XBqyviLCNm9E/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video on the chapter",
+          },
+          {
+            title: "Shapes and Spaces",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/1ZGMwyrUMZKng-jR2QjEhheNXDL1LlHDq/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video on the chapter",
+          },
+          {
+            title: "Shapes and Spaces",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/1dtYW9XiSeWAXCsubwkMfyo20kTiUu_U9/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video on the chapter",
+          },
+        ],
       },
       2: {
-        name: "Numbers from One to Nine",
+        name: "Numbers from 1 to 9",
         activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        ar: [
+          {
+            title: "Numbers from 1 to 9",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/1evNvF_QEucYikdq_mXwCxvrM7YPu2PYm/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "AR/VR implementation",
+          },
+        ],
+        chart: [
+          {
+            title: "Numbers from 1 to 9",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/1RyS-2_TBbWWUizFzbIYsc-CdYVcnj_hE/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Chart on the chapter",
+          },
+        ],
+
+        ppt: [
+          {
+            title: "Numbers from 1 to 9",
+            type: "pptx",
+            link: `<iframe src="https://drive.google.com/file/d/1_7ROSecrbRwN1cP4DJ7Gn7eX-Q5R1YM_/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "PPT based on the chapter",
+          },
+        ],
+        video: [
+          {
+            title: "Numbers from 1 to 9",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/11NAP-kbywo51mzDDXS7EzeLBLRod3xm5/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video based on the chapter",
+          },
+          {
+            title: "Numbers from 1 to 9",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/13hECnoYQM9lWDFOB3eWtNajPte1K9rvt/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video based on the chapter",
+          },
+          {
+            title: "Numbers from 1 to 9",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/1guDVswRVxzHExfkcZHZIpxo98uwsjJdY/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video based on the chapter",
+          },
+        ],
       },
       3: {
         name: "Addition",
         activity: [{ title: "", type: "", link: ``, description: "" }],
         ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        chart: [
+          {
+            title: "Addition",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/1xyBdNOePnTkSFia0NNLXCO1vbbqyW-Bv/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Addition",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/1OpRyA5xL3_ApIHBeA0IYRS5WY0oJhPUr/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
+        ppt: [
+          {
+            title: "Addition",
+            type: "pptx",
+            link: `<iframe src="https://drive.google.com/file/d/1oAd0FVS3dgNIxtI-_IXvz-hBan59OWu3/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "PPT based on the chapter",
+          },
+          {
+            title: "Addition",
+            type: "pptx",
+            link: `<iframe src="https://drive.google.com/file/d/1INgUslXZzHM3McCCmqYWZ3BuqFzfDIaA/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "PPT based on the chapter",
+          },
+        ],
+        video: [
+          {
+            title: "Addition",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/11QcvYwRl8mZANu23AqO6rj7INyLxlNeq/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video based on the chapter",
+          },
+          {
+            title: "Addition",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/1IBLxOal8vWHi0hDN6g-Wj-6m9iSZRyF2/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video based on the chapter",
+          },
+          {
+            title: "Addition",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/1vMvHExQQ5PV6rHSs1KQtuM3_w_t9O-4N/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video based on the chapter",
+          },
+        ],
       },
       4: {
         name: "Subtraction",
         activity: [{ title: "", type: "", link: ``, description: "" }],
         ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        chart: [
+          {
+            title: "Subtraction",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/11yANZMJ_gBM1O455pWCtEQEbx0oyzOV9/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Chart based on the chapter",
+          },
+          {
+            title: "Subtraction",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/1ImB0vMd46XE_zm4obze1JIagl6cT1X2o/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Chart based on the chapter",
+          },
+        ],
+
+        ppt: [
+          {
+            title: "Subtraction",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/1NPSRvJB2SP5PmAPaDWl01XEiq4hdCL0C/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "PPT based on the chapter",
+          },
+          {
+            title: "Subtraction",
+            type: "pptx",
+            link: `<iframe src="https://drive.google.com/file/d/1vE6z7pTkPjwz1GacReJqeL0GmWwFWEh3/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "PPT based on the chapter",
+          },
+        ],
+        video: [
+          {
+            title: "Subtarction",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/1WP5Nxj-JO9_unS7KUEsOn_lCgvZPrU3f/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video based on the chapter",
+          },
+          {
+            title: "Subtarction",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/1xDICbYo8cx3P9QkChPvkau7kDa0M1oxW/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video based on the chapter",
+          },
+        ],
       },
       5: {
-        name: "Number form Ten to Twenty",
+        name: "Numbers from 10 to 20",
         activity: [{ title: "", type: "", link: ``, description: "" }],
         ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        chart: [
+          {
+            title: "Numbers from 10 to 20",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/1O68uwDvzmHkoUr6umqopj-3APLTDzosg/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Chart based on the chapter",
+          },
+        ],
+        ppt: [
+          {
+            title: "Numbers from 10 to 20",
+            type: "pptx",
+            link: `<iframe src="https://drive.google.com/file/d/1M-AaqW90QQ6wNDRaLVIUfYg3M3K27X_v/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "PPT Based on the chapter",
+          },
+          {
+            title: "Numbers from 10 to 20",
+            type: "pptx",
+            link: `<iframe src="https://drive.google.com/file/d/1rut5Ob4ZNqw6W-WXeYjknVcTakRIqxVD/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "PPT Based on the chapter",
+          },
+          {
+            title: "Numbers from 10 to 20",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/1hQGHscrA5bY5NhpcxM5SLw70LeZbz_pm/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Demonstration Based on the chapter",
+          },
+        ],
+        video: [
+          {
+            title: "Numbers from 10 to 20",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/1md2-r2_Izyc8q1jdEzG1LDa9nMmbVOsR/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video based on the chapter",
+          },
+          {
+            title: "Numbers from 10 to 20",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/1YHEBwGszywpDgIrBFDLytpXbVHKV5-rj/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video based on the chapter",
+          },
+        ],
       },
       6: {
         name: "Time",
         activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        ar: [
+          {
+            title: "",
+            type: "",
+            link: ``,
+            description: "",
+          },
+        ],
+        chart: [
+          {
+            title: "Time",
+            type: "jpeg",
+            link: `<iframe src="https://drive.google.com/file/d/1wlD5W76qdMhpN5w4D6BlrAmYtDCudK3W/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Chart based on the chapter",
+          },
+          {
+            title: "Time",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/10PJpXMhVi-LKaTGmACEsxZPl6XF8UF2-/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Chart based on the chapter",
+          },
+        ],
+        ppt: [
+          {
+            title: "Time",
+            type: "pptx",
+            link: `<iframe src="https://drive.google.com/file/d/12qqeFw-6Db6lPAvNT1n0-X93L1BgdTJ0/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "PPT based on the chapter",
+          },
+          {
+            title: "Time",
+            type: "pptx",
+            link: `<iframe src="https://drive.google.com/file/d/1d_I32ltq9mgAI9uslsXL3fUglH6HXrJ7/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "PPT based on the chapter",
+          },
+        ],
+        video: [
+          {
+            title: "Time",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/1yZYidqxkmu4nCZtjvUje-nJZzxj8D93e/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video based on the Chapter",
+          },
+        ],
       },
       7: {
         name: "Measurement",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [
+          {
+            title: "Measurement",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/1YedjwvRd6Uhs9ly2lZaZfaVcCrFndcCH/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Activity sheet based on the chapter",
+          },
+        ],
         ar: [{ title: "", type: "", link: ``, description: "" }],
         chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        ppt: [{ title: "", type: "p", link: ``, description: "" }],
+        video: [
+          {
+            title: "Measurement",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/1QTTgJfMaopM0P7ipeozM98KKv_ZTnP9N/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video based on the chapter",
+          },
+          {
+            title: "Measurement",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/1A_JnJ436WF68wqHzg0HSAolMwIF0kFlW/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video based on the chapter",
+          },
+          {
+            title: "Measurement",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/17_PWXVNC3aBFLH1BwaiqRBqxhkpfiD7J/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video based on the chapter",
+          },
+          {
+            title: "Measurement",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/1MNy57zZtOEAzjUp3PaaKv3oVNIqHsFhG/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video based on the chapter",
+          },
+          {
+            title: "Measurement",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/16TzsaG3cQU1fzy2zrn6Yj-NVuYkXe8cE/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video based on the chapter",
+          },
+          {
+            title: "Measurement",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/1zYFewkHEkY8H0Llya_vN_vQ90rOWZ0Ob/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video based on the chapter",
+          },
+        ],
       },
       8: {
-        name: "Numbers form Twenty-one to Fifty",
+        name: "Numbers from 21 to 50",
         activity: [{ title: "", type: "", link: ``, description: "" }],
         ar: [{ title: "", type: "", link: ``, description: "" }],
         chart: [{ title: "", type: "", link: ``, description: "" }],
         ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        video: [
+          {
+            title: "Numbers from 21 to 50",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/1gaBS4fwtyYOUT79u4XHVY2QObV_4Y68I/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video based on the chpater",
+          },
+          {
+            title: "Numbers from 21 to 50",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/1FTunpcMgPpnFdKMzou7-S_0vnyKgdn8P/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video based on the chpater",
+          },
+          {
+            title: "Numbers from 21 to 50",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/1xrNJn0fqQA7m0rHaVX9xsrDaRqmTDufN/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video based on the chpater",
+          },
+          {
+            title: "Numbers from 21 to 50",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/172CSWYOhjT924OQYos6NVX8btjEObrvX/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video based on the chpater",
+          },
+        ],
       },
       9: {
-        name: "Data Handling",
+        name: "Data handling",
         activity: [{ title: "", type: "", link: ``, description: "" }],
         ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
+        chart: [
+          {
+            title: "Play with Shapes",
+            type: "jpg",
+            link: `<iframe src="https://drive.google.com/file/d/1HnzmAtNlwaL9G890PTCGvIgww3Av32Ny/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Chart based on the chapter",
+          },
+          {
+            title: "Play with Shapes",
+            type: "jpg",
+            link: `<iframe src="https://drive.google.com/file/d/1HnMwWEp_hW0HIeyL33O1TYfNFLfU5Ctf/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Chart based on the chapter",
+          },
+        ],
         ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        video: [
+          {
+            title: "Data handling",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/10Gz_dcQie1MkY1QdJOD3bwAzTG9vsYdm/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video based ont the chapter",
+          },
+        ],
       },
       10: {
         name: "Patterns",
         activity: [{ title: "", type: "", link: ``, description: "" }],
         ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        chart: [
+          {
+            title: "Patterns",
+            type: "jpeg",
+            link: `<iframe src="https://drive.google.com/file/d/1l0Da9luS518W7foI6_283EjfvTUpTDdX/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Chart based on the chapter",
+          },
+          {
+            title: "Patterns",
+            type: "jpeg",
+            link: `<iframe src="https://drive.google.com/file/d/1gmwxYJ4Ahygs857mwW8XGgPoYqOBuNQt/preview" width="640" height="480" allow="autoplay"></iframe><iframe src="https://drive.google.com/file/d/1gmwxYJ4Ahygs857mwW8XGgPoYqOBuNQt/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Chart based on the chapter",
+          },
+        ],
+        ppt: [
+          {
+            title: "Pattern",
+            type: "pptx",
+            link: `<iframe src="https://drive.google.com/file/d/179ofdfeLTEH2UlHeIKEjrIGJ0VNAfw8j/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "PPT based on the chapter",
+          },
+          {
+            title: "Pattern",
+            type: "pptx",
+            link: `<iframe src="https://drive.google.com/file/d/137rXbNzgItl8VZXqZSxr7Mis33WmCvOJ/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "PPT based on the chapter",
+          },
+          {
+            title: "Pattern",
+            type: "pptx",
+            link: `<iframe src="https://drive.google.com/file/d/1A8I4y3EUyP2ik-L9A8Qgq6GYYCD3TcQ_/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "PPT based on the chapter",
+          },
+        ],
+        video: [
+          {
+            title: "Patterns",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/1S-2gJawBGkH3GI0hrA8aWx7tgbwb6AFe/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video based on the chapter",
+          },
+          {
+            title: "Patterns",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/1bmxBl5M5hxtv-0B6iJopVjlK0sLjah8f/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video based on the chapter",
+          },
+        ],
       },
       11: {
-        name: "Numbers",
+        name: "Number",
         activity: [{ title: "", type: "", link: ``, description: "" }],
         ar: [{ title: "", type: "", link: ``, description: "" }],
         chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        ppt: [
+          {
+            title: "Number",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/1pxEl8ldxPkOJk2IMbHPTb17T4Kh1HJjZ/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "PPT based on the chapter",
+          },
+          {
+            title: "Number",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/15woaGLcDBlvJi8b4b1_1H142hu7KeQNP/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "PPT based on the chapter",
+          },
+          {
+            title: "Number",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/1jPE6ME8BX7BfdvflGySfyhTWIoWsjKOc/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "PPT based on the chapter",
+          },
+          {
+            title: "Number",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/1zkUR_edzRSP0UlA7kM2IgEhFIjmanfpY/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "PPT based on the chapter",
+          },
+        ],
+        video: [
+          {
+            title: "Number ",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/1_i1OYEFLzLu1T5Q3vLOYlI-g6po6o5Xr/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video based on the chapter",
+          },
+          {
+            title: "Number ",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/1T6JMk43YjcsD50EEvOdk4KuoKPDnJCwX/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video based on the chapter",
+          },
+        ],
       },
       12: {
         name: "Money",
         activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
+        ar: [
+          {
+            title: "",
+            type: "",
+            link: ``,
+            description: "",
+          },
+        ],
         chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        ppt: [
+          {
+            title: "Money",
+            type: "pptx",
+            link: `<iframe src="https://drive.google.com/file/d/1TZsP3vXjzdVEdZcirvJus-pD-BcPPt49/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "PPT based on the chapter",
+          },
+          {
+            title: "Money",
+            type: "pptx",
+            link: `<iframe src="https://drive.google.com/file/d/1TLojDJMBAwuJ8gLMWvJexQJgzudS-CkV/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "PPT based on the chapter",
+          },
+          {
+            title: "Money",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/1X-uW-uuLE3PUeQfknhFd9bPZD43V1-Ho/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "PPT based on the chapter",
+          },
+          {
+            title: "Money",
+            type: "pptx",
+            link: `<iframe src="https://drive.google.com/file/d/1TYgK8WJkGBUBMsQXb6i_g1BZKMy_ZBv4/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "PPT based on the chapter",
+          },
+        ],
+        video: [
+          {
+            title: "Money",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/1fuC1onbOG8JjFAMLUw-cr66nUgIl3297/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video based on the chapter",
+          },
+
+          {
+            title: "Money",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/1UFmgY_4U6_byNVXZQBA3rWiDEdpBYy0G/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video based on the chapter",
+          },
+        ],
       },
       13: {
-        name: "How Many",
+        name: "How many",
         activity: [{ title: "", type: "", link: ``, description: "" }],
         ar: [{ title: "", type: "", link: ``, description: "" }],
         chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        ppt: [
+          {
+            title: "How many",
+            type: "pptx",
+            link: `<iframe src="https://drive.google.com/file/d/1QgKPHs6SLQwWGuAiScoHbnoZLK1G66I0/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "PPT based on the chapter",
+          },
+        ],
+        video: [
+          {
+            title: "How many",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/15X2MMAfvb3C8t19Z4wLleSnoOh_ZJZjd/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video based on the chapter",
+          },
+        ],
       },
     },
     EVS: {
@@ -378,6 +853,382 @@ var a = {
           },
         ],
       },
+      4: {
+        name: "Let Us Play",
+        activity: [
+          {
+            title: "Odd one Out",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1TCLFVOIYAH26zJx-nU-QdyTyzo36xCiG/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Identify the Following",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1_63xR8C2d98nsZq0GBzKy3orJBbEkXxq/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Fill in the Blanks",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1-I9OefGcsSjbYJc7z4dOGAuDC3ssPQdA/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Colour the games",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1_NhvVSWjSDrxJRTpw-Gviz-wTy7EIGu3/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
+        ar: [
+          {
+            title: "Let Us Play",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1pxwh3XRgfcjw3CXpx4NxtCnxEHqHIX2N/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
+        chart: [
+          {
+            title: "Safety",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1VPu9M4kE94wAkyO0JbpVkJTCM3Zsdvrx/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Let Us Play",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1FqDcsUlaVN_DIjV765ZCln3vEsBb6x9u/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
+        ppt: [
+          {
+            title: "Dice",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1NFQg26nWvHPn2ppjLtPA-QagWtrsqq6N/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
+        video: [
+          {
+            title: "Let US Play",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1xGEwscW5ZBWErD3mxbmhYpaEzSBCki-M/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Demo Kit",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1Vp-6OcqFyq2Vpn1dThBvRh35IpG5AAQu/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
+      },
+      5: {
+        name: "Knowing Me",
+        activity: [
+          {
+            title: "Knowing Me",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1BY2uABnpXQpQMVtYVNqZgzCiSwoY8JlQ/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
+        ar: [
+          {
+            title: "Knowing Me",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1LXtYGW3UK80_1SnbL4vpat52ZZVfE-2y/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
+        chart: [
+          {
+            title: "Knowing Me",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1enlG61pH11AtG2rvBJaIHU5GWHdZCkH7/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Knowing Me",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1Wcs7Xh60ksYWsWLpBcVYWODSF-tRptqC/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
+        ppt: [
+          {
+            title: "Knowing Me",
+            type: "",
+            link: `<iframe src="https://docs.google.com/document/d/e/2PACX-1vSe03KrVBlOmbEIS3SlopSn2HPxX1SiUcFUzXSoYJi2sQsgUT65uc3OHQViM5Q-2w/pub?embedded=true"></iframe>`,
+            description: "",
+          },
+        ],
+        video: [
+          {
+            title: "Working Model",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1e51c5xG0Ms9cm2B0VsMECz2heWMEXYxM/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Knowing Me",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1jCqi1i5HfWewHrPoQ5Cz5cJI_Lbk48Cg/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
+      },
+      6: {
+        name: "Food So Good",
+        activity: [
+          {
+            title: "Vada",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1FYeZBEdshvRQk7ZrBKRKkwOudhO-EWQ-/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Dosa",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/11iz4hcjvTn8T7qJS2yJn7UClxiEHbjzJ/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Chow Chow Bath",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1pOVLBGL7hJP4Ip6MsygKPwv5Lcg89GRZ/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Akki Rotti",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1CgTNOelllLVEjEijR4De025j4ImlwJgl/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Biryani",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1LrL-B44Zbq4JRrXTCzpsrJQPeOgl7A5t/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
+        ar: [{ title: "", type: "", link: ``, description: "" }],
+        chart: [
+          {
+            title: "Food Habits",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1d29yHl6C-m_waNgtNSrfpdvdByyy0T6_/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Healty Eating",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1kQ0O6104LtRR71-sGLPZVUsEblbwXm5t/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
+        ppt: [
+          {
+            title: "Demo Kit",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/19OPjQrfKMQpsyvHme9_v8V6h4zZckpVk/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
+        video: [
+          {
+            title: "Food So Good",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1sfPCnVosyJsSK9B-OBex4rWDXI_bEDFz/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
+      },
+      7: {
+        name: "Water Water ...",
+        activity: [{ title: "", type: "", link: ``, description: "" }],
+        ar: [
+          {
+            title: "Working Model",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1otxIKvfwN2BNpwAf2Ga3kLOnbFGJoEqy/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
+        chart: [
+          {
+            title: "Chart Preparation",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1A-ORcMOni207wLLidUnHn_-kainrOIpk/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
+        ppt: [{ title: "", type: "", link: ``, description: "" }],
+        video: [
+          {
+            title: "Demo Kit",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1yr8lbC3jOwnNOFaiZHzLbrvplfYOUjI9/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Water Saving",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1CZibQ2Vl-7mqzFEMqTi5ay2iTGHh6ELR/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Sources Of Water",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1-N-QtpJ1gvNuqhtUfvCBS0fILJH25ZNU/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
+      },
+      8: {
+        name: "On Wheels",
+        activity: [
+          {
+            title: "Activity Sheet",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1cso7GMue7ej92sYQnPE1O2JpxlvQEb23/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
+        ar: [{ title: "", type: "", link: ``, description: "" }],
+        chart: [
+          {
+            title: "On Wheels",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1A2pjyU4zwvZoI4f5sbCK6CECWlUaQzRs/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
+        ppt: [{ title: "", type: "", link: ``, description: "" }],
+        video: [
+          {
+            title: "On Wheels",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1uyxfI63GXR7b-qKlOVJZ0S3sbrr_S_2U/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "On Wheels",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1DaY3zTBhGragu05Xv5UArMDx6FN60p-J/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Paper Boat",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1Vb3pHHr58mxP-fW3FF4NH1EusZCCLfmH/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Paper Airplane",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1eneKzDsZDYDqkhz8_KmX5I_VgnmcaJK-/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
+      },
+      9: {
+        name: "Around Us",
+        activity: [
+          {
+            title: "Activity 1",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1qeH8xvGLdgpra0Lpnw_UqWupSm4ghIav/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Activity 2",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1RkJbOJFvhJ_JE98kOgm_DO3kOOqN2i31/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
+        ar: [{ title: "", type: "", link: ``, description: "" }],
+        chart: [
+          {
+            title: "Chart Video",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1NBpaBgKl4kYoLSSIJWUXS9qkDW8Lpaid/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Chart Closed",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1Qnzm8Xtb7E7_OGG683BtAtrR_I3Qb5W3/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Chart Open",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1DELkHn8fnd6ICrvestpJcx5_4sm5hQ80/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
+        ppt: [{ title: "", type: "", link: ``, description: "" }],
+        video: [
+          {
+            title: "Working Model",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1_WdV-gyV_F9cKmhmYVtFxxKIDAwN0gZX/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Video",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1D-clUJMoLr921in1AawDhaXLj4YUXbrX/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
+      },
+      10: {
+        name: "Look at the Sky",
+        activity: [
+          {
+            title: "Match the Following",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1RNbA1LXRC4DWsS75MYZXRrI6NtTMmbtQ/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Activity 2",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1VnmPi3eV98gV4rnG74si2OcV7n951hht/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Activity 3",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/12JZHuaGPwCU7gZEA7TaF4PZxjKZpussa/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
+        ar: [{ title: "", type: "", link: ``, description: "" }],
+        chart: [
+          {
+            title: "Lesson Chart",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/14oMUSVr6gaP72GSbLwBaDeDaud2GTlUd/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
+        ppt: [{ title: "", type: "", link: ``, description: "" }],
+        video: [
+          {
+            title: "Working Model",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/14HQK5yS2YzkYnAbUwDbg0Jn8vlzkdj67/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
+      },
     },
     ENG: {
       colour: "rgb(216 255 225)",
@@ -520,7 +1371,7 @@ var a = {
         video: [{ title: "", type: "", link: ``, description: "" }],
       },
       5: {
-        name: "Chapter 5", // chapter name
+        name: "Chapter 5",
         activity: [{ title: "", type: "", link: ``, description: "" }],
         ar: [
           {
