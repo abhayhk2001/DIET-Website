@@ -3,6 +3,7 @@
     <div
       class="Subj-subject"
       v-bind:style="{ backgroundColor: links[$route.params.class]['colour'] }"
+      
     >
       <h2 class="class-heading">
         Class {{ $route.params.class }} - {{ names[$route.params.SUB] }}
@@ -17,7 +18,7 @@
               $route.params.SUB +
               '/' +
               a +
-              '/video'
+              '/activity'
           )
         "
         v-bind:style="{
@@ -114,5 +115,8 @@ export default {
 
 .Chapter-subject:hover {
   transform: scale(1.01);
+}
+.visable{
+  display: block;
 }
 </style>

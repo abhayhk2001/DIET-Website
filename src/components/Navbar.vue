@@ -12,6 +12,40 @@
         <!-- <span  class="nav-element"><router-link to="/subject">Temp subject(remove later)</router-link></span> -->
         <span
           class="nav-element"
+          v-show="parseInt($route.params.chap)> 1"
+          v-on:click="
+            rout(
+              '/' +
+                $route.params.class +
+                '/' +
+                $route.params.SUB +
+                '/' +
+                (parseInt($route.params.chap) -1 ) +
+                '/'+
+                $route.params.COMP
+            )
+          "
+          >prev</span
+        >
+        <span
+          class="nav-element"
+          v-show="parseInt($route.params.chap)< Object.keys(links[3]['EVS']).length -1 "
+          v-on:click="
+            rout(
+              '/' +
+                $route.params.class +
+                '/' +
+                $route.params.SUB +
+                '/' +
+                (parseInt($route.params.chap) +1 ) +
+                '/'+
+                $route.params.COMP
+            )
+          "
+          >next</span
+        >
+        <span
+          class="nav-element"
           v-on:click="
             rout(
               '/' +
@@ -125,12 +159,18 @@
 
 <script>
 import router from "../router";
-
+import links from "../assets/links.js";
 export default {
   methods: {
     rout(dest) {
       router.push(dest);
     },
+  },
+  data: function() {
+    // console.log(Object.keys(links[3]['EVS']).length); checkign the length of the chapters
+    return {
+      links: links,
+    };
   },
   name: "Navbar",
 };
