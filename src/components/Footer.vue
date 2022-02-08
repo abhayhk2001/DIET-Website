@@ -9,12 +9,12 @@
       <div class="diet">
         <span>DIET</span>
         <span>Ramanagara</span>
-        <span>&lt;email&gt;</span>
+        <span>chandrikashyana@gmail.com</span>
       </div>
       <div class="diet">
         <span>CWC</span>
         <span>Bengaluru</span>
-        <span>&lt;email&gt;</span>
+        <span>syed.atheeq@caringwithcolour.org</span>
       </div>
     </div>
   </div>
