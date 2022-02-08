@@ -1,5 +1,6 @@
 <template >
   <div class="wrapper">
+  <!-- <div>aaa</div> -->
     <div
       class="component"
       v-bind:style="{
@@ -11,7 +12,9 @@
       ][$route.params.COMP]"
       :key="aa"
     >
-      Chapter {{ aa["title"] }}
+      <span v-if="aa.title == ''">{{links[$route.params.class][$route.params.SUB][$route.params.chap]['name']}}</span>
+      <span v-else>Chapter {{ aa["title"] }}</span> 
+      
       <div v-html="aa['link']"></div>
       <span v-if="aa.description == undefined">
         Class {{ $route.params.class }} Subject {{ $route.params.SUB }} Chapter
