@@ -2486,19 +2486,19 @@ var a = {
         ],
         video: [
           {
-            title: "Birds comee and go",
+            title: "Birds come and go",
             type: "mp4",
             link: `<iframe src="https://drive.google.com/file/d/1gQwiaUxMMnGnHQgHHMwGQLrard2vp-IL/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "Video based on the chapter",
           },
           {
-            title: "Birds comee and go",
+            title: "Birds come and go",
             type: "mp4",
             link: `<iframe src="https://drive.google.com/file/d/1YC7TFbgUQxlO2OeCWc_2TetGuaNqtu7h/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "Video based on the chapter",
           },
           {
-            title: "Birds comee and go",
+            title: "Birds come and go",
             type: "mp4",
             link: `<iframe src="https://drive.google.com/file/d/1eO4xxrRNebVzuCYRScfjYxNwHYmu3v4T/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "Video based on the chapter",
@@ -2531,163 +2531,921 @@ var a = {
       colour: "rgb(216 255 225)",
       1: {
         name: "First Day at School",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [
+          {
+            title: "Worksheet",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQUyG-l3xQ_9LxEoFm-n8IICJdf07MYsdFOSrNKkUy4HcQBzVInISl5uxr1102IJA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Poem 1,2,3",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1LZaBgxsCSMmv0-TKBaG61CO-c_oixwR6/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
+        ar: [
+          {
+            title: "ar1",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1ssSafZR84UZ0z2fMfqTmTd0rBUEamt_p/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "ar2",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1XI0qLjIDBoPSsMimpT9pWqJeflSzGTDy/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "ar3",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1E0YhEo42VpbrEFlfmlrjtxJr-qk8hW6R/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "ar4",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1E3vTloQD_E2xJDbI3l62qzdONFLCPfGN/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "ar5",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1EFW4AuVEg-FQWLAzJ-cIFKFLu881QYmI/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
         chart: [{ title: "", type: "", link: ``, description: "" }],
         ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        video: [
+          {
+            title: "First Day At School",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1Tcb-OtDzsHzCMvoDMz8vNPOODNNJVQ-1/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
       },
       2: {
         name: "Haldi’s Adventure",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [
+          {
+            title: "act1",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1R_52mMQXZo4zh41c2VBzACc0UjVXbnOb/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
         ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        chart: [
+          {
+            title: "SAIL BARK SING PLAY RING",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1ys8l6v-qwYi8leTfAGISOnw_S7-wbUDG/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
+        ppt: [
+          {
+            title: "I WANT",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/11KmlRvRBtxcISuMZJUvjJjjsNtDuxhby/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "PPT2",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSSz-ZGs7bilDPxCYGmTLee4dyG-vA2_pUJJtfntPNh_9hZ40XU78F4QD18pg8ZAA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+          {
+            title: "I am Lucky",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRz6fgSAWjnC9_1hxHKOYQ6QDAvyC-mvi6MtgQXG2RLsUAkmwsn-v0ssJSvRYLWKg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+        ],
+        video: [
+          {
+            title: "HALDI'S ADVENTURE",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1MK_PqchCraObbKRM-6SzsZI3cthR_5-b/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "ar",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1IvWHhghWS7XEwCMi5zEOWQlDCsfiBUQq/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
       },
       3: {
         name: "I am Lucky!",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [
+          {
+            title: "ACT1",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRpBCB45Wi46aAf4BuT_ETtsfdsv5C6CriFDV0cZa94r6WF0mJAM4A6OzTvMcXXIA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+          {
+            title: "ACT2",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1r4fTn4hNvIc0jLmJOtrYpolW7zK11UG5/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "ACT3",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1rh8LFAU0RDmPFr6CH4D0xmXDjLc63YnZ/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
+        ar: [
+          {
+            title: "IF YOU'RE AND YOU KNOW IT",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1JMaW-iJ4shswJk3Bkyr0fOzQf4pnmv1S/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "ER2",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1w6WYXiNY6Ob2UYRj79BP0LdhsS6wd5-q/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
+        chart: [
+          {
+            title: "I am Lucky",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/15Pd6_InY5A4LLV-2C-zijI6E4Q1HskPd/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
+        ppt: [
+          {
+            title: "PPT1",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRqErSOaGTq08qw9Suzz4ItUnTROoD3kU33_KCSx9gUkVtY-szgLTEs1NMebMY0Yg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+          {
+            title: "PPT2",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSMAzI7NuQP2bVKPoAnXbzt-ab_erXaCYc1UdZngmL_XGKfeeWD-IJ-B0hey_hwrA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="2111" height="1216" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+        ],
+        video: [
+          {
+            title: "Marigold",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1dMwB4XStf74gwWvF0yMvntfq0-b1tgci/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "vid1",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1S-qmikevElCCWqMrls6diD7D9BQwEGeW/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "vid2",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1oaBspkPfJYGoZgEN8SlCGOzn7P0WjFJN/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
       },
       4: {
         name: "I Want",
         activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        ar: [
+          {
+            title: "Rain",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1Se3zC_jPKKn0urxYwTnwWQR6PK5imKqb/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Storm In The Garden",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1FgxVLkwu_NL-4HE8uuurxOLW76wVMRQZ/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
+        chart: [
+          {
+            title: "I want",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1KBDWYCaXIT7lVAoN6-jxMQEARNTHHBtN/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
+        ppt: [
+          {
+            title: "ppt1",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQC1b6WGYmhxveNfdV16kqMlCRNPwpZc3fJXBHadXdC3XFfKvXWO8YriZJf45aR1g/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+          {
+            title: "pdf2",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1ef5LReSlxkNub3HR6rpBqEijz4nYkGuH/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "pdf3",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1bo-63oA66d5YryZIHDXnYNHbvXOpk5cb/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "pdf4",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQB_uZH7s8sb6-KGTXBuAGi_va9fJxpDILl-GifojTAWJPl3XdzFlA-xagJNTo9wQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+        ],
+        video: [
+          {
+            title: "I Want",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1OQ_n9v6R9GdFl1ccbOJ1xcAaME3Gb388/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
       },
       5: {
         name: "A Smile",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [
+          {
+            title: "GUESS THE SILENT LETTER",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/18PVWbWZWIndJxAFWg8_mBTsjmRxhZpxX/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "AC2",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1rij4uJ0esO76bkjriqFvZEf51ekYbWHE/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "AC3",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/10KPApLG2ATdIEFrnLMdxxV1CvR9tvusD/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "AC4",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1NrV69Ux7JsDsCG1-Kq_MDWd74U8laYhq/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "SNAKE AND LADDER",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/17oK--XwW3cQum2VHmdpQkVUysEWthzCn/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
+        ar: [
+          {
+            title: "ON THE WAY,THEY MET LUCKY DUCKY",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1qMn1LtxHOxPd2_8Y31yiglJUQBQT_Z7L/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "ZOO MANNERS",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQQkRmbp72MeyyEIDuBvFPD1OhyGPHyzAvtdo8Hgo4sIYLKc4bvWxidF4Qlfr1dwA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+          {
+            title: "FUNNY BUNNY",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQppChFzvmUGAOKfwPotirKiavdAfKswdkWaJ0M5bL1Cf_mm_2qlb4TRG--eELh5Q/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+          {
+            title: "ZOO MANNERS",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1r8BtpTUggRxOPSlma5X78CnOy1aDhBtf/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
         chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        ppt: [
+          {
+            title: "ppt1",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/18PVWbWZWIndJxAFWg8_mBTsjmRxhZpxX/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "img2",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1rij4uJ0esO76bkjriqFvZEf51ekYbWHE/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "img3",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/10KPApLG2ATdIEFrnLMdxxV1CvR9tvusD/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "img4",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1NrV69Ux7JsDsCG1-Kq_MDWd74U8laYhq/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "img5",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/17oK--XwW3cQum2VHmdpQkVUysEWthzCn/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
+        video: [
+          {
+            title: "A SMILE",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1Poto9SJusomn3knfmTqQlf7IvWPm2JC3/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
       },
       6: {
         name: "The Wind and the Sun",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [
+          {
+            title: "act1",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1Re9n7uIwI4mIFL0uXXmTeRK2FcFzCEdK/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "act2",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1-tsw0Bp4HHnn3ss2UTHOSEtSVYM8rEKL/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
+        ar: [
+          {
+            title: "ar1",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1VUtJpNGCYaPUiPwTNqxUkLBtTHG9MfuF/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "ar2",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1JKRJgTjT86GxvMzrkyviP_853KXKWkfB/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "ar3",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1J10NF5hXEZN15vJFOttmT93zZFbUxsLT/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
+        chart: [
+          {
+            title: "char1",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1NObgnTGveRpA-w0E6NI9UWZ8ynH_f4rw/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
+        ppt: [
+          {
+            title: "ppt1",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQXDWkyX83H4b_FKa0RsyJoRHvdaaFiYe3Maf6dBaBEIhbUW8R1hg2L4TOwJ3NF9Q/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+          {
+            title: "ppt2",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSLLDXCXHzoOnQZ2Hbl_X8Zs6i-PXLdxa9-yYkx_nxIlYL8IWk0nwKIXuvNPmtg_g/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+          {
+            title: "ppt3",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRjgwY8Ih4aXgnai8WcZthilBt7oGEyRxZeDSN3KDw0lvnKPxxelooz9DRUVpI8jg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+          {
+            title: "ppt4",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTp2zaoAB1OQjJShc9xdRnxD604e_mDH1t_wWZbxJZxO8zzvon9fK4p123ruJRGLA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+        ],
+        video: [
+          {
+            title: "vid1",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1qRe-x8uz3BTmoCq5HXL_jWQMunf9FbI3/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
       },
       7: {
         name: "Rain",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [
+          {
+            title: "act1",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1r5UpPo6LbL1_VlD5EuD09kWRtV5scgIF/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "act2",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1oJQwf4xnTeiQd8MuxAHG7KXf0Ljm57qw/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
         ar: [{ title: "", type: "", link: ``, description: "" }],
         chart: [{ title: "", type: "", link: ``, description: "" }],
         ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        video: [
+          {
+            title: "rain",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1zwPn89inmNegcSfZtm-ffdCQJQSeUU_7/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "vid2",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1AS4uP5EPrvCGGO7jLBtXFWmg7bUvzVO-/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
       },
       8: {
         name: "Storm in the Garden",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [
+          {
+            title: "act1",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRUj5KNuBAdym-rcIUrMtwakzFaWOkAak77Lv1nLgWLe3XnetMkE7lMTZCY1wYw1g/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+          {
+            title: "act2",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSaafajnyFJzixI81mCz-tU8hTYZoVa1LFQB12nHy2-dOGR7QENB99eAH16tVQJLg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+          { title: "", type: "", link: ``, description: "" },
+        ],
+        ar: [
+          {
+            title: "ar1",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1mMKxMWlLyn1xf4HoOqk_Lv9gNJqUbO2Y/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "ar2",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1lh7G_5uqOftwdKNuF4WwSNj56GziS9gq/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "vid3",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1arYuPb_dK0Ef6BNI1szm8deyfY8wSTUV/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
+        chart: [
+          {
+            title: "char1",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/11HINJ0lOT1u6CUuT0qvnvOKlkHrtPm06/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "char2",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1NvyOwPcvdywhrMiPIH56J35uAD9X1fHs/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "char3",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1lx4W01eJI_6zE7F93QqsYYXPeC9wZRwP/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
+        ppt: [
+          {
+            title: "ppt1",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTrQMhlHn0kkef6mkPNTa1lwirMm5UitVmUbqBCRscW35AVl59fgFAwc0GEyNXWow/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+        ],
+        video: [
+          {
+            title: "vid1",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1nZNC5Ed0ZrjHqtLUlOpzZeXV_pnF7-gl/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "vid2",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1s5ByniyE5UTVpqmDrP_vAH7VOI4qPsyG/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
       },
       9: {
         name: "Zoo Manners",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [
+          {
+            title: "act",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ3-wjWB1sn0NPjJUbhv2y6BybDUYe_T8GWHdRr8m4W_KSHJW7OqOVLKfOMf-Winw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+        ],
         ar: [{ title: "", type: "", link: ``, description: "" }],
         chart: [{ title: "", type: "", link: ``, description: "" }],
         ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        video: [
+          {
+            title: "vid1",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1dxFqwOawgZW9rvwYzGNl5zMSfBV-D_qi/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "vid2",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1QKGHMsyiLBPbqOpojMkDJNTe7Wn1BtWi/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "vid3",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1kLuvVJnIsvA3iKBE_7AfwshDvfcGPGzr/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "vid4",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1vhGiYwowigARVB-OiYPpUkI5qQB3PlVo/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
       },
       10: {
         name: "Funny Bunny",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [
+          {
+            title: "To The Fort",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ5vgs9IHa8e9fILnB6jmAU5VuT3YSyCL1dEgGbqmol84DYkNqs1dgKx1ThmfvOew/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+        ],
         ar: [{ title: "", type: "", link: ``, description: "" }],
         chart: [{ title: "", type: "", link: ``, description: "" }],
         ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        video: [
+          {
+            title: "To The Fort",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1_8mNdY8ufSv4uTQe0NdWUoAR6fDDpANW/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
       },
       11: {
         name: "Mr. Nobody",
         activity: [{ title: "", type: "", link: ``, description: "" }],
         ar: [{ title: "", type: "", link: ``, description: "" }],
         chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        ppt: [
+          {
+            title: "Mr.Nobody & TheZigZagBoy",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRh4N1CyjNwvSVYOTJEDXX5QfSFfsZrX8qEwYdqMYt8YKXcJSCD8aLDp8NuGkV0tw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Curlylocks and the Three Bears.",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRXFENxttVUIZSfWHL1sIyxLy9tOphrZhSVVSLg4FNbRNDM2B6EvjQqaogmzB_ZSQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+        ],
+        video: [
+          {
+            title: "Mr.Nobody",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1oBOIrYNtj40HnH093WqUUr-STotl0Vj8/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
       },
       12: {
         name: "Curlylocks and the Three Bears",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [
+          {
+            title: "activity sheet",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1BAHdym3Xyvh0067UL9m7iP7NQzPstYR3/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
         ar: [{ title: "", type: "", link: ``, description: "" }],
         chart: [{ title: "", type: "", link: ``, description: "" }],
         ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        video: [
+          {
+            title: "once there was a girl with curly hair",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1MN5F0XbsdZuxqzmHZhKenar75yv_jSs_/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "the zig zag boy",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1iu4ppyEh-xeuxEW5wiO4NHxpBBwYaZ9C/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
       },
       13: {
         name: "On My Blackboard I can Draw",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [
+          {
+            title: "Opposites",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR-icG-c3_9jpMCWAQLg3NWG4E6dyLq3ULOujHGo6aQVLsgen5s5QKFVmKjKXy0-A/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+          {
+            title: "ON MY BLACK BOARD I CAN DRAW",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1xddLX-iHucjfip2Anmb8UognXpKJRfEL/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
         ar: [{ title: "", type: "", link: ``, description: "" }],
         chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        ppt: [
+          {
+            title: "activity sheet",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTDPvxC2ELcp29pXKMdoaPBTl-LX9q3t7b6oYzzSH4FNh_4VoD5TWrUGXktVIimzA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+        ],
+        video: [
+          {
+            title: "On my black board i can draw",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1eC8p_G4lf4sKFPuB3T_9OGDPcRbrakIA/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
       },
       14: {
         name: "Make it Shorter",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [
+          {
+            title: "PREPOSITIONS",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSiecRFWzC7FXx5XYO14a1O2Q6mtZ_eUBi2xvM8pKBc4DmrftWziyNqJfJ0cBFJiw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+        ],
         ar: [{ title: "", type: "", link: ``, description: "" }],
         chart: [{ title: "", type: "", link: ``, description: "" }],
         ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        video: [
+          {
+            title: "Make It Shorter",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1y8QmXm5jXijeNb6EwcG4IxqHmeJxELv3/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
       },
       15: {
         name: "I am the Music Man",
         activity: [{ title: "", type: "", link: ``, description: "" }],
         ar: [{ title: "", type: "", link: ``, description: "" }],
         chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
+        ppt: [
+          {
+            title: "ppt",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT6FGUv_d3fxD1IYz1KhuCES-p_0P0fnpTP75LYy-WpCJGLWhfyHpzfnkHntOKcxQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+          {
+            title: "ppt2",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRKLzdu_mgpHEsC4D6Aww-J80hcP856ZXFz_BTHcptaRjsuii5fojgmU7n30Hso_Q/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+        ],
         video: [{ title: "", type: "", link: ``, description: "" }],
       },
       16: {
         name: "The Mumbai Musicians",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [
+          {
+            title: "Music Instrument",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSezxUDoY3W1SzT_OZdt4gbvDI_FwGbnkM4D_wjYHZDp9SroRBqMwA-oEHY3XSZ6w/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1365" height="1053" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+        ],
         ar: [{ title: "", type: "", link: ``, description: "" }],
         chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        ppt: [
+          {
+            title: "ppt",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS1IFCFxAZmAlouWdiSKikAcvMw7sW8z8mIzyz9GZykI18UR6CnVS3KrVRqMK_bSQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+        ],
+        video: [
+          {
+            title: "The Music Man",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1cOrkHqY35HBuJVIZ8ABkrXUOK29gbtxv/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "vid",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1L8YD0usESphDdBpRUpSQoTPpcoHSdFQd/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
       },
       17: {
         name: "Granny Granny Please Comb my Hair",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [
+          {
+            title: "activi",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1R4d8qFGkRnbuzbcpNutnILyCum_QObfw/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "activ2",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTTyHWawgA3ODcA4EqDogRDeo1Kt9qdQXV_OLw9k6-45Amk4IflkgJu1x3refJvYQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+          {
+            title: "activ3",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSWSh-PvluadmeB6iYSGSqlwhVz8z2DSWRHtoji45rZlNGYIebBVTRDLBLopl89Ag/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+        ],
         ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        chart: [
+          {
+            title: "charts",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1nsjhOo9OJxLxdRrDHVKxOYwGgV6gNnoK/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
+        ppt: [
+          {
+            title: "ppt",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR0qBqvIZVOEKOjtRjMjPlODzaL-tI-eAjDJmoWlwAK9T4mYFzv-aW7llWyfYsgAg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+        ],
+        video: [
+          {
+            title: "My GrandParents",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1ILooakiDrjuXndBfb94CFn7XVdqn8qzg/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
       },
       18: {
         name: "The Magic Porridge Potr",
         activity: [{ title: "", type: "", link: ``, description: "" }],
         ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        chart: [
+          {
+            title: "char",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSIBp9u97lAVt60hH82nOwwEMeWv2q6ornc_2QlRIih48VleNNgKEoTBGjPja3tzQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+        ],
+        ppt: [
+          {
+            title: "ppt",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTBlGFRHrvzhH6A0KK9SeItvyH83VTmVAkkjiUcN911vuq_22GNNM7MxKdCMWp4HA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+        ],
+        video: [
+          {
+            title: "vid",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1FxKfX9A3qPwDCRT3Tjs-jKy3RblPhTTq/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
       },
       19: {
         name: "Strange Talk",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [
+          {
+            title: "act",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1f9iC47eJUnLKGToVNHLHge0pw43Si8m8/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
         ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
+        chart: [
+          {
+            title: "char",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1aq2CyVBdx3UTnTVPf53vmjJ2Zd_hNYVN/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
         ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        video: [
+          {
+            title: "vid",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/13NdKriJNazk1ZNkWgrAdHlM4w2Do16Jn/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
       },
       20: {
         name: "The Grasshopper and the Ant",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [
+          {
+            title: "act",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTGi1Q5MLiEpW_u3uhOd0lRONDz7lqnzihCkOuMtRR1STYHTjbt-4kDFvp34bvXXg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+          {
+            title: "act2",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1Qt3E1SDzaCawN1gJyqF08YCNkpVkWARW/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "act3",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTefGj4jp3FCQXtFzmb4EIGz3H4KEXL7aygoRFQhA4onPxYxzND1oBTea2LHNZvwQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+        ],
         ar: [{ title: "", type: "", link: ``, description: "" }],
         chart: [{ title: "", type: "", link: ``, description: "" }],
         ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        video: [
+          {
+            title: "vid",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1lvNTJVE0sXaSNXuEaZOIJJEi2p_2daDL/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
       },
     },
   },
