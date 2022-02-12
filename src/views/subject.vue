@@ -25,7 +25,7 @@
           backgroundColor:
             links[$route.params.class][$route.params.SUB]['colour'],
         }"
-        v-for="(b, a) in links[$route.params.class][$route.params.SUB]"
+        v-for="(b, a) in chapters"
         :key="a"
         :visible="a !== 'colour'"
       >
@@ -48,6 +48,9 @@ export default {
   data: function () {
     let aaa = `<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3GC9LSyNaGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`;
 
+    let chapters = Object.assign({},links[this.$route.params.class][this.$route.params.SUB]);    
+    delete chapters.colour;
+    
     let names = {
       ENG: "English",
       EVS: "Environmental Studies",
@@ -57,6 +60,7 @@ export default {
       links,
       aaa,
       names,
+      chapters,
     };
   },
 };
@@ -107,7 +111,7 @@ export default {
   cursor: pointer;
   padding: 1rem;
   max-width: 70rem;
-  margin: 1rem 0 1rem 0;
+  margin: 1rem auto 1rem auto;
   background: white;
   text-align: center;
   transition: transform 0.2s;
