@@ -129,12 +129,12 @@
   position: sticky;
   top: 0;
   padding: 3vh 5vw;
-  background: #fc002a94;
+  background: #012BFB;
   font-size: 1.2rem;
 }
 
 #nav a {
-  color: #2c3e50;
+  color: #fafafa;
   text-decoration: none;
   font-weight: bold;
 }
@@ -143,7 +143,7 @@
   text-decoration: underline;
 }
 #nav a.router-link-exact-active {
-  color: #108f56;
+  color: #FB012C;
 }
 
 .nav-element {

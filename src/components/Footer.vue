@@ -24,7 +24,7 @@
 .footer {
   display: flex;
   align-items: center;
-  background: #0228ffa8;
+  background: #FB012C;
   color: black;
   flex-direction: row;
 }
