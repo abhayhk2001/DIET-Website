@@ -8,7 +8,8 @@
   </div>
 </template>
 
-<style >
+<style>
+
 html,
 body {
   font-family: "Playfair Display", serif;
@@ -38,6 +39,7 @@ body {
 <script>
 import Navbar from "@/components/Navbar.vue";
 import Footer from "@/components/Footer.vue";
+import './output.css'
 
 export default {
   name: "App",
