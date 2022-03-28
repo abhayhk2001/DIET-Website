@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div id="nav">
+    <div id="nav" class="xl:text-3xl lg:text-2xl" >
       <span class="nav-element"><router-link to="/">Home</router-link></span>
       <span class="nav-element"
         ><router-link to="/about">About</router-link></span
@@ -176,7 +176,7 @@
   top: 0;
   padding: 3vh 5vw;
   background: #012BFB;
-  font-size: 1.2rem;
+  /* font-size: 1.2rem; */
 }
 
 #nav a {
