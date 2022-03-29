@@ -1,0 +1,8 @@
+{
+  "name": "school website diet",
+  "short_name": "DIET_RVCE",
+  "start_url": "/class",
+  "display": "standalone",
+  "background_colour": "#012bfb",
+  "theme_color": "#012bfb"
+}
