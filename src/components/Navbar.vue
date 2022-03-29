@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div id="nav" class="xl:text-3xl lg:text-2xl" >
+    <div id="nav" class="2xl:text-3xl lg:text-2xl" >
       <span class="nav-element"><router-link to="/">Home</router-link></span>
       <span class="nav-element"
         ><router-link to="/about">About</router-link></span
