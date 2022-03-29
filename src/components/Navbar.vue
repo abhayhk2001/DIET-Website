@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div id="nav" class="2xl:text-3xl lg:text-2xl" >
+    <div id="nav" class="lg:text-2xl 2xl:text-3xl">
       <span class="nav-element"><router-link to="/">Home</router-link></span>
       <span class="nav-element"
         ><router-link to="/about">About</router-link></span
@@ -121,53 +121,68 @@
       </div>
     </div>
 
-    <button v-show="parseInt($route.params.chap)< Object.keys(links[3]['EVS']).length -1 "
-          v-on:click="
-            rout(
-              '/' +
-                $route.params.class +
-                '/' +
-                $route.params.SUB +
-                '/' +
-                (parseInt($route.params.chap) +1 ) +
-                '/'+
-                $route.params.COMP
-            )
-          "
-    
-      v-if="$route.params.chap != undefined" class="max-h-24 m-auto fixed inset-y-24 bottom-4 right-2 bg-red-600 rounded-full hover:bg-red-700 active:shadow-lg mouse shadow transition ease-in duration-200 focus:outline-none float-right">
-      <svg viewBox="0 0 20 20" enable-background="new 0 0 20 20" class="w-6 h-6 inline-block">
-            <path fill="#FFFFFF" d="M16,10c0,0.553-0.048,1-0.601,1H11v4.399C11,15.951,10.553,16,10,16c-0.553,0-1-0.049-1-0.601V11H4.601
+    <button
+      v-show="
+        parseInt($route.params.chap) < Object.keys(links[3]['EVS']).length - 1
+      "
+      v-on:click="
+        rout(
+          '/' +
+            $route.params.class +
+            '/' +
+            $route.params.SUB +
+            '/' +
+            (parseInt($route.params.chap) + 1) +
+            '/' +
+            $route.params.COMP
+        )
+      "
+      v-if="$route.params.chap != undefined"
+      class="mouse fixed inset-y-24 bottom-4 right-2 float-right m-auto max-h-24 rounded-full bg-red-600 shadow transition duration-200 ease-in hover:bg-red-700 focus:outline-none active:shadow-lg"
+    >
+      <svg
+        viewBox="0 0 20 20"
+        enable-background="new 0 0 20 20"
+        class="inline-block h-6 w-6"
+      >
+        <path
+          fill="#FFFFFF"
+          d="M16,10c0,0.553-0.048,1-0.601,1H11v4.399C11,15.951,10.553,16,10,16c-0.553,0-1-0.049-1-0.601V11H4.601
                                     C4.049,11,4,10.553,4,10c0-0.553,0.049-1,0.601-1H9V4.601C9,4.048,9.447,4,10,4c0.553,0,1,0.048,1,0.601V9h4.399
-                                    C15.952,9,16,9.447,16,10z" />
+                                    C15.952,9,16,9.447,16,10z"
+        />
       </svg>
     </button>
-    <button v-show="parseInt($route.params.chap)> 1"
-          v-on:click="
-            rout(
-              '/' +
-                $route.params.class +
-                '/' +
-                $route.params.SUB +
-                '/' +
-                (parseInt($route.params.chap) -1 ) +
-                '/'+
-                $route.params.COMP
-            )
-          "
-    
-      class="hover:translate-x-9 -left-8 w-10 max-h-24 m-auto fixed inset-y-24  bottom-4  bg-red-600 rounded-full hover:bg-red-700 active:shadow-lg mouse shadow transition ease-in duration-200 focus:outline-none float-right">
-      <svg viewBox="0 0 20 20" enable-background="new 0 0 20 20" class="w-6 h-6 inline-block">
-            <path fill="#FFFFFF" d="M16,10c0,0.553-0.048,1-0.601,1H11v4.399C11,15.951,10.553,16,10,16c-0.553,0-1-0.049-1-0.601V11H4.601
+    <button
+      v-show="parseInt($route.params.chap) > 1"
+      v-on:click="
+        rout(
+          '/' +
+            $route.params.class +
+            '/' +
+            $route.params.SUB +
+            '/' +
+            (parseInt($route.params.chap) - 1) +
+            '/' +
+            $route.params.COMP
+        )
+      "
+      class="mouse fixed inset-y-24 -left-8 bottom-4 float-right m-auto max-h-24 w-10 rounded-full bg-red-600 shadow transition duration-200 ease-in hover:translate-x-9 hover:bg-red-700 focus:outline-none active:shadow-lg"
+    >
+      <svg
+        viewBox="0 0 20 20"
+        enable-background="new 0 0 20 20"
+        class="inline-block h-6 w-6"
+      >
+        <path
+          fill="#FFFFFF"
+          d="M16,10c0,0.553-0.048,1-0.601,1H11v4.399C11,15.951,10.553,16,10,16c-0.553,0-1-0.049-1-0.601V11H4.601
                                     C4.049,11,4,10.553,4,10c0-0.553,0.049-1,0.601-1H9V4.601C9,4.048,9.447,4,10,4c0.553,0,1,0.048,1,0.601V9h4.399
-                                    C15.952,9,16,9.447,16,10z" />
+                                    C15.952,9,16,9.447,16,10z"
+        />
       </svg>
     </button>
-
-
-
   </div>
-
 </template>
 
 <style>
@@ -175,7 +190,7 @@
   position: sticky;
   top: 0;
   padding: 3vh 5vw;
-  background: #012BFB;
+  background: #012bfb;
   /* font-size: 1.2rem; */
 }
 
@@ -189,7 +204,7 @@
   text-decoration: underline;
 }
 #nav a.router-link-exact-active {
-  color: #FB012C;
+  color: #fb012c;
 }
 
 .nav-element {
@@ -212,7 +227,7 @@ export default {
       router.push(dest);
     },
   },
-  data: function() {
+  data: function () {
     // console.log(Object.keys(links[3]['EVS']).length); checkign the length of the chapters
     return {
       links: links,
@@ -221,4 +236,3 @@ export default {
   name: "Navbar",
 };
 </script>
-
