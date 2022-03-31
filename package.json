@@ -9,6 +9,7 @@
     "tailwind": "npx tailwindcss -i ./src/input.css -o ./src/output.css --watch"
   },
   "dependencies": {
+    "@headlessui/vue": "^1.5.0",
     "core-js": "^3.19.1",
     "vue": "^3.0.0-beta.1",
     "vue-router": "^4.0.0-alpha.6"
