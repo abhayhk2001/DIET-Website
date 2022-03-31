@@ -93,7 +93,6 @@ export default {
 };
 </script>
 
-
 <style>
 :root {
   --clr-primary: #12e7c0;

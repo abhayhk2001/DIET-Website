@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <Navbar />
+    <!-- <Navbar /> -->
     <NavbarV2 />
     <div class="main-content">
       <router-view />
@@ -37,7 +37,7 @@ body {
 </style>
 
 <script>
-import Navbar from "@/components/Navbar.vue";
+// import Navbar from "@/components/Navbar.vue";
 import NavbarV2 from "@/components/NavbarV2.vue";
 
 import Footer from "@/components/Footer.vue";
@@ -46,7 +46,7 @@ import "./output.css";
 export default {
   name: "App",
   components: {
-    Navbar,
+    // Navbar,
     Footer,
     NavbarV2,
   },
