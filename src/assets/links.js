@@ -13,9 +13,9 @@ var a = {
       colour: "rgb(183 241 255)",
       1: {
         name: "Shapes and Spaces",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
+        ar: [],
+        chart: [],
         ppt: [
           {
             title: "Shapes and Spaces",
@@ -58,8 +58,8 @@ var a = {
         ],
       },
       2: {
-        name: "Numbers from 1 to 9",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
+        name: "Numbers from One to Nine",
+        activity: [],
         ar: [
           {
             title: "Numbers from 1 to 9",
@@ -108,8 +108,8 @@ var a = {
       },
       3: {
         name: "Addition",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
+        ar: [],
         chart: [
           {
             title: "Addition",
@@ -161,8 +161,8 @@ var a = {
       },
       4: {
         name: "Subtraction",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
+        ar: [],
         chart: [
           {
             title: "Subtraction",
@@ -208,9 +208,9 @@ var a = {
         ],
       },
       5: {
-        name: "Numbers from 10 to 20",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
+        name: "Numbers from Ten to Twenty",
+        activity: [],
+        ar: [],
         chart: [
           {
             title: "Numbers from 10 to 20",
@@ -256,7 +256,7 @@ var a = {
       },
       6: {
         name: "Time",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
         ar: [
           {
             title: "",
@@ -312,8 +312,8 @@ var a = {
             description: "Activity sheet based on the chapter",
           },
         ],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
+        ar: [],
+        chart: [],
         ppt: [{ title: "", type: "p", link: ``, description: "" }],
         video: [
           {
@@ -355,11 +355,11 @@ var a = {
         ],
       },
       8: {
-        name: "Numbers from 21 to 50",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
+        name: "Numbers from Twenty-One to Fifty",
+        activity: [],
+        ar: [],
+        chart: [],
+        ppt: [],
         video: [
           {
             title: "Numbers from 21 to 50",
@@ -389,8 +389,8 @@ var a = {
       },
       9: {
         name: "Data handling",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
+        ar: [],
         chart: [
           {
             title: "Play with Shapes",
@@ -405,7 +405,7 @@ var a = {
             description: "Chart based on the chapter",
           },
         ],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
+        ppt: [],
         video: [
           {
             title: "Data handling",
@@ -417,8 +417,8 @@ var a = {
       },
       10: {
         name: "Patterns",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
+        ar: [],
         chart: [
           {
             title: "Patterns",
@@ -469,10 +469,10 @@ var a = {
         ],
       },
       11: {
-        name: "Number",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
+        name: "Numbers",
+        activity: [],
+        ar: [],
+        chart: [],
         ppt: [
           {
             title: "Number",
@@ -516,7 +516,7 @@ var a = {
       },
       12: {
         name: "Money",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
         ar: [
           {
             title: "",
@@ -525,7 +525,7 @@ var a = {
             description: "",
           },
         ],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
+        chart: [],
         ppt: [
           {
             title: "Money",
@@ -570,9 +570,9 @@ var a = {
       },
       13: {
         name: "How many",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
+        ar: [],
+        chart: [],
         ppt: [
           {
             title: "How many",
@@ -637,7 +637,7 @@ var a = {
             description: "",
           },
         ],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
+        ppt: [],
         video: [
           {
             title: "Video Making",
@@ -1015,7 +1015,7 @@ var a = {
             description: "",
           },
         ],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
+        ar: [],
         chart: [
           {
             title: "Food Habits",
@@ -1048,8 +1048,8 @@ var a = {
         ],
       },
       7: {
-        name: "Water Water ...",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
+        name: "Water, Water ...",
+        activity: [],
         ar: [
           {
             title: "Working Model",
@@ -1066,7 +1066,7 @@ var a = {
             description: "",
           },
         ],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
+        ppt: [],
         video: [
           {
             title: "Demo Kit",
@@ -1098,7 +1098,7 @@ var a = {
             description: "",
           },
         ],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
+        ar: [],
         chart: [
           {
             title: "On Wheels",
@@ -1107,7 +1107,7 @@ var a = {
             description: "",
           },
         ],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
+        ppt: [],
         video: [
           {
             title: "On Wheels",
@@ -1151,7 +1151,7 @@ var a = {
             description: "",
           },
         ],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
+        ar: [],
         chart: [
           {
             title: "Chart Video",
@@ -1172,7 +1172,7 @@ var a = {
             description: "",
           },
         ],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
+        ppt: [],
         video: [
           {
             title: "Working Model",
@@ -1210,7 +1210,7 @@ var a = {
             description: "",
           },
         ],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
+        ar: [],
         chart: [
           {
             title: "Lesson Chart",
@@ -1219,7 +1219,7 @@ var a = {
             description: "",
           },
         ],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
+        ppt: [],
         video: [
           {
             title: "Working Model",
@@ -1234,7 +1234,7 @@ var a = {
       colour: "rgb(216 255 225)",
       1: {
         name: "Chapter 1", // chapter name
-        activity: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
         ar: [
           {
             title: "Chapter 1A",
@@ -1263,7 +1263,7 @@ var a = {
             description: "",
           },
         ],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
+        ppt: [],
         video: [
           {
             title: "Lalu & Peelu (Madhukesh & Chakradhar)",
@@ -1281,7 +1281,7 @@ var a = {
       },
       2: {
         name: "Chapter 2", // chapter name
-        activity: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
         ar: [
           {
             title: "Chapter 2",
@@ -1290,8 +1290,8 @@ var a = {
             description: "",
           },
         ],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
+        chart: [],
+        ppt: [],
         video: [
           {
             title: "THE BUBBLE, THE STRAW AND THE SHOE Chapter 2",
@@ -1303,7 +1303,7 @@ var a = {
       },
       3: {
         name: "Chapter 3", // chapter name
-        activity: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
         ar: [
           {
             title: "Chapter 3A",
@@ -1318,7 +1318,7 @@ var a = {
             description: "",
           },
         ],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
+        chart: [],
         ppt: [
           {
             title: "UNIT 3_LALU AND PEELU",
@@ -1350,7 +1350,7 @@ var a = {
       },
       4: {
         name: "Chapter 4", // chapter name
-        activity: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
         ar: [
           {
             title: "Chapter 4",
@@ -1367,12 +1367,12 @@ var a = {
             description: "",
           },
         ],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        ppt: [],
+        video: [],
       },
       5: {
         name: "Chapter 5",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
         ar: [
           {
             title: "Chapter 5",
@@ -1395,7 +1395,7 @@ var a = {
             description: "",
           },
         ],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
+        ppt: [],
         video: [
           {
             title: "Poem Merry Go Round",
@@ -1407,7 +1407,7 @@ var a = {
       },
       6: {
         name: "Chapter 6", // chapter name
-        activity: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
         ar: [
           {
             title: "Chapter 6A",
@@ -1440,13 +1440,13 @@ var a = {
             description: "",
           },
         ],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        chart: [],
+        ppt: [],
+        video: [],
       },
       7: {
         name: "Chapter 7", // chapter name
-        activity: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
         ar: [
           {
             title: "Chapter 7A",
@@ -1461,13 +1461,13 @@ var a = {
             description: "",
           },
         ],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        chart: [],
+        ppt: [],
+        video: [],
       },
       8: {
         name: "Chapter 8", // chapter name
-        activity: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
         ar: [
           {
             title: "Chapter 8A",
@@ -1498,11 +1498,11 @@ var a = {
             description: "",
           },
         ],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        video: [],
       },
       9: {
         name: "Chapter 9", // chapter name
-        activity: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
         ar: [
           {
             title: "Chapter 9",
@@ -1511,7 +1511,7 @@ var a = {
             description: "",
           },
         ],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
+        chart: [],
         ppt: [
           {
             title: "Chapter 9",
@@ -1520,11 +1520,11 @@ var a = {
             description: "",
           },
         ],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        video: [],
       },
       10: {
         name: "Chapter 10", // chapter name
-        activity: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
         ar: [
           {
             title: "Chapter 10A",
@@ -1578,7 +1578,7 @@ var a = {
       },
       11: {
         name: "Chapter 11", // chapter name
-        activity: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
         ar: [
           {
             title: "Chapter 11",
@@ -1587,8 +1587,8 @@ var a = {
             description: "",
           },
         ],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
+        chart: [],
+        ppt: [],
         video: [
           {
             title: "Chapter 11",
@@ -1600,7 +1600,7 @@ var a = {
       },
       12: {
         name: "Chapter 12", // chapter name
-        activity: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
         ar: [
           {
             title: "English our tree ",
@@ -1623,12 +1623,12 @@ var a = {
             description: "",
           },
         ],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        ppt: [],
+        video: [],
       },
       13: {
         name: "Chapter 13", // chapter name
-        activity: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
         ar: [
           {
             title: "Chapter 13",
@@ -1645,8 +1645,8 @@ var a = {
             description: "",
           },
         ],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        ppt: [],
+        video: [],
       },
     },
   },
@@ -1655,79 +1655,471 @@ var a = {
     EVS: {
       colour: "#FEEFD6",
       1: {
-        name: "Invention of the Wheel",
+        name: "My Happy Family",
         activity: [],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
+        ar: [
+          {
+            title: "My Happy Family",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1Zd3afZwLSNbCko1pqp8YeAG3Y9g1NNPA/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
         chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        ppt: [
+          {
+            title: "My Happy Family",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/1uwIvQle5qONg9m8Uu5Es-vjf0vmi4aRM/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
+        video: [
+          {
+            title: "Activity 1",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1IO4kSwp_zYRpE-mZnj401aeVHCZq2h3I/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Worksheet 1",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1bjYrG_vS2d1MjJ6RIh3J5QSavk4sfRvb/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Worksheet 2",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1VXqlYpGbhECIxBiJPdzGlqRTgbIRgqzq/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Worksheet 3",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1MRiM4vcpJJFZJzcLO0L3-AuHRWyFx9A0/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Worksheet 4",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1D_PhjjD-F6gpyi2LgBWDfUUVSORT2Pz4/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
       },
       2: {
-        name: "Good Habits",
+        name: "Animals Around Us",
         activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        ar: [
+          {
+            title: "Animals Around Us",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1PZ8sEEW-cFoIg37ehw5FRn9PuZua8EFm/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
+        chart: [
+          {
+            title: "Chart Animals Around Us",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/140YW0thF3-TmF7JvWvp3zHLSGltYxTcM/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
+        ppt: [
+          {
+            title: "Animals Around Us",
+            type: "ppt",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vResMMB99UlMUYRZydZGvcPej04DoR5gWDnubw48q9ZPIVCU4dbekWvk-PCSvn_wQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Animals Around Us",
+            type: "ppt",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTRHqurFoCDFqZBVYHlL5gIyezukW4po2x9F8nT0PekuNUzu51YPzaoM53_DIseaQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Worksheet",
+            type: "ppt",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSZIlakGLUqKmWmx4II4_PfiGuVVhH9gimHIpA8rV63SFoloLfBnlTQGKlJQ60Icg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1920" height="1109" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+        ],
+        video: [
+          {
+            title: "Animals Around Us",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1M6PswAIdxlLUp108QldKx3pxXikjUiZx/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Animals Around Us",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1FF0UIb07xlWM7bwJBoWJjujYkIvrPrHX/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
       },
       3: {
-        name: "Means of Communication",
+        name: "Plants - Our Life",
         activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
+        ar: [
+          {
+            title: "Plants - Our Life",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1khGtP93pVykQaIoZwGJeubC-t_YzRkaY/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Plants",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1fOlMpXAX33Vofyoi1PR9edTZZC5399am/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
         chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
+        ppt: [],
         video: [{ title: "", type: "", link: ``, description: "" }],
       },
       4: {
-        name: "Clothes",
+        name: "Play Time",
         activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
+        ar: [
+          {
+            title: "Play Time",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1dpJIraOSI0u-L0Ri43PwJoNSybx-sh48/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Play Time",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/14ee_I0TDPQcBV_6OD-_-sHU1-tkn_n9B/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
         chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
+        ppt: [
+          {
+            title: "Let Us Play",
+            type: "ppt",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSqGBJrFR6dL-Ct4xQ7R90_CTGlGB7sz6YyZ9efQhywsMevRJxMegEl7F5LDk4b3Q/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+        ],
         video: [{ title: "", type: "", link: ``, description: "" }],
       },
       5: {
-        name: "World Around Me",
+        name: "I Am Safe !",
         activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
+        ar: [
+          {
+            title: "I Am Safe !",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1vCkSCAZBfRR7tmx4D3v-02BN2HCuWi9k/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
         chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        ppt: [
+          {
+            title: "I Am Safe ! - 1",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSCP41KGZPV9uBsdshA51vmUpMM9YdkiLEKlUGenLkskRJuch807t4SkYz41G9kkw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+          {
+            title: "I Am Safe ! - 2",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSLxfqPl48V4RLsl1Lt6-5I7hSHe4i5cFbvyHs3rx_b0Hf0UYaEJCMCYkIjaSyGMQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+          {
+            title: "I Am Safe ! - 3",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1mWDYcv9K_rKCBF4cTmq0jgYzZS0ZZZ5a/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "I Am Safe ! - 4",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/169N67a6hd0AM88Pck107avO0wDKeb-L8/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "I Am Safe ! - 5",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRcVVVpwLNsNZ7JxYfv_Fvp7bociZMQCj2CnSXSNBKzKFOLcIgVzkTQGZNcqTKk-w/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+        ],
+        video: [
+          {
+            title: "I Am Safe ! - 1",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1OA8KOPUn5GmbDrixTmy1OAuFG4X0POIK/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "I Am Safe ! - 2",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1EvGrUTZgm2MMn9FtTmV3PYGtK4vvST4v/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "I Am Safe ! - 3",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1wHah_lmEwY_Ql38g3jfyinrfIQnwZSu1/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "I Am Safe ! - 4",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1JRS0EhsFAwA88HFJzQetgNSzxcNCa8GU/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
       },
       6: {
-        name: "Get To Know Me",
+        name: "Our Food",
         activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
+        ar: [
+          {
+            title: "Our Food",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1CNODz8fh_RtsFrFaPPXEUqDIuxRBGJFs/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
         chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        ppt: [
+          {
+            title: "Worksheet 1 ",
+            type: "ppt",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSxbHhmtYuuVPzadrbkdz-2DhCe3L1j-ZopAz8AJipSG2CYZci0EGD-eQHS5fBKBw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Worksheet 2",
+            type: "ppt",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR25iQWyBJ_d-YILncsSR0IKcVIucPvhMatyrXa3KlmQXofztlwSflWpt9yK0_Uvw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Worksheet 3,4",
+            type: "ppt",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRgIVFjQz1bQ6F5F329SGgzcVpQIuCTPXsbQX5yM3j_0ziwYZY-6RYLnioB1N5iYg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Activity 4",
+            type: "ppt",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTlfcnw-hRk_tni1nFAq1LS6yRJmOKXrwU_rpczJvTcbWjpbrJV5mmzToltpzv2Yw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="2560" height="1469" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Activity 2",
+            type: "ppt",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR_YDZg84QTD9nG1bKDH0bpmoyjwMzsczb9MPb2boZ-9rfAc_4yy5E7prAsTZamEw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Activity 2.2",
+            type: "ppt",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQyIEUQ3MJZmStX9X3J6FVq6YIu5EgZACfwBznAFyuWoP2mRhQlSbzUtaObVTCR3A/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Activity 3",
+            type: "ppt",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTyTZWhEolYm8z2ho_Pzp0PhZjzkvrK8R9A5CwE4Xrb8gTewhiklYDsTw98AQCuyg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Activity 6",
+            type: "ppt",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRrLn7IqX8lo8G-HEj3kogOgJ777RRh_eIk_Lv_8TD-b9fyc96IRLZHuRv63sLhRg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Activity 7",
+            type: "ppt",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSvfRjrBASX0O9Fg5Sg8t9g76YI2s_sPeR4WoG3Ecm097v12BXLWuJrneNt9W7K7w/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+        ],
+        video: [
+          {
+            title: "Our Food",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1YEz0-Emvd-hRQZHL4puHo3jeg77g6Oxa/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Animated Video",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1x3oNaD0tfseRXLE2ZGRzQdEKPchsIPAF/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
       },
       7: {
-        name: "Understanding Directions",
+        name: "Water For Life",
         activity: [{ title: "", type: "", link: ``, description: "" }],
         ar: [{ title: "", type: "", link: ``, description: "" }],
         chart: [{ title: "", type: "", link: ``, description: "" }],
         ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        video: [
+          {
+            title: "",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1LC6_tPILhsk1moNwdpPTwuc2vtNevRxk/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1itxAG3XA-iYeF1vdcw9VJMfhGtNkGuha/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1DSwHH318zCI0W8rEdH-JCGfThFS-slx5/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1LfJ1ab2V0kBB4jK-wro8lHe-ewDHXFo8/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1mHVrnsq28N2f8DY_yG3pPODsKpK_4A70/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1fQ7uNt3H9LCr9WxNLPiIFb6__x7EoSXg/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1Y5dfyOV7vNbcObtcBl1y-SaF_h7ECa53/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1w0t1eOoO3pYtwp_S7iER6lbLfnElFDNr/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
       },
       8: {
-        name: "Houses",
+        name: "Let Us Move Around",
         activity: [{ title: "", type: "", link: ``, description: "" }],
         ar: [{ title: "", type: "", link: ``, description: "" }],
         chart: [{ title: "", type: "", link: ``, description: "" }],
         ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        video: [
+          {
+            title: "Let Us Move Around - 1",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1UU4HBETwD3BWBfV1H2ifsD4-UY7MxZcb/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Let Us Move Around - 2",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/19SrvKWQxDpK94A7Tl95C_nGf8OVLtuG8/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Let Us Move Around - 3",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/17S-2fUT1wbzgOID80fRLDGbUpbBHVubb/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Let Us Move Around - 4",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1n7y0-4k9Agh4OxbbGz5k2zW93iyfHKv9/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Let Us Move Around - 5",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1BjpYxj5avzlk3Kk4kbzaHfpowJUU88Bm/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Let Us Move Around - 6",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/11UzWPrk9Iuzq7krtJmlLJwakZH2HwXka/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
       },
       9: {
-        name: "Services In Neighbourhood",
+        name: "Helping Hands Around Us",
         activity: [{ title: "", type: "", link: ``, description: "" }],
         ar: [{ title: "", type: "", link: ``, description: "" }],
         chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        ppt: [
+          {
+            title: "Activity Sheet 1",
+            type: "ppt",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQW16CwN09L9wCQyUdkpl9Xl2ApfxHbnulxORveHBwXAcUhoRgIPD5EaFhGe5o6dA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Activity Sheet 2",
+            type: "ppt",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS_PCeyJ36OjG_RYo6Xxci8qQ-QPLdGehFmAMRTTpzhWxnthi7WHZHjYmekKfVntA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Activity Sheet 3",
+            type: "ppt",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS1iLHzV-LXCy_2zahjUo7oHNpqeVepQ5dgY3AqYZkqBnjwkXau9ptGhAkkxGtAAg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Activity Sheet 4",
+            type: "ppt",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRufvYQSfP7hXxBEvVpIvhbtkY9BqqrwKydY-fDuq26BatzXYz-pWBCAXM7VapA4w/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Activity Sheet 5",
+            type: "ppt",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTOWuGGpO6iO0GMsx1B24ok1W9Ssd7DMeo-nsdzAPaklC4pbdQtCKR9ZUcu5GCEWA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Activity Sheet 6",
+            type: "ppt",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS2MXWQWAxJ6C72Fp1T8FU4e1apNsMzcOoXTmGsjYh7uOa6mRcZn9FBKQxg2QEXKQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+        ],
+        video: [
+          {
+            title: "Helping Hands Around Us",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1Npdy93xp241rB74HxJDmj9fuNW86Tx7p/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
       },
       10: {
-        name: "Time",
+        name: "The Beautiful Sky",
         activity: [{ title: "", type: "", link: ``, description: "" }],
         ar: [{ title: "", type: "", link: ``, description: "" }],
         chart: [{ title: "", type: "", link: ``, description: "" }],
@@ -1762,7 +2154,7 @@ var a = {
     MAT: {
       colour: "rgb(183 241 255)",
       1: {
-        name: "What is Long,What is round?",
+        name: "What is Long, What is round?",
         activity: [
           {
             title: "Long and round",
@@ -1784,8 +2176,8 @@ var a = {
             description: "Mark o for rolling and --- for sliding",
           },
         ],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
+        ar: [],
+        chart: [],
         ppt: [
           {
             title: "game",
@@ -1862,7 +2254,7 @@ var a = {
             description: "Presentation related to the chapter",
           },
         ],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        video: [],
       },
       3: {
         name: "How Much Can You Carry?",
@@ -1880,9 +2272,9 @@ var a = {
             description: "Worksheet",
           },
         ],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
+        ar: [],
+        chart: [],
+        ppt: [],
         video: [
           {
             title: "Heavy or light",
@@ -1900,8 +2292,8 @@ var a = {
       },
       4: {
         name: "Counting In Tens",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
+        ar: [],
         chart: [
           {
             title: "Counting in 10s",
@@ -2013,8 +2405,8 @@ var a = {
       },
       5: {
         name: "Patterns",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
+        ar: [],
         chart: [
           {
             title: "Patterns",
@@ -2108,8 +2500,8 @@ var a = {
       },
       6: {
         name: "Footprints",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
+        ar: [],
         chart: [
           {
             title: "Footprints",
@@ -2186,9 +2578,9 @@ var a = {
       },
       7: {
         name: "Jugs And Mugs",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
+        ar: [],
+        chart: [],
         ppt: [
           {
             title: "Jugs and Mugs",
@@ -2244,8 +2636,8 @@ var a = {
       },
       8: {
         name: "Tens And Ones",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
+        ar: [],
         chart: [
           {
             title: "Tens and Ones",
@@ -2285,9 +2677,9 @@ var a = {
       },
       9: {
         name: "My Funday",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
+        ar: [],
+        chart: [],
         ppt: [
           {
             title: "My funday",
@@ -2325,9 +2717,9 @@ var a = {
       },
       10: {
         name: "Add Our Points",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
+        ar: [],
+        chart: [],
         ppt: [
           {
             title: "Add our points",
@@ -2359,10 +2751,10 @@ var a = {
       },
       11: {
         name: "Lines And Lines",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
+        ar: [],
+        chart: [],
+        ppt: [],
         video: [
           {
             title: "Lines",
@@ -2392,8 +2784,8 @@ var a = {
       },
       12: {
         name: "Give And Take",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
+        ar: [],
         chart: [
           {
             title: "Give and take",
@@ -2402,7 +2794,7 @@ var a = {
             description: "Chart_We can Share",
           },
         ],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
+        ppt: [],
         video: [
           {
             title: "Give and Take",
@@ -2438,8 +2830,8 @@ var a = {
       },
       13: {
         name: "The Longest Step",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
+        ar: [],
         chart: [
           {
             title: "The longest step",
@@ -2462,12 +2854,12 @@ var a = {
             description: "PPT based on the chapter",
           },
         ],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        video: [],
       },
       14: {
         name: "Birds Come And Go",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
+        ar: [],
         chart: [
           {
             title: "Birds come and go",
@@ -2512,10 +2904,10 @@ var a = {
         ],
       },
       15: {
-        name: "How Many PonyTails?",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
+        name: "How Many Ponytails?",
+        activity: [],
+        ar: [],
+        chart: [],
         ppt: [
           {
             title: "How many ponytails?",
@@ -2524,7 +2916,7 @@ var a = {
             description: "PPT based on the chapter",
           },
         ],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        video: [],
       },
     },
     ENG: {
@@ -2577,8 +2969,8 @@ var a = {
             description: "",
           },
         ],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
+        chart: [],
+        ppt: [],
         video: [
           {
             title: "First Day At School",
@@ -2589,7 +2981,7 @@ var a = {
         ],
       },
       2: {
-        name: "Haldi’s Adventure",
+        name: "Haldi's Adventure",
         activity: [
           {
             title: "act1",
@@ -2598,7 +2990,7 @@ var a = {
             description: "",
           },
         ],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
+        ar: [],
         chart: [
           {
             title: "SAIL BARK SING PLAY RING",
@@ -2723,7 +3115,7 @@ var a = {
       },
       4: {
         name: "I Want",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
         ar: [
           {
             title: "Rain",
@@ -2841,7 +3233,7 @@ var a = {
             description: "",
           },
         ],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
+        chart: [],
         ppt: [
           {
             title: "ppt1",
@@ -2978,9 +3370,9 @@ var a = {
             description: "",
           },
         ],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
+        ar: [],
+        chart: [],
+        ppt: [],
         video: [
           {
             title: "rain",
@@ -3011,7 +3403,6 @@ var a = {
             link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSaafajnyFJzixI81mCz-tU8hTYZoVa1LFQB12nHy2-dOGR7QENB99eAH16tVQJLg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
             description: "",
           },
-          { title: "", type: "", link: ``, description: "" },
         ],
         ar: [
           {
@@ -3086,9 +3477,9 @@ var a = {
             description: "",
           },
         ],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
+        ar: [],
+        chart: [],
+        ppt: [],
         video: [
           {
             title: "vid1",
@@ -3126,9 +3517,9 @@ var a = {
             description: "",
           },
         ],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
+        ar: [],
+        chart: [],
+        ppt: [],
         video: [
           {
             title: "To The Fort",
@@ -3140,9 +3531,9 @@ var a = {
       },
       11: {
         name: "Mr. Nobody",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
+        ar: [],
+        chart: [],
         ppt: [
           {
             title: "Mr.Nobody & TheZigZagBoy",
@@ -3176,9 +3567,9 @@ var a = {
             description: "",
           },
         ],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
+        ar: [],
+        chart: [],
+        ppt: [],
         video: [
           {
             title: "once there was a girl with curly hair",
@@ -3210,8 +3601,8 @@ var a = {
             description: "",
           },
         ],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
+        ar: [],
+        chart: [],
         ppt: [
           {
             title: "activity sheet",
@@ -3239,9 +3630,9 @@ var a = {
             description: "",
           },
         ],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
+        ar: [],
+        chart: [],
+        ppt: [],
         video: [
           {
             title: "Make It Shorter",
@@ -3253,9 +3644,9 @@ var a = {
       },
       15: {
         name: "I am the Music Man",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
+        ar: [],
+        chart: [],
         ppt: [
           {
             title: "ppt",
@@ -3270,7 +3661,7 @@ var a = {
             description: "",
           },
         ],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        video: [],
       },
       16: {
         name: "The Mumbai Musicians",
@@ -3282,8 +3673,8 @@ var a = {
             description: "",
           },
         ],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
+        ar: [],
+        chart: [],
         ppt: [
           {
             title: "ppt",
@@ -3329,7 +3720,7 @@ var a = {
             description: "",
           },
         ],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
+        ar: [],
         chart: [
           {
             title: "charts",
@@ -3356,9 +3747,9 @@ var a = {
         ],
       },
       18: {
-        name: "The Magic Porridge Potr",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
+        name: "The Magic Porridge Pot",
+        activity: [],
+        ar: [],
         chart: [
           {
             title: "char",
@@ -3394,7 +3785,7 @@ var a = {
             description: "",
           },
         ],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
+        ar: [],
         chart: [
           {
             title: "char",
@@ -3403,7 +3794,7 @@ var a = {
             description: "",
           },
         ],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
+        ppt: [],
         video: [
           {
             title: "vid",
@@ -3435,9 +3826,9 @@ var a = {
             description: "",
           },
         ],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
+        ar: [],
+        chart: [],
+        ppt: [],
         video: [
           {
             title: "vid",
@@ -3510,7 +3901,7 @@ var a = {
             description: "",
           },
         ],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
+        chart: [],
         ppt: [
           {
             title: "The Plant Fairy",
@@ -3519,11 +3910,11 @@ var a = {
             description: "",
           },
         ],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        video: [],
       },
       3: {
-        name: "Water O’ Water",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
+        name: "Water O' Water",
+        activity: [],
         ar: [
           {
             title: "PLANTS",
@@ -3540,7 +3931,7 @@ var a = {
             description: "",
           },
         ],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
+        ppt: [],
         video: [
           {
             title: "Water O Water ",
@@ -3558,8 +3949,8 @@ var a = {
       },
       4: {
         name: "Our First School",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
+        ar: [],
         chart: [
           {
             title: "CHAPTER_4 CHART",
@@ -3568,11 +3959,11 @@ var a = {
             description: "",
           },
         ],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        ppt: [],
+        video: [],
       },
       5: {
-        name: "Chhotu’s House",
+        name: "Chhotu's House",
         activity: [
           {
             title: "1",
@@ -3615,7 +4006,7 @@ var a = {
             description: "",
           },
         ],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
+        ppt: [],
         video: [
           {
             title: "Draw a house and colour it",
@@ -3627,7 +4018,7 @@ var a = {
       },
       6: {
         name: "Foods We Eat",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
         ar: [
           {
             title: "Video 1",
@@ -3668,8 +4059,8 @@ var a = {
             description: "",
           },
         ],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        ppt: [],
+        video: [],
       },
       7: {
         name: "Saying Without Speaking",
@@ -3715,7 +4106,7 @@ var a = {
             description: "",
           },
         ],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
+        ppt: [],
         video: [
           {
             title: "Animated Poem video",
@@ -3823,7 +4214,7 @@ var a = {
             description: "",
           },
         ],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
+        ppt: [],
         video: [
           {
             title: "Origami Paper cock",
@@ -3852,7 +4243,7 @@ var a = {
         ],
       },
       9: {
-        name: "It’s Raining",
+        name: "It's Raining",
         activity: [
           {
             title: "Puzzle",
@@ -3944,7 +4335,7 @@ var a = {
             description: "",
           },
         ],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
+        ppt: [],
         video: [
           {
             title: "Cooking",
@@ -3968,7 +4359,7 @@ var a = {
       },
       11: {
         name: "From Here To There",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
         ar: [
           {
             title: "From Here To There",
@@ -3977,7 +4368,7 @@ var a = {
             description: "",
           },
         ],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
+        chart: [],
         ppt: [
           {
             title: "G10",
@@ -4031,8 +4422,8 @@ var a = {
             description: "",
           },
         ],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
+        chart: [],
+        ppt: [],
         video: [
           {
             title: "Work We Do ",
@@ -4064,7 +4455,7 @@ var a = {
             description: "",
           },
         ],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
+        ar: [],
         chart: [
           {
             title: "Braille Script",
@@ -4073,7 +4464,7 @@ var a = {
             description: "",
           },
         ],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
+        ppt: [],
         video: [
           {
             title: "Lesson Explaination",
@@ -4112,7 +4503,7 @@ var a = {
             description: "",
           },
         ],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
+        ar: [],
         chart: [
           {
             title: "Fruits",
@@ -4133,7 +4524,7 @@ var a = {
             description: "",
           },
         ],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
+        ppt: [],
         video: [
           {
             title: "Automatic waste disposal dustbin",
@@ -4183,7 +4574,7 @@ var a = {
             description: "",
           },
         ],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
+        ar: [],
         chart: [
           {
             title: "Chart",
@@ -4265,7 +4656,7 @@ var a = {
             description: "",
           },
         ],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
+        ppt: [],
         video: [
           {
             title: "Animated video 1",
@@ -4351,7 +4742,7 @@ var a = {
             description: "",
           },
         ],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
+        ppt: [],
         video: [
           {
             title: "AICTE",
@@ -4377,14 +4768,14 @@ var a = {
             description: "",
           },
         ],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        ar: [],
+        chart: [],
+        ppt: [],
+        video: [],
       },
       19: {
         name: "Our Friends Animals",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
         ar: [
           {
             title: "AR VR",
@@ -4401,7 +4792,7 @@ var a = {
             description: "",
           },
         ],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
+        ppt: [],
         video: [
           {
             title: "Video",
@@ -4515,7 +4906,7 @@ var a = {
             description: "",
           },
         ],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
+        ppt: [],
         video: [
           {
             title: "Activity video",
@@ -4613,7 +5004,7 @@ var a = {
             description: "",
           },
         ],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
+        ppt: [],
         video: [
           {
             title: "AICTE Family Tree",
@@ -4673,7 +5064,7 @@ var a = {
       },
       22: {
         name: "Left Right",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
         ar: [
           {
             title: "Left Right",
@@ -4682,9 +5073,9 @@ var a = {
             description: "",
           },
         ],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        chart: [],
+        ppt: [],
+        video: [],
       },
       23: {
         name: "A Beautiful Cloth",
@@ -4742,7 +5133,7 @@ var a = {
             description: "",
           },
         ],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
+        ppt: [],
         video: [
           {
             title: "Chapter 23",
@@ -4774,9 +5165,9 @@ var a = {
             description: "",
           },
         ],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
+        ar: [],
+        chart: [],
+        ppt: [],
         video: [
           {
             title: "Web Of Life",
@@ -5143,18 +5534,18 @@ var a = {
         ],
       },
       15: {
-        name: "What’s in the Mailbox?",
+        name: "What's in the Mailbox?",
         ar: [
           {
-            title: "What’s in the Mailbox? video",
+            title: "What's in the Mailbox? video",
             type: "video",
             link: `<iframe src="https://drive.google.com/file/d/1-ZvFbvG05-btgSCwPPSdC0hJBWZ8QMGt/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "AR video for visualising What’s in the Mailbox?",
+            description: "AR video for visualising What's in the Mailbox?",
           },
         ],
         video: [
           {
-            title: "What’s in the Mailbox?",
+            title: "What's in the Mailbox?",
             type: "video",
             link: `<iframe src="https://drive.google.com/file/d/153RB-tFOGjj5_ouY_zh5nMNXo6hw98j7/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "visual description of the chapter",
@@ -5163,10 +5554,10 @@ var a = {
       },
       16: { name: "My Silly Sister" },
       17: {
-        name: "Don’t Tell",
+        name: "Don't Tell",
         chart: [
           {
-            title: "chart for Don’t Tell",
+            title: "chart for Don't Tell",
             type: "pdf",
             link: `<iframe src="https://drive.google.com/file/d/1tbFU-EODZlHOARgpMqUu6v0eCHruNSMU/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "chart visualising the chapter",
@@ -5174,10 +5565,10 @@ var a = {
         ],
         ar: [
           {
-            title: "video for Don’t Tell",
+            title: "video for Don't Tell",
             type: "video",
             link: `<iframe src="https://drive.google.com/file/d/1xzGLXwHixPtp76X-3IYoh_TfcrgfQl0h/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "AR video for visualising Don’t Tell chapter",
+            description: "AR video for visualising Don't Tell chapter",
           },
         ],
         video: [
@@ -5277,7 +5668,7 @@ var a = {
             description: "",
           },
         ],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
+        chart: [],
         ppt: [
           {
             title: "Where To Look From",
@@ -5297,9 +5688,9 @@ var a = {
       },
       2: {
         name: "Fun With Numbers",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
+        ar: [],
+        chart: [],
         ppt: [
           {
             title: "Fun With Numbers",
@@ -5308,7 +5699,7 @@ var a = {
             description: "",
           },
         ],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        video: [],
       },
       3: {
         name: "Give And Take",
@@ -5370,7 +5761,7 @@ var a = {
             description: "",
           },
         ],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
+        chart: [],
         ppt: [
           {
             title: "Chikku's Bag",
@@ -5452,8 +5843,8 @@ var a = {
             description: "",
           },
         ],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
+        ar: [],
+        chart: [],
         ppt: [
           {
             title: "Long and Short",
@@ -5533,9 +5924,9 @@ var a = {
       },
       5: {
         name: "Shapes And Designs",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
+        ar: [],
+        chart: [],
         ppt: [
           {
             title: "Shapes and Design",
@@ -5573,7 +5964,7 @@ var a = {
       },
       6: {
         name: "Fun With Give And Take",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
         ar: [
           {
             title: "Fun with give and take",
@@ -5582,7 +5973,7 @@ var a = {
             description: "",
           },
         ],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
+        chart: [],
         ppt: [
           {
             title: "Story Problem",
@@ -5597,13 +5988,13 @@ var a = {
             description: "",
           },
         ],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        video: [],
       },
       7: {
         name: "Time Goes On",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
+        ar: [],
+        chart: [],
         ppt: [
           {
             title: "Calender magic",
@@ -5665,9 +6056,9 @@ var a = {
       },
       8: {
         name: "Who Is Heavier",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
+        ar: [],
+        chart: [],
         ppt: [
           {
             title: "Who is Heavier ?",
@@ -5699,8 +6090,8 @@ var a = {
       },
       9: {
         name: "How Many Times",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
+        ar: [],
         chart: [
           {
             title: "How many Times",
@@ -5746,7 +6137,7 @@ var a = {
       },
       10: {
         name: "Play With Patterns",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
         ar: [
           {
             title: "2D and 3D shapes ",
@@ -5844,8 +6235,8 @@ var a = {
             description: "",
           },
         ],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
+        ar: [],
+        chart: [],
         ppt: [
           {
             title: "Jugs and Mugs",
@@ -5933,8 +6324,8 @@ var a = {
             description: "",
           },
         ],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
+        ar: [],
+        chart: [],
         ppt: [
           {
             title: "Can We Share",
@@ -5978,8 +6369,8 @@ var a = {
       },
       13: {
         name: "Smart Charts",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
+        ar: [],
         chart: [
           {
             title: "Smart Charts",
@@ -6021,7 +6412,7 @@ var a = {
             description: "",
           },
         ],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
+        ar: [],
         chart: [
           {
             title: "Rupees and Paise",
