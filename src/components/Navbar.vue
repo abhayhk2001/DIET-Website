@@ -121,7 +121,7 @@
       </div>
     </div>
 
-    <button
+    <!-- <button
       v-show="
         parseInt($route.params.chap) < Object.keys(links[3]['EVS']).length - 1
       "
@@ -181,7 +181,7 @@
                                     C15.952,9,16,9.447,16,10z"
         />
       </svg>
-    </button>
+    </button> -->
   </div>
 </template>
 

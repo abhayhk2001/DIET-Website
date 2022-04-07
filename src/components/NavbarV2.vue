@@ -6,7 +6,7 @@
         class="flex flex-wrap items-center justify-between rounded-2xl p-3"
       >
         <div class="mr-6 flex flex-shrink-0 items-center text-white">
-          <div class="px-10 text-2xl text-white">
+          <div class="px-5 text-2xl text-white">
             <span class="px-2"><router-link to="/">Home</router-link></span>
             <span class="px-2"
               ><router-link to="/about">About</router-link></span
@@ -18,7 +18,7 @@
         </div>
         <span v-if="$route.params.chap != undefined">
           <ul
-            class="float-right hidden space-x-1 rounded-xl bg-blue-900/20 p-1 md:flex"
+            class="float-right hidden space-x-1 rounded-xl p-1 md:flex"
             v-for="topics in Object.keys(
               links[$route.params.class][$route.params.SUB][$route.params.chap]
             )"
@@ -26,13 +26,7 @@
           >
             <router-link v-if="topics != 'name'" :to="{ path: topics }">
               <li
-                :class="[
-                  'w-full rounded-lg px-4 py-2 text-xl font-medium leading-5 text-blue-700',
-                  'ring-white ring-opacity-60 ring-offset-2 ring-offset-blue-400 focus:outline-none focus:ring-2',
-                  true
-                    ? 'bg-white shadow'
-                    : 'text-blue-100 hover:bg-white/[0.12] hover:text-white',
-                ]"
+                class="inline-flex w-full justify-center rounded-md bg-black bg-opacity-20 px-4 py-2 text-base font-medium text-white hover:bg-opacity-30 focus:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-opacity-75"
               >
                 {{ topics }}
               </li>
@@ -61,19 +55,32 @@
                   <MenuItems
                     class="absolute right-0 z-10 mt-2 w-56 origin-top-right divide-y divide-gray-100 rounded-md bg-white shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none"
                   >
-                    <div class="px-1 py-1">
-                      <MenuItem v-slot="{ active }">
-                        <button
-                          :class="[
-                            active
-                              ? 'bg-violet-500 text-white'
-                              : 'text-gray-900',
-                            'group flex w-full items-center rounded-md px-2 py-2 text-sm',
-                          ]"
-                        >
-                          Edit
-                        </button>
-                      </MenuItem>
+                    <div
+                      class="px-1 py-1"
+                      v-for="topics in Object.keys(
+                        links[$route.params.class][$route.params.SUB][
+                          $route.params.chap
+                        ]
+                      )"
+                      :key="topics"
+                    >
+                      <router-link
+                        v-if="topics != 'name'"
+                        :to="{ path: topics }"
+                      >
+                        <MenuItem v-slot="{ active }">
+                          <button
+                            :class="[
+                              active
+                                ? 'bg-violet-500 text-white'
+                                : 'text-gray-900',
+                              'group flex w-full items-center rounded-md px-2 py-2 text-sm',
+                            ]"
+                          >
+                            {{ topics }}
+                          </button>
+                        </MenuItem>
+                      </router-link>
                     </div>
                   </MenuItems>
                 </transition>

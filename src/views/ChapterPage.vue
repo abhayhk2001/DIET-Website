@@ -1,7 +1,15 @@
-<template >
+<template>
   <div class="wrapper">
-  <!-- <div>aaa</div> -->
-    <div class="component" v-if="links[$route.params.class][$route.params.SUB][$route.params.chap][$route.params.COMP].length==0"> 
+    <!-- <div>aaa</div> -->
+    <Pagenav />
+    <div
+      class="component"
+      v-if="
+        links[$route.params.class][$route.params.SUB][$route.params.chap][
+          $route.params.COMP
+        ].length == 0
+      "
+    >
       <span class="text-5xl">This chapter/topic is yet to be coverd</span>
     </div>
     <div
@@ -10,12 +18,18 @@
         backgroundColor:
           links[$route.params.class][$route.params.SUB]['colour'],
       }"
-      v-for="aa in links[$route.params.class][$route.params.SUB][$route.params.chap][$route.params.COMP]"
+      v-for="aa in links[$route.params.class][$route.params.SUB][
+        $route.params.chap
+      ][$route.params.COMP]"
       :key="aa"
     >
-      <span v-if="aa.title == ''">{{links[$route.params.class][$route.params.SUB][$route.params.chap]['name']}}</span>
-      <span v-else>Chapter {{ aa["title"] }}</span> 
-      
+      <span v-if="aa.title == ''">{{
+        links[$route.params.class][$route.params.SUB][$route.params.chap][
+          "name"
+        ]
+      }}</span>
+      <span v-else>Chapter {{ aa["title"] }}</span>
+
       <div v-html="aa['link']"></div>
       <span v-if="aa.description == undefined">
         Class {{ $route.params.class }} Subject {{ $route.params.SUB }} Chapter
@@ -28,11 +42,10 @@
   <!-- </div> -->
 </template>
 
-
-
 <script>
 import links from "../assets/links.js";
 import router from "../router";
+import Pagenav from "../components/Pagenav.vue";
 
 export default {
   methods: {
@@ -43,10 +56,11 @@ export default {
   data: function () {
     return { links };
   },
+  components: {
+    Pagenav,
+  },
 };
 </script>
-
-
 
 <style>
 :root {
