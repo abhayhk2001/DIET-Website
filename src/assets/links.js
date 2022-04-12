@@ -109,7 +109,20 @@ var a = {
       3: {
         name: "Addition",
         activity: [],
-        ar: [],
+        ar: [
+          {
+            title: "Addition",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1BKMJHDKDmtNKObu5F9xTJEa6LD73gRLg/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Addition",
+            type: "ppt",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQPHZeorbM1WQJyqVLQl0c9HEsDBRmI5Hz4DQJJwVecDTxAk7At4ovEq_vWNeldVw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="2111" height="1216" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+        ],
         chart: [
           {
             title: "Addition",
@@ -312,7 +325,14 @@ var a = {
             description: "Activity sheet based on the chapter",
           },
         ],
-        ar: [],
+        ar: [
+          {
+            title: "Measurement",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/1YedjwvRd6Uhs9ly2lZaZfaVcCrFndcCH/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Activity sheet based on the chapter",
+          },
+        ],
         chart: [],
         ppt: [{ title: "", type: "p", link: ``, description: "" }],
         video: [
@@ -385,6 +405,30 @@ var a = {
             link: `<iframe src="https://drive.google.com/file/d/172CSWYOhjT924OQYos6NVX8btjEObrvX/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "Video based on the chpater",
           },
+          {
+            title: "Numbers from 21 to 30",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/1s1bGW1ociCmRy7g-6KwKvGO97k43yHdw/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video based on the chpater",
+          },
+          {
+            title: "Numbers from 31 to 40",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/13rL9Lokj8PhGuXvUyggNWhsUxK-axssT/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video based on the chpater",
+          },
+          {
+            title: "Numbers from 41 to 50",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/1dSX9sg7CQDL7yLSVUHIjAC5ReGYeHyG4/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video based on the chpater",
+          },
+          {
+            title: "Solutions to Assignment",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/1dSX9sg7CQDL7yLSVUHIjAC5ReGYeHyG4/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video based on the chpater",
+          },
         ],
       },
       9: {
@@ -405,7 +449,14 @@ var a = {
             description: "Chart based on the chapter",
           },
         ],
-        ppt: [],
+        ppt: [
+          {
+            title: "Data handling",
+            type: "jpg",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQCYvwkfylsx2VlmLS7dITk_TRyQy2f-sAIp1MJjVrmLly9T0gU1-8IwvHkYowaPQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "Chart based on the chapter",
+          },
+        ],
         video: [
           {
             title: "Data handling",
@@ -516,12 +567,25 @@ var a = {
       },
       12: {
         name: "Money",
-        activity: [],
+        activity: [
+          {
+            title: "Money",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/1UOTJYZhmZHTsb_lYpn7YGycgojnD9gr6/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Money",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/1rsicdRnGZNA-tf9UxF4ZpkgGuK5UZkGf/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
         ar: [
           {
-            title: "",
-            type: "",
-            link: ``,
+            title: "Money",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1fuC1onbOG8JjFAMLUw-cr66nUgIl3297/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
         ],
@@ -1323,7 +1387,7 @@ var a = {
           {
             title: "UNIT 3_LALU AND PEELU",
             type: "ppt",
-            link: `https://docs.google.com/presentation/d/1oHcah2GljOhAa5ASGFwiydgUf0f4sFTF/edit?usp=sharing&ouid=111939340278367639507&rtpof=true&sd=true`,
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vShtfMRrg_O38d0mBsgWLLBrLDuS2MEgqCfvv1wDYqwT0B_u4oT9yT5lhbOq3T2-w/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
             description: "",
           },
         ],
@@ -1441,8 +1505,22 @@ var a = {
           },
         ],
         chart: [],
-        ppt: [],
-        video: [],
+        ppt: [
+          {
+            title: "PPT Chapter 6",
+            type: "ppt",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSnp3pEHphHz3ARXSLfSogFF1SxqMVhRLdhnug1EoySY-buRAI8aIq-Dx3bHin_bg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+        ],
+        video: [
+          {
+            title: "Chapter 6",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1kaJVSE7puDPskO-4-iXvbuQFvtyHPSD7/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
       },
       7: {
         name: "Chapter 7", // chapter name
@@ -1494,7 +1572,7 @@ var a = {
           {
             title: "turtle",
             type: "ppt",
-            link: `https://docs.google.com/presentation/d/1ejQtWMRlqlsWR2jbiqAZK6u6EjDGtrKh/edit?usp=sharing&ouid=111939340278367639507&rtpof=true&sd=true`,
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ8WAdMTVdjGcwp2eYgVvb5pkeFDX5WwceUsYTgnd7vwzzlQ-LYOpF2yFkb4GLs9Q/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
             description: "",
           },
         ],
@@ -1516,7 +1594,7 @@ var a = {
           {
             title: "Chapter 9",
             type: "ppt",
-            link: `https://docs.google.com/presentation/d/1T39aoBsmca_hK5WfyJbfb88ZLbd4n8Kq/edit?usp=sharing&ouid=111939340278367639507&rtpof=true&sd=true`,
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSyUh8BM_1fEcgMl-aG__UI4xKkXzDxvrKLeJTXzk2sUNJV7BxgZyzbzpw_0MXXyw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
             description: "",
           },
         ],
@@ -1623,8 +1701,28 @@ var a = {
             description: "",
           },
         ],
-        ppt: [],
-        video: [],
+        ppt: [
+          {
+            title: "Chapter 12",
+            type: "img",
+            link: `<iframe src="https://drive.google.com/file/d/1auQcuUnoxosmdhBN1mpN5A0gr83BwzrB/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
+        video: [
+          {
+            title: "Chapter 12",
+            type: "img",
+            link: `<iframe src="https://drive.google.com/file/d/1auQcuUnoxosmdhBN1mpN5A0gr83BwzrB/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Chapter 12",
+            type: "img",
+            link: `<iframe src="https://drive.google.com/file/d/1auQcuUnoxosmdhBN1mpN5A0gr83BwzrB/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
       },
       13: {
         name: "Chapter 13", // chapter name
@@ -1646,7 +1744,14 @@ var a = {
           },
         ],
         ppt: [],
-        video: [],
+        video: [
+          {
+            title: "Chapter 13",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1vj53XHS6O6KIHBPP3ikdg2ftrvHlzkse/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
       },
     },
   },
@@ -1667,6 +1772,12 @@ var a = {
         ],
         chart: [{ title: "", type: "", link: ``, description: "" }],
         ppt: [
+          {
+            title: "My Happy Family",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/1uwIvQle5qONg9m8Uu5Es-vjf0vmi4aRM/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
           {
             title: "My Happy Family",
             type: "pdf",
@@ -1779,7 +1890,14 @@ var a = {
           },
         ],
         chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [],
+        ppt: [
+          {
+            title: "Plant Fairy",
+            type: "ppt",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTdPpEd4K2lERTHXlAMuxnm-PNyK_YxCCFr9VybvmYuIqO0pZLhOpf9wGALt6De9g/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+        ],
         video: [{ title: "", type: "", link: ``, description: "" }],
       },
       4: {
@@ -2713,6 +2831,12 @@ var a = {
             link: `<iframe src="https://drive.google.com/file/d/13U-sQpLVeOgA8t5f5yUV39yXJKV2hmsm/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "Video based on the chapter",
           },
+          {
+            title: "Febraury is Different",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/1TRqkcJVWUNqRQYLApsS4BRNJIp6rzMDe/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video based on the chapter",
+          },
         ],
       },
       10: {
@@ -2794,7 +2918,20 @@ var a = {
             description: "Chart_We can Share",
           },
         ],
-        ppt: [],
+        ppt: [
+          {
+            title: "Give and Take",
+            type: "img",
+            link: `<iframe src="https://drive.google.com/file/d/1Pv_7cN7xJO81SjQwlM6vNIuU3CINCRit/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video based on the chapter",
+          },
+          {
+            title: "Give and Take",
+            type: "img",
+            link: `<iframe src="https://drive.google.com/file/d/1OT7bo-5crGbxrQ8uUXY_Dbj2i-DwD52m/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video based on the chapter",
+          },
+        ],
         video: [
           {
             title: "Give and Take",
@@ -2818,6 +2955,18 @@ var a = {
             title: "Give and Take",
             type: "mp4",
             link: `<iframe src="https://drive.google.com/file/d/1roIl8FkwNVOOq1PDcxq063uYS5ioByVs/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video based on the chapter",
+          },
+          {
+            title: "Give and Take",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/1AB_HIRTyKIYjLY9whg2BOuaRe_oGrt2l/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video based on the chapter",
+          },
+          {
+            title: "Give and Take",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/1AB_HIRTyKIYjLY9whg2BOuaRe_oGrt2l/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "Video based on the chapter",
           },
           {
@@ -5380,6 +5529,14 @@ var a = {
             title: "The Balloon Man",
             type: "pdf",
             link: `<iframe src="https://drive.google.com/file/d/1HUH2MY9IQvREVSgZa_TmBMlD_XpQrxwW/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "activity for The Yellow Butterfly",
+          },
+        ],
+        ppt: [
+          {
+            title: "The Balloon Man",
+            type: "pdf",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRd50NAOWCMyYSOUaW_ZfbXkchdeakQuVuiYFsDI6ZsacN0ejSaFqHW6W7CV1ZfXw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
             description: "activity for The Yellow Butterfly",
           },
         ],
