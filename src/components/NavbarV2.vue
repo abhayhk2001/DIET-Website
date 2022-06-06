@@ -77,7 +77,10 @@
                               'group flex w-full items-center rounded-md px-2 py-2 text-sm',
                             ]"
                           >
-                            {{ topics }}
+                            {{
+                              topics.charAt(0).toUpperCase() +
+                              topics.substr(1).toLowerCase()
+                            }}
                           </button>
                         </MenuItem>
                       </router-link>
