@@ -55,6 +55,12 @@ var a = {
             link: `<iframe src="https://drive.google.com/file/d/1dtYW9XiSeWAXCsubwkMfyo20kTiUu_U9/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "Video on the chapter",
           },
+          {
+            title: "Shapes and Spaces",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/1D-E4ZVNZ-uo0r_EKpOIhoY52WAThz3Xh/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video on the chapter",
+          },
         ],
       },
       2: {
@@ -104,6 +110,12 @@ var a = {
             link: `<iframe src="https://drive.google.com/file/d/1guDVswRVxzHExfkcZHZIpxo98uwsjJdY/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "Video based on the chapter",
           },
+          {
+            title: "Video",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/125tTG9ZZTx8Kpd9eZXP0WWDgxN_19OD4/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video based on the chapter",
+          },
         ],
       },
       3: {
@@ -150,6 +162,12 @@ var a = {
             link: `<iframe src="https://drive.google.com/file/d/1INgUslXZzHM3McCCmqYWZ3BuqFzfDIaA/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "PPT based on the chapter",
           },
+          {
+            title: "Addition",
+            type: "pptx",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSYA48Fsj-LN9BAsrC4tlERbIW4WmPK5nfw9aFV35nHfN1jxNlGj78nDxLGn0qWqQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "PPT based on the chapter",
+          },
         ],
         video: [
           {
@@ -168,6 +186,18 @@ var a = {
             title: "Addition",
             type: "mp4",
             link: `<iframe src="https://drive.google.com/file/d/1vMvHExQQ5PV6rHSs1KQtuM3_w_t9O-4N/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video based on the chapter",
+          },
+          {
+            title: "Addition",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/127sOmHUZ0vB5aQdvGHG2BceQ_ENhxYJ6/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video based on the chapter",
+          },
+          {
+            title: "Addition",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/1UPAx29GNPxNXMVM37S9BkKySZLv9IL1b/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "Video based on the chapter",
           },
         ],
@@ -1079,7 +1109,14 @@ var a = {
             description: "",
           },
         ],
-        ar: [],
+        ar: [
+          {
+            title: "Food So Good",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1P3_x7H36lqpzRTWlCqz8aQPfUXJsNOmh/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
         chart: [
           {
             title: "Food Habits",
@@ -1117,8 +1154,38 @@ var a = {
         ar: [
           {
             title: "Working Model",
-            type: "",
+            type: "video",
             link: `<iframe src="https://drive.google.com/file/d/1otxIKvfwN2BNpwAf2Ga3kLOnbFGJoEqy/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Water water Act",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1Fb_58wOsAdaHheVVCb8d9sYUZt9uv7yo/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Water AC",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1lhsjUDEtKwnQnjITwg3hadQW5OLU_rg8/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "ARVR plant",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/123D5MeXRfe_vBkQrxmVAAYyysx1eD0wG/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "ARVR Crow",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1jCTyWGNSnb8q9JSgHv7lDbRDGjsV1SmT/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "ARVR Boy",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1BVdP_xxaMKOrdCca2z3FQFzOPJEyBVoN/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
         ],
@@ -1130,7 +1197,14 @@ var a = {
             description: "",
           },
         ],
-        ppt: [],
+        ppt: [
+          {
+            title: "Water Chapter 7",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSx2pPgOsFBTPJsFfe8zn77vOUNNsGGXZzbK2AJBzSK3dP5-JNSbDtmUS6_7SoquA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+        ],
         video: [
           {
             title: "Demo Kit",
@@ -1148,6 +1222,12 @@ var a = {
             title: "Sources Of Water",
             type: "",
             link: `<iframe src="https://drive.google.com/file/d/1-N-QtpJ1gvNuqhtUfvCBS0fILJH25ZNU/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Poem Water Water",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1fFr1n0WQqKqR-WQGOT6ajbLcvDo7qWaW/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
         ],
@@ -1215,7 +1295,14 @@ var a = {
             description: "",
           },
         ],
-        ar: [],
+        ar: [
+          {
+            title: "Activity 2",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1CxVfeKw5Yst6KvsqLPN4o2UUo_LK0_ED/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
         chart: [
           {
             title: "Chart Video",
@@ -1236,7 +1323,14 @@ var a = {
             description: "",
           },
         ],
-        ppt: [],
+        ppt: [
+          {
+            title: "Around Us",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1N91Umy3I3DuYFDqs6g39Twzqt0AuB0e-/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
         video: [
           {
             title: "Working Model",
@@ -1248,6 +1342,12 @@ var a = {
             title: "Video",
             type: "",
             link: `<iframe src="https://drive.google.com/file/d/1D-clUJMoLr921in1AawDhaXLj4YUXbrX/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Video",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1D-E4ZVNZ-uo0r_EKpOIhoY52WAThz3Xh/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
         ],
@@ -1326,8 +1426,21 @@ var a = {
             link: `<iframe src="https://drive.google.com/file/d/1jvGc0rTvlzCDQiY4KBU4P_3yM3HQtfgB/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
+          {
+            title: "Happy Child Chart",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/18Dbr65s6oubToWakLHroJEo7O-qTssE5/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
         ],
-        ppt: [],
+        ppt: [
+          {
+            title: "Good Habits",
+            type: "ppt",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTHGur-pOvBdu_O7xogK8huQDI2qPjSvkK00fVc1qNcJMvZvtAgjQ9pXcA7tpAb2Q/embed?start=false&loop=false&delayms=3000" frameborder="0" width="2111" height="1216" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+        ],
         video: [
           {
             title: "Lalu & Peelu (Madhukesh & Chakradhar)",
@@ -1339,6 +1452,12 @@ var a = {
             title: "Chapter 1",
             type: "video",
             link: `<iframe src="https://drive.google.com/file/d/1X4Vn_N2AyWW2dmj4CTtfqXYtp5gk4BL5/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Chapter 1",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1QzHD6_W_8tQouuFa5Y3H049waR4jmDuf/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
         ],
@@ -1354,7 +1473,14 @@ var a = {
             description: "",
           },
         ],
-        chart: [],
+        chart: [
+          {
+            title: "Chapter 2",
+            type: "ppt",
+            link: `<iframe src="https://drive.google.com/file/d/1slZkRegMVWN8sN4nNdxfugsheXIUzKSt/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
         ppt: [],
         video: [
           {
@@ -1930,7 +2056,14 @@ var a = {
       },
       5: {
         name: "I Am Safe !",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [
+          {
+            title: "I Am Safe !",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1wmyZPcG_d61FyCmhv7RuO-6HALMbCM2n/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
         ar: [
           {
             title: "I Am Safe !",
@@ -1971,6 +2104,12 @@ var a = {
             link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRcVVVpwLNsNZ7JxYfv_Fvp7bociZMQCj2CnSXSNBKzKFOLcIgVzkTQGZNcqTKk-w/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
             description: "",
           },
+          {
+            title: "I Am Safe ! - 6",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSYcA-YBAuCq6-Ekdx1DhVgBqk8OAHT1hm-p3T3yz24krazoA8BvUsp2EzDQ468Ng/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
         ],
         video: [
           {
@@ -2001,7 +2140,38 @@ var a = {
       },
       6: {
         name: "Our Food",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [
+          {
+            title: "Our Food",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRvA3T-2jIykm3ZawA9rtvx75SP7zGM5h3XPVchtNMgC7cz_iKIAjWwZSnwDBsvOQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="2560" height="1469" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Our Food",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQV9xRc7DA163-JOULme9hb3ka2gqFmPYHrXt3biZUpRK6I0dybuvc-Q5LR2EmBsA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Our Food",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT6ZRtooaG8tO0_xDBtrn0SMHrN7Nk_vX736ldLZWqkgb00oS96rG99lmhO_73l5g/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Our Food",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRQxg9iW544hjzxIlkYZRs1QyyrjaYHJRi3pucDQOkA7Z4-ZYHeXKDtcG8NlyRj_g/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Our Food",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQD5qEKCR_oXA2hgfsLWx3VIvcIx9-CETrbsylldI6ly2F1vnR68qfRS0NRgkKcSw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+        ],
         ar: [
           {
             title: "Our Food",
@@ -2078,6 +2248,18 @@ var a = {
             title: "Animated Video",
             type: "",
             link: `<iframe src="https://drive.google.com/file/d/1x3oNaD0tfseRXLE2ZGRzQdEKPchsIPAF/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Our Food",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1uKkXvEr1BIo93h7yZ8uLLUpQXYm23R01/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Our Food",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1zedX8orpoTfW-0_mHZmbwnY_60nOOjKo/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
         ],
@@ -2273,424 +2455,56 @@ var a = {
       colour: "rgb(183 241 255)",
       1: {
         name: "What is Long, What is round?",
-        activity: [
-          {
-            title: "Long and round",
-            type: "pdf",
-            link: `<iframe src="https://drive.google.com/file/d/1eTwElg3XCjEHCwFj8p91z57ZkWF7h_fl/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Guess wha is round and what is long",
-          },
-
-          {
-            title: "Tick the correct option",
-            type: "pdf",
-            link: `<iframe src="https://drive.google.com/file/d/1JxC85NSIRnUOJlUDsIiQnSnbgRuHJDaV/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Choose the correct answer",
-          },
-          {
-            title: "Rolls or slides",
-            type: "docx",
-            link: `<iframe src="https://drive.google.com/file/d/1DaLDEK3LhbDxk7R38j3gzp9MkIL51c6-/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Mark o for rolling and --- for sliding",
-          },
-        ],
+        activity: [],
         ar: [],
         chart: [],
-        ppt: [
-          {
-            title: "game",
-            type: "sb3",
-            link: `<iframe src="https://drive.google.com/file/d/1-D6p825Jqxr4azryPjlSCCqAO4IGZQb-/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "game related to the chapter",
-          },
-          {
-            title: "game",
-            type: "sb3",
-            link: `<iframe src="https://drive.google.com/file/d/1CblBRrP4LDPYHg6Tz9bhWz4Vowg1FJa9/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "game related to the chapter",
-          },
-        ],
-        video: [
-          {
-            title: "Rolling",
-            type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1Rj4QJ7DqCekaMjJZ7CwntYNAecaBFPuq/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-          {
-            title: "Sliding",
-            type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1SpE5Rqz008VJiYGaXghh767o4m3IpvFZ/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-          {
-            title: "Scratch",
-            type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1HBbpJzyXHf2xdSqIOQAvflQGFyIFAyu2/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-        ],
+        ppt: [],
+        video: [],
       },
       2: {
         name: "Counting in Groups",
-        activity: [
-          {
-            title: "worksheet 1",
-            type: "jpg",
-            link: `<iframe src="https://drive.google.com/file/d/188sEaSx65dA5fJy3Trp1gULtlvt2fq_D/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-
-          {
-            title: "worksheet 2",
-            type: "jpg",
-            link: `<iframe src="https://drive.google.com/file/d/1MHwgFpkQQhFVMdQmR1n7GzxUJmTMqWGW/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-        ],
-        ar: [
-          {
-            title: "",
-            type: "",
-            link: ``,
-            description: "",
-          },
-        ],
-        chart: [
-          {
-            title: "Counting in groups",
-            type: "jpeg",
-            link: `<iframe src="https://drive.google.com/file/d/1Ob5UyRhpv9bwuEwfgVptmw8HfLCg2EI2/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Activity related to the chapter",
-          },
-        ],
-        ppt: [
-          {
-            title: "Interactive ppt",
-            type: "pptx",
-            link: `<iframe src="https://drive.google.com/file/d/1qv0BnKAvIxFsGv6BJ1qJ4G49yhzVWe0U/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Presentation related to the chapter",
-          },
-        ],
+        activity: [],
+        ar: [],
+        chart: [],
+        ppt: [],
         video: [],
       },
       3: {
         name: "How Much Can You Carry?",
-        activity: [
-          {
-            title: "Worksheet chapter 3",
-            type: "jpg",
-            link: `<iframe src="https://drive.google.com/file/d/1V9wMrMW4agQpLBi1FCyqjdpwxnmx33fb/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "worksheet",
-          },
-          {
-            title: "Worksheet chapter 3",
-            type: "jpg",
-            link: `<iframe src="https://drive.google.com/file/d/1Z0zK8DUOaObAivPKm_z3UpM-l8TYXbH4/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Worksheet",
-          },
-        ],
+        activity: [],
         ar: [],
         chart: [],
         ppt: [],
-        video: [
-          {
-            title: "Heavy or light",
-            type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1RBojUyAgSiYL3QuBLOrRL_kf0UOswfjI/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Heavy or light",
-          },
-          {
-            title: "Heavy or light",
-            type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1JVYBesH7NXRUeBcmHI1S49SovW6AiovA/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Heavy or light",
-          },
-        ],
+        video: [],
       },
       4: {
         name: "Counting In Tens",
         activity: [],
         ar: [],
-        chart: [
-          {
-            title: "Counting in 10s",
-            type: "jpg",
-            link: `<iframe src="https://drive.google.com/file/d/1RISCrrmK0SV_sDLVEjAkzkH5Aa9txnUD/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Chart",
-          },
-          {
-            title: "Counting in 10s",
-            type: "jpg",
-            link: `<iframe src="https://drive.google.com/file/d/1QLonunRop4-t6QhIEzwMnCBXWM80_5T6/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Chart",
-          },
-          {
-            title: "Counting in 10s",
-            type: "jpg",
-            link: `<iframe src="https://drive.google.com/file/d/1rHXffO6ptmmjRplSdpk60yPkrhbQlUg9/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Chart",
-          },
-          {
-            title: "Counting in 10s",
-            type: "jpg",
-            link: `<iframe src="https://drive.google.com/file/d/12YYUiaXV6Yk-uj1-tjXRvsg9Dy-eyZQg/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Chart",
-          },
-          {
-            title: "Counting in 10s",
-            type: "jpg",
-            link: `<iframe src="https://drive.google.com/file/d/15E73Uw_Kq00ycup4sUeAWapFiVhiNqBW/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Chart",
-          },
-        ],
-        ppt: [
-          {
-            title: "Counting",
-            type: "jpg",
-            link: `<iframe src="https://drive.google.com/file/d/1LmK3TZJj7WLUbUjGY-qktBWQU4rOBTTb/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Activity  based chart",
-          },
-          {
-            title: "Counting",
-            type: "jpg",
-            link: `<iframe src="https://drive.google.com/file/d/1PeWCnPuDAmuogKyJr2dEzr03jBvm9bmR/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Activity  based chart",
-          },
-          {
-            title: "Counting",
-            type: "jpg",
-            link: `<iframe src="https://drive.google.com/file/d/1iZwthJXn2WXNdxaopVB-J3SVWCZ5x-Tu/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Activity  based chart",
-          },
-          {
-            title: "Counting",
-            type: "jpg",
-            link: `<iframe src="https://drive.google.com/file/d/1FlUgo9-2XZrF1gTCcJlIrC8TeFiHGaei/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Activity  based chart",
-          },
-        ],
-        video: [
-          {
-            title: "Counting in 10s",
-            type: "mp4",
-            link: ``,
-            description: "Video based on the chapter",
-          },
-          {
-            title: "Counting in 10s",
-            type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1ENe9re1G4PdfUUO0y8_gSsGAHkTrFzrT/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Video based on the chapter",
-          },
-          {
-            title: "Counting in 10s",
-            type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1QzlztNYkh8Yaa_O8aQa0qf3lF--7s1jE/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Video based on the chapter",
-          },
-          {
-            title: "Counting in 10s",
-            type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1R2rhCkVJhWPMtp07E7gDkan3SplQkxkA/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Video based on the chapter",
-          },
-          {
-            title: "Counting in 10s",
-            type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1R75BEunYoaA_rOYY9XYwcb052-3gjhFm/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Video based on the chapter",
-          },
-          {
-            title: "Counting in 10s",
-            type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1R9RG_6K5pf6ZF1xDHlRlzm7qkEISHuZa/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Video based on the chapter",
-          },
-          {
-            title: "Counting in 10s",
-            type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1RBY-BMFW-1XYY8ghpWDW67e9t9v-2lb-/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Video based on the chapter",
-          },
-          {
-            title: "Counting in 10s",
-            type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1ySqLcs-1KeSj8abjySdLyC75gH5X_VQC/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Video based on the chapter",
-          },
-        ],
+        chart: [],
+        ppt: [],
+        video: [],
       },
       5: {
         name: "Patterns",
         activity: [],
         ar: [],
-        chart: [
-          {
-            title: "Patterns",
-            type: "jpg",
-            link: `<iframe src="https://drive.google.com/file/d/1FvJbJveoiqqCHGe5LaOBtt0PNCJ9aY3j/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Chart",
-          },
-          {
-            title: "Patterns",
-            type: "jpg",
-            link: `<iframe src="https://drive.google.com/file/d/1KaBRS9B422llUzezVHVY21eeQ6uuifoL/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Chart",
-          },
-          {
-            title: "Patterns",
-            type: "jpg",
-            link: `<iframe src="https://drive.google.com/file/d/1my19y-TJKiKgi-18L7oS885VHyoSqwps/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Chart",
-          },
-          {
-            title: "Patterns",
-            type: "jpg",
-            link: `<iframe src="https://drive.google.com/file/d/1mrm0q1jdpMMCaijbOU-tH55UUuEH8seA/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Chart",
-          },
-          {
-            title: "Patterns",
-            type: "jpg",
-            link: `<iframe src="https://drive.google.com/file/d/1C4PQLt57buzsAsFymcZNayLepLPi6jOQ/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Chart",
-          },
-        ],
-        ppt: [
-          {
-            title: "Pattern recognition",
-            type: "pptx",
-            link: `<iframe src="https://drive.google.com/file/d/1o5nlYe6QpSqn1vb9dTjrJDYhWxZxplrC/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Presentation based on the chapter",
-          },
-          {
-            title: "Patterns poster",
-            type: "pptx",
-            link: `<iframe src="https://drive.google.com/file/d/1pI-YIda4kiKCnpyieS3Z8o1z0e_KGlgZ/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Presentation based on the chapter",
-          },
-        ],
-        video: [
-          {
-            title: "Patterns",
-            type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1ANWfOuTWOPl6z75mII_NPTCMHJals7DH/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "video based on the chapter",
-          },
-          {
-            title: "Patterns",
-            type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1kFZ7sQZceOu-qVG_A8SB13PnKusjTgqs/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "video based on the chapter",
-          },
-          {
-            title: "Patterns",
-            type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1VoanFw5ur311LIiFw5mhSLTp0LonUlBO/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "video based on the chapter",
-          },
-          {
-            title: "Patterns",
-            type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/10IMrTiqXo2K8gH_2gTLQLAMyhGUslVKx/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "video based on the chapter",
-          },
-          {
-            title: "Patterns",
-            type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1VoanFw5ur311LIiFw5mhSLTp0LonUlBO/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "video based on the chapter",
-          },
-          {
-            title: "Patterns",
-            type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1kFZ7sQZceOu-qVG_A8SB13PnKusjTgqs/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "video based on the chapter",
-          },
-          {
-            title: "Patterns",
-            type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1ANWfOuTWOPl6z75mII_NPTCMHJals7DH/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "video based on the chapter",
-          },
-        ],
+        chart: [],
+        ppt: [],
+        video: [],
       },
       6: {
         name: "Footprints",
         activity: [],
         ar: [],
-        chart: [
-          {
-            title: "Footprints",
-            type: "jpg",
-            link: `<iframe src="https://drive.google.com/file/d/1z9raXs5GWlpLiWXv-362Z3HOqyx7luSn/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Footprints of Animals and other beings",
-          },
-          {
-            title: "Footprints",
-            type: "jpg",
-            link: `<iframe src="https://drive.google.com/file/d/1nA5SZ7iS5I1g5fge66qrviznuMMT33uz/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Footprints of Animals and other beings",
-          },
-          {
-            title: "Footprints",
-            type: "jpg",
-            link: `<iframe src="https://drive.google.com/file/d/1gChwmr5w9vKbiGAvOb94ehL7F-0nNcJM/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Footprints of Animals and other beings",
-          },
-          {
-            title: "Footprints",
-            type: "jpg",
-            link: `<iframe src="https://drive.google.com/file/d/1slLLbbnQEvkkXaRqcyFGVjmxKbq20zbX/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Footprints of Animals and other beings",
-          },
-          {
-            title: "Footprints",
-            type: "jpg",
-            link: `<iframe src="https://drive.google.com/file/d/1gGFSKk1_7KcSmpM2yq76iRuNFggR9DXd/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Footprints of Animals and other beings",
-          },
-          {
-            title: "Footprints",
-            type: "jpg",
-            link: `<iframe src="https://drive.google.com/file/d/1lYf3gOc7M71XRmimz39fOQzG7WwG-VPE/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Footprints of Animals and other beings",
-          },
-          {
-            title: "Footprints",
-            type: "jpg",
-            link: `<iframe src="https://drive.google.com/file/d/1xxJWnI02T_pojWPAUVYpg4bVLt8ECVGQ/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Footprints of Animals and other beings",
-          },
-        ],
-        ppt: [
-          {
-            title: "Footprints",
-            type: "pptx",
-            link: `<iframe src="https://drive.google.com/file/d/1AOhN2cFYaqdMtofrlxvL0NItCancBEl7/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Footprints and Shapes",
-          },
-        ],
+        chart: [],
+        ppt: [],
         video: [
           {
-            title: "3D figure demonstration",
+            title: "Footprints",
             type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/19nu3cbR_5gNf49gBUAiYeBKFdbN3ke1X/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "video based on the chapter",
-          },
-
-          {
-            title: "Footprint",
-            type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1mnX5BsF9-ALcwJ_FM6xkhJJClEUa-0HG/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "video based on the chapter",
-          },
-          {
-            title: "Shapes",
-            type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1ESczZ5q7dapUdOdjzRI1-KIoaVEk-HOa/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "video based on the chapter",
+            link: `<iframe src="https://drive.google.com/file/d/1nhs38XHaEynqyFuFvf_9CsCpBeB1-I1C/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video based on the chapter",
           },
         ],
       },
@@ -2698,18 +2512,55 @@ var a = {
         name: "Jugs And Mugs",
         activity: [],
         ar: [],
-        chart: [],
+        chart: [
+          {
+            title: "Jugs And Mugs",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/13XHaKSQJzFU-54tQhZBVJuOpNkUp5dWg/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Chart based on the chapter",
+          },
+          {
+            title: "Jugs And Mugs",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/18wQXnHrnvOVnLLH0O8ybuz9i64DJiqFU/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Chart based on the chapter",
+          },
+          {
+            title: "Jugs And Mugs",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/1foq5GlWasS68xUE9wcNd-AU_-_AFP1wp/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Chart based on the chapter",
+          },
+          {
+            title: "Jugs And Mugs",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/1YkyKGQGUhHk13cxpAqOkSLQZYvmLw4cM/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Chart based on the chapter",
+          },
+          {
+            title: "Jugs And Mugs",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/1HO2zncPWgnHDXgX1HkSc8zzFdYdrpU-l/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Chart based on the chapter",
+          },
+          {
+            title: "Jugs And Mugs",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/1oYhP0imuaCuQG8MbG2PlOTiwUGLqZGVj/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Chart based on the chapter",
+          },
+          {
+            title: "Jugs And Mugs",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/1I0UJQUGaDhn2wuz2o3l0rv16Pz8SCH4w/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Chart based on the chapter",
+          },
+        ],
         ppt: [
           {
             title: "Jugs and Mugs",
             type: "pptx",
-            link: `<iframe src="https://drive.google.com/file/d/14USFRCCEqKh75X1BdBFNAuimdip7eL79/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "PPT based on the chapter",
-          },
-          {
-            title: "Jugs and Mugs",
-            type: "pptx",
-            link: `<iframe src="https://drive.google.com/file/d/1_4gd6k8eUJmQYf_tNYaw8JvRTPN8hY-9/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQgFc9Mlk35HHMWnfte1d6HB-uOd52VECVc-Vgb6fcgejji1URAwCh3Vd64my2etQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
             description: "PPT based on the chapter",
           },
         ],
@@ -2717,37 +2568,7 @@ var a = {
           {
             title: "Jugs and mugs",
             type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1sGE9T-1cQAn6qarFkt0-dQK9c67Cu0Z4/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Video based on the chapter",
-          },
-          {
-            title: "Jugs and mugs",
-            type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/10mJSFweLl2419LypDRB9d6MppvuGqKcN/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Video based on the chapter",
-          },
-          {
-            title: "Jugs and mugs",
-            type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1sDxtOSpT3a1mxckPgkKvhYTbYv8XjvNe/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Video based on the chapter",
-          },
-          {
-            title: "Jugs and mugs",
-            type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1iUAi5nJgGCvJzGOkVWAjFAZ_awAghqSp/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Video based on the chapter",
-          },
-          {
-            title: "Jugs and mugs",
-            type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1uNNxq9iHZ5kmvllJzvmugDPeNY5d4ocO/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Video based on the chapter",
-          },
-          {
-            title: "Jugs and mugs",
-            type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1jaDL8oXZdtAsEis0qm_HcjnqnLkXW7T7/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            link: `<iframe src="https://drive.google.com/file/d/1Xgd_Ts0ZEkq7DUEzGhtob0-RZW4Gui0C/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "Video based on the chapter",
           },
         ],
@@ -2760,7 +2581,7 @@ var a = {
           {
             title: "Tens and Ones",
             type: "pdf",
-            link: `<iframe src="https://drive.google.com/file/d/1M6qvbwznA6toIVUaP4zhFLSyw4d185_W/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            link: `<iframe src="https://drive.google.com/file/d/1Lv-cSYrJ4KEyamNILhmucW3vb586Vj_q/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "Chart based on the chapter",
           },
         ],
@@ -2768,7 +2589,7 @@ var a = {
           {
             title: "Tens and Ones",
             type: "pptx",
-            link: `<iframe src="https://drive.google.com/file/d/1r5bxYgziI4BDEi7Hsmnniq1Aga7d57eA/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSJD-SGaZcsmkss_ez_VzPEn7qhWL57ZdX28DAq7SKOo8ViMLu5YdxtCw126OlR3A/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
             description: "PPT based on the chapter",
           },
         ],
@@ -2776,19 +2597,19 @@ var a = {
           {
             title: "Tens and ones",
             type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1odEmeKXoqiNc6jBYWRo3X_pXcq2Q6mh4/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            link: `<iframe src="https://drive.google.com/file/d/1W9gUaAwtYamJFZw0wO0fbb5crAqrWa75/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "Video based on the chapter",
           },
           {
             title: "Tens and ones",
             type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1Dz11slvtgyqErJZRtdcukBHfOInk-Dn6/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            link: `<iframe src="https://drive.google.com/file/d/1mHZpCRKInPN5iJXlAXCSn9Y28temSrRQ/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "Video based on the chapter",
           },
           {
             title: "Tens and ones",
             type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1tT8S1qegJr8GkLFWHwUMucyY9Po18OhM/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            link: `<iframe src="https://drive.google.com/file/d/13NmmD_ffgAk-OvQUi-QqvaX1LcQmVCm5/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "Video based on the chapter",
           },
         ],
@@ -2802,39 +2623,21 @@ var a = {
           {
             title: "My funday",
             type: "pptx",
-            link: `<iframe src="https://drive.google.com/file/d/1jbDYG_uArOA5hfMg-583nGWMN2Vt9RZ2/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "PPT based on the chapter",
-          },
-          {
-            title: "My funday",
-            type: "pptx",
-            link: `<iframe src="https://drive.google.com/file/d/1ga4uLYVl6spM5sB9LoCM8_oBJc9Smzm-/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRKy39pdMZQYi1Y-lEAqFN84kO3jjmlHk4KBEVfF2llLAqbypMLzkOTkIYXwcaWVA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
             description: "PPT based on the chapter",
           },
         ],
         video: [
           {
-            title: "Favourite month",
+            title: "My funday",
             type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1TIkFSHw0hdx1zVEu1D_01D5qlmlhEvjS/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            link: `<iframe src="https://drive.google.com/file/d/1W_YmDbl1V0htFH1BrMkLunpz7VBglzgW/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "Video based on the chapter",
           },
           {
             title: "Funday",
             type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1Hs5A-vh5-rMkQNhYzeuNg4g3SHAJREK1/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Video based on the chapter",
-          },
-          {
-            title: "Funday",
-            type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/13U-sQpLVeOgA8t5f5yUV39yXJKV2hmsm/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Video based on the chapter",
-          },
-          {
-            title: "Febraury is Different",
-            type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1TRqkcJVWUNqRQYLApsS4BRNJIp6rzMDe/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            link: `<iframe src="https://drive.google.com/file/d/1AQ14AW2MDAJw6KcHZYCUHvsJogLCULwE/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "Video based on the chapter",
           },
         ],
@@ -2844,64 +2647,51 @@ var a = {
         activity: [],
         ar: [],
         chart: [],
-        ppt: [
-          {
-            title: "Add our points",
-            type: "pptx",
-            link: `<iframe src="https://drive.google.com/file/d/17C9cF5qopNxZmXTDeUeRwAdHsYMIqA02/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "PPT based on the chapter",
-          },
-          {
-            title: "Add our points",
-            type: "pptx",
-            link: `<iframe src="https://drive.google.com/file/d/1fxWKogatSftUWXkAtq8u5_mheAtt_RUS/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "PPT based on the chapter",
-          },
-        ],
-        video: [
-          {
-            title: "Add the points",
-            type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1BiaJV0auAn6BBWN4VY9xE9rsSsNzIo2m/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Video based on the chapter",
-          },
-          {
-            title: "Add the points",
-            type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1R7_7fqJBBU64bs8qqadP8jZh9HfMAshi/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Video based on the chapter",
-          },
-        ],
+        ppt: [],
+        video: [],
       },
       11: {
         name: "Lines And Lines",
         activity: [],
         ar: [],
-        chart: [],
+        chart: [
+          {
+            title: "Lines And Lines",
+            type: "jpeg",
+            link: `<iframe src="https://drive.google.com/file/d/1ijTeVXd898y5CSsjOryoMC9JVX9xv2aX/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Chart_We can Share",
+          },
+          {
+            title: "Lines And Lines",
+            type: "jpeg",
+            link: `<iframe src="https://drive.google.com/file/d/1yEVh1Pr3Ya9BRjLFxRJh1KbFCeZm2_l8/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Chart_We can Share",
+          },
+          {
+            title: "Lines And Lines",
+            type: "jpeg",
+            link: `<iframe src="https://drive.google.com/file/d/1kWm_9k9eLmXspwXs24I_-wKkW7xqaecQ/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Chart_We can Share",
+          },
+          {
+            title: "Lines And Lines",
+            type: "jpeg",
+            link: `<iframe src="https://drive.google.com/file/d/1cG1u4jErL4kF8m9iRiFdUvUpBifyz-sA/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Chart_We can Share",
+          },
+        ],
         ppt: [],
         video: [
           {
-            title: "Lines",
+            title: "Lines And Lines",
             type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1n-2_SWteFTmCPk9RgtS7yt5kY5KzuQ1F/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            link: `<iframe src="https://drive.google.com/file/d/16P9Ekgne_81XdoPLgTp3PpAxUDXQ1mJF/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "Video based on the chapter",
           },
           {
-            title: "Lines",
+            title: "Lines And Lines",
             type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1S8SDJAEwe7EAOH-hmys0LxXpv8o4N5JK/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Video based on the chapter",
-          },
-          {
-            title: "Lines",
-            type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1YPC7srbgStO2yV7aMRX7HaNYmzJYcW8L/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Video based on the chapter",
-          },
-          {
-            title: "Lines",
-            type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1PEbVZrelW3UKGhGYuVYZi5PdkKmX-HR3/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            link: `<iframe src="https://drive.google.com/file/d/1bsojPFfpxPT2WAw1renWbIMbNpu7rPx-/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "Video based on the chapter",
           },
         ],
@@ -2910,72 +2700,9 @@ var a = {
         name: "Give And Take",
         activity: [],
         ar: [],
-        chart: [
-          {
-            title: "Give and take",
-            type: "jpeg",
-            link: `<iframe src="https://drive.google.com/file/d/1EWerQpcmzpV5-lzsWnL-QHNAuYd04FSz/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Chart_We can Share",
-          },
-        ],
-        ppt: [
-          {
-            title: "Give and Take",
-            type: "img",
-            link: `<iframe src="https://drive.google.com/file/d/1Pv_7cN7xJO81SjQwlM6vNIuU3CINCRit/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Video based on the chapter",
-          },
-          {
-            title: "Give and Take",
-            type: "img",
-            link: `<iframe src="https://drive.google.com/file/d/1OT7bo-5crGbxrQ8uUXY_Dbj2i-DwD52m/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Video based on the chapter",
-          },
-        ],
-        video: [
-          {
-            title: "Give and Take",
-            type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/12EoI4lMM7_edeJZ1eClfYEOacsjPKYvp/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Video based on the chapter",
-          },
-          {
-            title: "Give and Take",
-            type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/16nkqkoiHohZAoMC2-nDMiwg6h-OVF5Y0/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Video based on the chapter",
-          },
-          {
-            title: "Give and Take",
-            type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1Lmjtte-obMBxqLShL41O7s_IQ-EhqVi3/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Video based on the chapter",
-          },
-          {
-            title: "Give and Take",
-            type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1roIl8FkwNVOOq1PDcxq063uYS5ioByVs/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Video based on the chapter",
-          },
-          {
-            title: "Give and Take",
-            type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1AB_HIRTyKIYjLY9whg2BOuaRe_oGrt2l/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Video based on the chapter",
-          },
-          {
-            title: "Give and Take",
-            type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1AB_HIRTyKIYjLY9whg2BOuaRe_oGrt2l/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Video based on the chapter",
-          },
-          {
-            title: "Give and Take",
-            type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1AB_HIRTyKIYjLY9whg2BOuaRe_oGrt2l/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Video based on the chapter",
-          },
-        ],
+        chart: [],
+        ppt: [],
+        video: [],
       },
       13: {
         name: "The Longest Step",
@@ -2985,7 +2712,13 @@ var a = {
           {
             title: "The longest step",
             type: "jpg",
-            link: `<iframe src="https://drive.google.com/file/d/1fl1jxpjdRtJlaf4W53OjFmIIJHO0se0w/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            link: `<iframe src="https://drive.google.com/file/d/1QJ81SZlMJ5OGGF6nFj3XrgrPtSuFfHee/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Math is Fun! Chart",
+          },
+          {
+            title: "The longest step",
+            type: "jpg",
+            link: `<iframe src="https://drive.google.com/file/d/1HkPs6slhsPXZp4mQFXVRFmR2m4tXIbz3/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "Math is Fun! Chart",
           },
         ],
@@ -2993,17 +2726,18 @@ var a = {
           {
             title: "The longest step",
             type: "pptx",
-            link: `<iframe src="https://drive.google.com/file/d/1ODm3wRkD2rWlSAxq6MgYR2pM4GcgP0dM/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "PPT based on the chapter",
-          },
-          {
-            title: "The longest step",
-            type: "pptx",
-            link: `<iframe src="https://drive.google.com/file/d/14G_fyGzQ6Wd7muiusufSgMa1zsJuZwly/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRFPFoZWLLjVznMlzeLo3nRokij5FOJqjN78c1Yq_-lxxzA4bvMMWS6A-IL04aEXg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
             description: "PPT based on the chapter",
           },
         ],
-        video: [],
+        video: [
+          {
+            title: "The longest step",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/11ur11Uc54jgTXtrF9XdIpRq2ORvY7Dhn/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video based on the chapter",
+          },
+        ],
       },
       14: {
         name: "Birds Come And Go",
@@ -3013,58 +2747,38 @@ var a = {
           {
             title: "Birds come and go",
             type: "pdf",
-            link: `<iframe src="https://drive.google.com/file/d/1vcJaH8IJUk6sv6hC68Owz5_WC0wBHiE5/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            link: `<iframe src="https://drive.google.com/file/d/1JGtkyrAKSbfk67lZqDbikd9Q6pIyd0-b/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Activity based chart",
+          },
+          {
+            title: "Birds come and go",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/1gT9-kziL0uSY_08ezmE-4bgXlNH369Z_/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "Activity based chart",
           },
         ],
-        ppt: [
-          {
-            title: "Birds come and go",
-            type: "pptx",
-            link: `<iframe src="https://drive.google.com/file/d/13cphw4GKhH5XSyg_DSlzcLRZPwPppu02/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "PPT based on the chapter",
-          },
-        ],
-        video: [
-          {
-            title: "Birds come and go",
-            type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1gQwiaUxMMnGnHQgHHMwGQLrard2vp-IL/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Video based on the chapter",
-          },
-          {
-            title: "Birds come and go",
-            type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1YC7TFbgUQxlO2OeCWc_2TetGuaNqtu7h/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Video based on the chapter",
-          },
-          {
-            title: "Birds come and go",
-            type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1eO4xxrRNebVzuCYRScfjYxNwHYmu3v4T/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Video based on the chapter",
-          },
-          {
-            title: "Birds comee and go",
-            type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1ddyxcYU0WxrPp-jB8BxYs0ZvXJidbS68/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Video based on the chapter",
-          },
-        ],
+        ppt: [],
+        video: [],
       },
       15: {
         name: "How Many Ponytails?",
         activity: [],
         ar: [],
-        chart: [],
-        ppt: [
+        chart: [
           {
-            title: "How many ponytails?",
-            type: "pptx",
-            link: `<iframe src="https://drive.google.com/file/d/10hLvcxKer2iqt2pUZ4ecxEK4r-s1Aj3W/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "PPT based on the chapter",
+            title: "How Many Ponytails?",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/1SLjKlqeTyrGhoKQWliUFn-Tr5Jz8-S1T/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Activity based chart",
+          },
+          {
+            title: "How Many Ponytails?",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/13TDHiUtvb8_I1AP1hF6eHsAJMNDUGpwJ/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Activity based chart",
           },
         ],
+        ppt: [],
         video: [],
       },
     },
@@ -3115,6 +2829,12 @@ var a = {
             title: "ar5",
             type: "",
             link: `<iframe src="https://drive.google.com/file/d/1EFW4AuVEg-FQWLAzJ-cIFKFLu881QYmI/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "ar1",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1ssSafZR84UZ0z2fMfqTmTd0rBUEamt_p/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
         ],
@@ -4002,6 +3722,12 @@ var a = {
             link: '<iframe src="https://drive.google.com/file/d/1Qsabarxsp2IeT27szUE20R6MP77AZWuv/preview" width="100%" height="100%" allow="autoplay"></iframe>',
             description: "http://3rdclassevs.website2.me/",
           },
+          {
+            title: "Puzzles",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/12s1GcXxUaq5gloSQK3yfE8F35itCrAvQ/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
         ],
         ar: [],
         chart: [
@@ -4010,12 +3736,24 @@ var a = {
             type: "img",
             link: '<iframe src="https://drive.google.com/file/d/1ldx_vsRoeEDsqEKX0WePbZ1kWCZ6IgFo/preview" width="100%" height="100%" allow="autoplay"></iframe>',
           },
+          {
+            title: "Poonam's Day Out",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/12JHI1GuaKH6U7-njWBgpE7LSKELJ9Brj/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
         ],
         ppt: [
           {
             title: "Poonam's Day Out",
             type: "ppt",
             link: '<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTf77eYrSfs0xbkzXeOOxUaSS_QxEFCGrRWLfUjstZAS4wFQ6Ctp1BdDKw5uCk6bg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="100%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>',
+          },
+          {
+            title: "Poonam's Day Out",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRAlZeuar3Isvb5Bv9YNvEGB_-ISAiV020uDTooxv5sJU0LzMyO_LuydWaXAJ3viw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1319" height="826" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
           },
         ],
         video: [
@@ -4029,6 +3767,18 @@ var a = {
             type: "video",
             link: `<iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/_bQcojYumrg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
           },
+          {
+            title: "Poonam's Day Out",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/12BPdsoKfI6aeVtR_oIWkpu9xoG-mJnc0/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Poonam's Day Out",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/127O-HrqTIp1WWz5w7D1ZwXq3WiOVf4gR/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
         ],
       },
       2: {
@@ -4040,6 +3790,12 @@ var a = {
             link: `<iframe src="https://drive.google.com/file/d/1K6daMp-zXnIjX5sUqX8BP897Gioptz9a/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
+          {
+            title: "The Plant Fairy",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/12uK7vVQiW1QcbSuGxzSWWrqrGWQh0IKQ/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
         ],
 
         ar: [
@@ -4049,6 +3805,12 @@ var a = {
             link: `<iframe src="https://drive.google.com/file/d/1vYFo7qub-Dhoz1_Ab7gV4LXW8kzsjkuu/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
+          {
+            title: "The Plant Fairy",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/12z3yAUJ16Uu7zZ-0uB2IzdOxDTIXDzj_/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
         ],
         chart: [],
         ppt: [
@@ -4056,6 +3818,12 @@ var a = {
             title: "The Plant Fairy",
             type: "ppt",
             link: ``,
+            description: "",
+          },
+          {
+            title: "The Plant Fairy",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR5kNtQXoOT87io6PgitG9X8djmsikRs_nAWrtIlHLFuhZhSaa8YWpFkyPfV3dzrA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
             description: "",
           },
         ],
@@ -4071,6 +3839,12 @@ var a = {
             link: `<iframe src="https://drive.google.com/file/d/1P5Ms8IWOv8Fz0FeWPisOGhmHdujUxkSA/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
+          {
+            title: "Water O' Water",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/13uCDV7I29WiftDJcP-0UG39XcX2jwl8p/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
         ],
         chart: [
           {
@@ -4079,8 +3853,27 @@ var a = {
             link: `<iframe src="https://drive.google.com/file/d/1N4KvewCp0rv3zIVDSlHQ87TxCqY2iJc0/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
+          {
+            title: "Water O' Water",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/14Dv4_jYkeCQfwNnEYJJsqbdCpwuV9jVC/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
         ],
-        ppt: [],
+        ppt: [
+          {
+            title: "Water O' Water",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSY4I0G5x60diDiogkJdX87kWZmenmZ5Mn305cJECucnJoX9RLLaA7n7510pWgxww/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1319" height="826" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Water O' Water",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSvC4eX7De7GtQarPoMNLgqcHncz1GSpx1MDvC5xtcqEzJBddFRZBi6VOgsxDO1yw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+        ],
         video: [
           {
             title: "Water O Water ",
@@ -4092,6 +3885,18 @@ var a = {
             title: "Working Model ",
             type: "video",
             link: `<iframe src="https://drive.google.com/file/d/1G1YD2YNBiC3unoWAInUVN3Uv64VYRqyK/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Water O' Water",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/14Y-h1MjpuzuWRIcszz7nrLJpD2Xy8M8S/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Water O' Water",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1CnfeHwnaX4HcM8RbyJIxbopD6muixSLF/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
         ],
@@ -4107,9 +3912,35 @@ var a = {
             link: `<iframe src="https://drive.google.com/file/d/1UiIDf1JXbrM2Lw7-9bWvstkg079flO41/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
+          {
+            title: "Our First School",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1Dvod51uUIhskuIB1GulPAgAe1tZSfozh/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
         ],
-        ppt: [],
-        video: [],
+        ppt: [
+          {
+            title: "Our First School",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT5_utLLqBQHrAt00FQ6cXspz-oaNykH1TdV-d2i9K-EI-xfBA7urb0ByTYMlHjMA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1319" height="826" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Our First School",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS9uNo5szpE-1oo5pq-6kIth8iWkWQe_kWkVTbB5pGRMRU4g52EeTvGGN4FKFn7iA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+        ],
+        video: [
+          {
+            title: "Our First School",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1DW2sc_J2BE_rXyN_yIi4y7zjEnaV3VZ9/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
       },
       5: {
         name: "Chhotu's House",
@@ -4132,6 +3963,24 @@ var a = {
             link: `<iframe src="https://drive.google.com/file/d/1IEhdnaicIw7g7eKbrdpUzTqsQBDiGLFw/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
+          {
+            title: "Chhotu's House",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1Dw7sBtl3QBXIf9HjWp3KP9ga2HmZFZid/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Chhotu's House",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1DxLMrvEVkklQCzNvuftc14ghLtWY1su6/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Chhotu's House",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1Dxhwx4XwfD8x7UVEOi9sP3dkU8ByHHbn/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
         ],
         ar: [
           {
@@ -4144,6 +3993,12 @@ var a = {
             title: "Chhotus House",
             type: "video",
             link: `<iframe src="https://drive.google.com/file/d/1dO3Wn51jgKP2onRROjVzsrXX0Q-F7k9w/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Chhotu's House",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1DvzKZ9dPoDgcdJc453exNKNMELnBgQJ3/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
         ],
@@ -5385,10 +5240,10 @@ var a = {
         name: "Bird Talk",
         video: [
           {
-            title: "Nina And the Sparrows",
-            type: "video",
-            link: `<iframe src="https://drive.google.com/file/d/1h1TOtg1JxoRwmyDFulE-zUQ4FQMGZ3RZ/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "visual description of the chapter",
+            title: "Bird Talk video",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/1ceOIXnJwVj2jzTR6_2GqRVdFo-7pmHml/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Vide based on the chapter",
           },
         ],
         chart: [
@@ -5416,6 +5271,12 @@ var a = {
             title: "Nina And the Sparrows",
             type: "video",
             link: `<iframe src="https://drive.google.com/file/d/1SRxNqpPqBJnsQQkB3CqPbg-aehYnR_Ei/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "visual description of the chapter",
+          },
+          {
+            title: "Nina And the Sparrows",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1h1TOtg1JxoRwmyDFulE-zUQ4FQMGZ3RZ/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "visual description of the chapter",
           },
           {
@@ -5467,6 +5328,14 @@ var a = {
       },
       7: {
         name: "Sea Song",
+        ar: [
+          {
+            title: "Sea song",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1H8XQ5DSq1_9SNKCuKT4s6uHn3dZb99cE/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "An Augmented reality video on sea song",
+          },
+        ],
         chart: [
           {
             title: "Sea Song chart",
@@ -5495,10 +5364,26 @@ var a = {
             description: "visual description of the chapter",
           },
         ],
+        ppt: [
+          {
+            title: "Sea Song ppt",
+            type: "pptx",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSvIeI6nLfsQ7rpmXRfSBe84VmuMujzD0JXrLjp3pkBweF7NvD1XxeqDBt5olTpRg/embed?start=false&loop=false&delayms=15000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "PPT based on the  chapter",
+          },
+        ],
       },
 
       8: {
         name: "A Little Fish Story",
+        ar: [
+          {
+            title: "A little fish story",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1H6QU0ZvDejCGwp580S_5jpNGJMfOsOyl/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "An Augmented reality video on a little fish story",
+          },
+        ],
         chart: [
           {
             title: "chart for A Little Fish Story",
@@ -5570,6 +5455,14 @@ var a = {
       },
       11: {
         name: "Trains",
+        ar: [
+          {
+            title: "Trains",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1zdQPSuNaDfk_AROOxbjj5QinuS92kk1v/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "An Augmented reality video on trains",
+          },
+        ],
         activity: [
           {
             title: "Trains Exercise 1",
@@ -5610,12 +5503,6 @@ var a = {
         ],
         video: [
           {
-            title: "Trains video",
-            type: "video",
-            link: `<iframe src="https://drive.google.com/file/d/1zdQPSuNaDfk_AROOxbjj5QinuS92kk1v/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "visual description of the chapter",
-          },
-          {
             title: "Train whistle",
             type: "video",
             link: `<iframe src="https://drive.google.com/file/d/1-_f-lavtIWvNU-Jupib7D5ptHKSIFuuT/preview" width="640" height="480" allow="autoplay"></iframe>`,
@@ -5625,6 +5512,14 @@ var a = {
       },
       12: {
         name: "The Story of the Road",
+        ar: [
+          {
+            title: "The Story of the Road video",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1H2P4v1dyTntLid5waLOyJRcozXydwwN_/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "visual description of the chapter",
+          },
+        ],
         activity: [
           {
             title: "Learning new words 1",
@@ -5645,14 +5540,6 @@ var a = {
             description: "Learning new words",
           },
         ],
-        video: [
-          {
-            title: "The Story of the Road video",
-            type: "video",
-            link: `<iframe src="https://drive.google.com/file/d/1H2P4v1dyTntLid5waLOyJRcozXydwwN_/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "visual description of the chapter",
-          },
-        ],
         chart: [
           {
             title: "chart for The Story of the Road",
@@ -5664,29 +5551,73 @@ var a = {
       },
       13: {
         name: "Puppy and I",
+        activity: [
+          {
+            title: "Activity based on the chapter",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/1TRojvWrQEFTCRhBEU9xqEjZXC8p2vO1q/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "activity for Don't Tell",
+          },
+        ],
         video: [
           {
-            title: "Puppy and I video",
+            title: "Puppy and I video 1",
             type: "video",
             link: `<iframe src="https://drive.google.com/file/d/1r18wqpGEQ1MZAMQuN5pgnlTchUrfBjgU/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "visual description of the chapter",
           },
           {
-            title: "Puppy and I video",
+            title: "Puppy and I video 2",
             type: "video",
             link: `<iframe src="https://drive.google.com/file/d/1KX1e_QykNg_NGw-wdjE3UZvQA80P-bz5/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "explanation of the chapter",
+          },
+          {
+            title: "Puppy and I video 3",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/13OIs79yfEHiiFa_kM1EZf_vPS-3Y01lB/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "explanation of the chapter",
+          },
+        ],
+        ppt: [
+          {
+            title: "Puppy and I ppt",
+            type: "pptx",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRyND3udHATJ9KsFHu-bXSwsPKRByBAAAuaqMWTXP4PQhnaxdyzKzn7De1rgx-Apg/embed?start=false&loop=false&delayms=15000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "PPT based on the  chapter",
           },
         ],
       },
       14: {
         name: "Little Tiger, Big Tiger",
+        activity: [
+          {
+            title: "Activity based on the chapter",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/1TRojvWrQEFTCRhBEU9xqEjZXC8p2vO1q/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "activity for Don't Tell",
+          },
+        ],
         video: [
           {
             title: "Little Tiger, Big Tiger",
             type: "video",
             link: `<iframe src="https://drive.google.com/file/d/1NGRYAAx8wiAqvRmjc1L4Hp-lgWN3ZRvg/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "visual description of the chapter",
+          },
+          {
+            title: "Little Tiger, Big Tiger cartoon video",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1ivPp66l02NwPYpWUGrOA1KE77FnFMU5H/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "visual description of the chapter",
+          },
+        ],
+        ppt: [
+          {
+            title: "Little Tiger, Big Tiger ppt",
+            type: "pptx",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQv2xZTNe5VY4PvYFPbhEgvItVshLR3GndvYmipjb7JWB_TvGM0RVniaULRMxalgA/embed?start=false&loop=false&delayms=15000" frameborder="0" width="1123" height="823" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "PPT based on the  chapter",
           },
         ],
       },
@@ -5712,6 +5643,20 @@ var a = {
       16: { name: "My Silly Sister" },
       17: {
         name: "Don't Tell",
+        activity: [
+          {
+            title: "Activity based on the chapter",
+            type: "pptx",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT9htfSwxh5co5ahryfu73upzo95srJRnfn4F5VHINAOiYrEnOY4GZDqO0WkiB-cg/embed?start=false&loop=false&delayms=15000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "activity for Don't Tell",
+          },
+          {
+            title: "Activity based on the chapter",
+            type: "pptx",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQNkv4aYVj43veAfQbCsd2Abb0FqPI3yu1ZQgvdDyFUUs7ehrXP2x1ZZBiSkGZGsw/embed?start=false&loop=false&delayms=15000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "activity based on poem and chapter",
+          },
+        ],
         chart: [
           {
             title: "chart for Don't Tell",
@@ -5739,6 +5684,14 @@ var a = {
       },
       18: {
         name: "He is My Brother",
+        activity: [
+          {
+            title: "Activity based on the chapter",
+            type: "pptx",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQNkv4aYVj43veAfQbCsd2Abb0FqPI3yu1ZQgvdDyFUUs7ehrXP2x1ZZBiSkGZGsw/embed?start=false&loop=false&delayms=15000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "activity based on poem and chapter",
+          },
+        ],
         video: [
           {
             title: "He is My Brother",
@@ -5757,6 +5710,20 @@ var a = {
             type: "video",
             link: `<iframe src="https://drive.google.com/file/d/1_W0yDld40DXWouncA8LFwHNHD_OLhOD_/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "visual description of the chapter",
+          },
+        ],
+        ppt: [
+          {
+            title: "PPT based on the chapter",
+            type: "pptx",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR0bJ1rUNtp3sCIXgj1cviAX6g6kUFqzB9OpbNHnRUpHshAhaODKKOJ_vGdua08Aw/embed?start=false&loop=false&delayms=15000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "PPT based on chapter",
+          },
+          {
+            title: "PPT based on the unit",
+            type: "pptx",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTf3IphXRhKjUbDqFPvMj-fwJS-IVgE0GhU5rbSFpuYvqG9Wm1mEfsF4lY0aBauTw/embed?start=false&loop=false&delayms=15000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "PPT based on unit 9",
           },
         ],
       },
