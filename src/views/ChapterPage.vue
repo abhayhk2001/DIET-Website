@@ -10,7 +10,7 @@
         ].length == 0
       "
     >
-      <span class="text-5xl">This chapter/topic is yet to be coverd</span>
+      <span class="text-3xl">This chapter/topic is yet to be covered</span>
     </div>
     <div
       class="component"
