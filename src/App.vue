@@ -46,7 +46,6 @@ import "./output.css";
 export default {
   name: "App",
   components: {
-    // Navbar,
     Footer,
     NavbarV2,
   },

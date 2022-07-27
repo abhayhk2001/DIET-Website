@@ -3943,7 +3943,7 @@ var a = {
           {
             title: "Puzzles",
             type: "img",
-            link: '<iframe src="https://drive.google.com/file/d/1Qsabarxsp2IeT27szUE20R6MP77AZWuv/preview" width="100%" height="100%" allow="autoplay"></iframe>',
+            link: "",
             description: "http://3rdclassevs.website2.me/",
           },
           {
