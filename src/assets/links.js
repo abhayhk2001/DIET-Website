@@ -83,14 +83,7 @@ var a = {
           },
         ],
 
-        ppt: [
-          {
-            title: "Numbers from 1 to 9",
-            type: "pptx",
-            link: `<iframe src="https://drive.google.com/file/d/1_7ROSecrbRwN1cP4DJ7Gn7eX-Q5R1YM_/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "PPT based on the chapter",
-          },
-        ],
+        ppt: [],
         video: [
           {
             title: "Numbers from 1 to 9",
