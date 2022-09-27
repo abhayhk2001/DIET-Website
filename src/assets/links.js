@@ -1230,7 +1230,14 @@ var a = {
             description: "",
           },
         ],
-        ar: [],
+        ar: [
+          {
+            title: "On Wheels",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1uyxfI63GXR7b-qKlOVJZ0S3sbrr_S_2U/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
         chart: [
           {
             title: "On Wheels",
@@ -1241,12 +1248,7 @@ var a = {
         ],
         ppt: [],
         video: [
-          {
-            title: "On Wheels",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1uyxfI63GXR7b-qKlOVJZ0S3sbrr_S_2U/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
+
           {
             title: "On Wheels",
             type: "",
@@ -2979,7 +2981,7 @@ var a = {
         ],
       },
       3: {
-        name: "I am Lucky!",
+        name: "A Smile & The Wind and the Sun",
         activity: [ /// TODO: check all 3 
           {
             title: "ACT1",
@@ -3054,9 +3056,7 @@ var a = {
             description: "",
           },
         ],
-        chart: [
-
-        ],
+        chart: [],
         ppt: [
           {
             title: "ppt1",
@@ -3082,11 +3082,8 @@ var a = {
             link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQB_uZH7s8sb6-KGTXBuAGi_va9fJxpDILl-GifojTAWJPl3XdzFlA-xagJNTo9wQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
             description: "",
           },
-
         ],
-        video: [
-
-        ],
+        video: [],
       },
       5: {
         name: "A Smile",
@@ -4227,21 +4224,9 @@ var a = {
         activity: [],
         ar: [
           {
-            title: "Video 1",
-            type: "video",
-            link: `<iframe src="https://drive.google.com/file/d/1ZA2RlKougrQ5nt8zlweBS7EgP160oxk2/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-          {
             title: "Video 2",
             type: "video",
             link: `<iframe src="https://drive.google.com/file/d/1RJMBIuTQR3HhmGs-GoCS_L40y2bT3GH_/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-          {
-            title: "Image",
-            type: "img",
-            link: `<iframe src="https://drive.google.com/file/d/1oJo6aVr4ud7-XRUvWa-h9ezuzOcdzubu/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
         ],
@@ -4302,6 +4287,18 @@ var a = {
             title: "AR emotion guess",
             type: "video",
             link: `<iframe src="https://drive.google.com/file/d/1JT6Gkf2zNApdcfsEN0kQZC4IkGuqDc2w/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "AR emotion guess",
+            type: "video",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSa3EZBlsNne0cOpBZpoHIMp_JK5LyIaMF41iYHAy-yVF5h0YNEYeOuiB1Tr7U3fg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+          {
+            title: "AR emotion guess",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1pSAf-PA6WqXw0LS2GPftJ3_C4iFomcaZ/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
         ],
