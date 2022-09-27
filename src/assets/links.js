@@ -2511,27 +2511,27 @@ var a = {
         ppt: [],
         video: [{
           title: "Counting In Tens",
-          type: "pdf",
+          type: "video",
           link: `<iframe src="https://drive.google.com/file/d/1QzlztNYkh8Yaa_O8aQa0qf3lF--7s1jE/preview" width="640" height="480" allow="autoplay"></iframe>`,
           description: "",
         }, {
           title: "Counting In Tens",
-          type: "pdf",
+          type: "video",
           link: `<iframe src="https://drive.google.com/file/d/1R2rhCkVJhWPMtp07E7gDkan3SplQkxkA/preview" width="640" height="480" allow="autoplay"></iframe>`,
           description: "",
         }, {
           title: "Counting In Tens",
-          type: "pdf",
+          type: "video",
           link: `<iframe src="https://drive.google.com/file/d/1R75BEunYoaA_rOYY9XYwcb052-3gjhFm/preview" width="640" height="480" allow="autoplay"></iframe>`,
           description: "",
         }, {
           title: "Counting In Tens",
-          type: "pdf",
+          type: "video",
           link: `<iframe src="https://drive.google.com/file/d/1R9RG_6K5pf6ZF1xDHlRlzm7qkEISHuZa/preview" width="640" height="480" allow="autoplay"></iframe>`,
           description: "",
         }, {
           title: "Counting In Tens",
-          type: "pdf",
+          type: "video",
           link: `<iframe src="https://drive.google.com/file/d/1RBY-BMFW-1XYY8ghpWDW67e9t9v-2lb-/preview" width="640" height="480" allow="autoplay"></iframe>`,
           description: "",
         },
