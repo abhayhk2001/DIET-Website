@@ -40,13 +40,13 @@ var a = {
           {
             title: "Shapes and Spaces",
             type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1hE004P4nc_LzwB-mwYy3XBqyviLCNm9E/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            link: `<iframe src="https://drive.google.com/file/d/1ZGMwyrUMZKng-jR2QjEhheNXDL1LlHDq/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "Video on the chapter",
           },
           {
             title: "Shapes and Spaces",
             type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1ZGMwyrUMZKng-jR2QjEhheNXDL1LlHDq/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            link: `<iframe src="https://drive.google.com/file/d/1hE004P4nc_LzwB-mwYy3XBqyviLCNm9E/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "Video on the chapter",
           },
           {
@@ -245,7 +245,14 @@ var a = {
       },
       5: {
         name: "Numbers from Ten to Twenty",
-        activity: [],
+        activity: [
+          {
+            title: "Numbers from 10 to 20",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/1md2-r2_Izyc8q1jdEzG1LDa9nMmbVOsR/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video based on the chapter",
+          },
+        ],
         ar: [],
         chart: [
           {
@@ -276,12 +283,6 @@ var a = {
           },
         ],
         video: [
-          {
-            title: "Numbers from 10 to 20",
-            type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1md2-r2_Izyc8q1jdEzG1LDa9nMmbVOsR/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Video based on the chapter",
-          },
           {
             title: "Numbers from 10 to 20",
             type: "mp4",
@@ -341,6 +342,13 @@ var a = {
       7: {
         name: "Measurement",
         activity: [
+          /// Include Audio
+          {
+            title: "Measurement",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/1YedjwvRd6Uhs9ly2lZaZfaVcCrFndcCH/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Activity sheet based on the chapter",
+          },
           {
             title: "Measurement",
             type: "pdf",
@@ -348,27 +356,14 @@ var a = {
             description: "Activity sheet based on the chapter",
           },
         ],
-        ar: [
-          {
-            title: "Measurement",
-            type: "pdf",
-            link: `<iframe src="https://drive.google.com/file/d/1YedjwvRd6Uhs9ly2lZaZfaVcCrFndcCH/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Activity sheet based on the chapter",
-          },
-        ],
+        ar: [],
         chart: [],
-        ppt: [{ title: "", type: "p", link: ``, description: "" }],
+        ppt: [],
         video: [
           {
             title: "Measurement",
             type: "mp4",
             link: `<iframe src="https://drive.google.com/file/d/1QTTgJfMaopM0P7ipeozM98KKv_ZTnP9N/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "Video based on the chapter",
-          },
-          {
-            title: "Measurement",
-            type: "mp4",
-            link: `<iframe src="https://drive.google.com/file/d/1A_JnJ436WF68wqHzg0HSAolMwIF0kFlW/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "Video based on the chapter",
           },
           {
@@ -2472,11 +2467,75 @@ var a = {
       },
       4: {
         name: "Counting In Tens",
-        activity: [],
+        activity: [
+          {
+            title: "Counting In Tens",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/1RFArfP8SXwnWcrJJ1WuCb9FF3BRTOQ8D/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
         ar: [],
-        chart: [],
+        chart: [
+          {
+            title: "Counting In Tens",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/1RISCrrmK0SV_sDLVEjAkzkH5Aa9txnUD/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Counting In Tens",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/1QLonunRop4-t6QhIEzwMnCBXWM80_5T6/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Counting In Tens",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/1rHXffO6ptmmjRplSdpk60yPkrhbQlUg9/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Counting In Tens",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/12YYUiaXV6Yk-uj1-tjXRvsg9Dy-eyZQg/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Counting In Tens",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/15E73Uw_Kq00ycup4sUeAWapFiVhiNqBW/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
         ppt: [],
-        video: [],
+        video: [{
+          title: "Counting In Tens",
+          type: "pdf",
+          link: `<iframe src="https://drive.google.com/file/d/1QzlztNYkh8Yaa_O8aQa0qf3lF--7s1jE/preview" width="640" height="480" allow="autoplay"></iframe>`,
+          description: "",
+        }, {
+          title: "Counting In Tens",
+          type: "pdf",
+          link: `<iframe src="https://drive.google.com/file/d/1R2rhCkVJhWPMtp07E7gDkan3SplQkxkA/preview" width="640" height="480" allow="autoplay"></iframe>`,
+          description: "",
+        }, {
+          title: "Counting In Tens",
+          type: "pdf",
+          link: `<iframe src="https://drive.google.com/file/d/1R75BEunYoaA_rOYY9XYwcb052-3gjhFm/preview" width="640" height="480" allow="autoplay"></iframe>`,
+          description: "",
+        }, {
+          title: "Counting In Tens",
+          type: "pdf",
+          link: `<iframe src="https://drive.google.com/file/d/1R9RG_6K5pf6ZF1xDHlRlzm7qkEISHuZa/preview" width="640" height="480" allow="autoplay"></iframe>`,
+          description: "",
+        }, {
+          title: "Counting In Tens",
+          type: "pdf",
+          link: `<iframe src="https://drive.google.com/file/d/1RBY-BMFW-1XYY8ghpWDW67e9t9v-2lb-/preview" width="640" height="480" allow="autoplay"></iframe>`,
+          description: "",
+        },
+        ],
       },
       5: {
         name: "Patterns",
