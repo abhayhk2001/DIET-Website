@@ -1730,12 +1730,6 @@ var a = {
             link: `<iframe src="https://drive.google.com/file/d/1z1F3lx5piDCR1jzQmJnSnSbHPdI-k9f_/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
-          {
-            title: "Chapter 10C",
-            type: "video",
-            link: `<iframe src="https://drive.google.com/file/d/14QCtKQP5bHOoCes4NIly1aTP7WuYt0hk/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
         ],
         chart: [
           {
@@ -2851,33 +2845,20 @@ var a = {
             link: `<iframe src="https://drive.google.com/file/d/1LZaBgxsCSMmv0-TKBaG61CO-c_oixwR6/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
-
           {
-            title: "Worksheet",
-            type: "",
-            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTrMOrEmpDRbs8nJQ06D6Qi5W7vmey6LM-pCqJSm4AYkAdWXlUUt9MFCuv6vs7Fwg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
-            description: "",
-          },
-        ],
-        ar: [
-          {
-            title: "ar1",
+            title: "First Day at School",
             type: "",
             link: `<iframe src="https://drive.google.com/file/d/1ssSafZR84UZ0z2fMfqTmTd0rBUEamt_p/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
-          {
-            title: "ar2",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1XI0qLjIDBoPSsMimpT9pWqJeflSzGTDy/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-          {
-            title: "ar3",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1E0YhEo42VpbrEFlfmlrjtxJr-qk8hW6R/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
+        ],
+        ar: [
+          // {
+          //   title: "ar3",
+          //   type: "",
+          //   link: `<iframe src="https://drive.google.com/file/d/1E0YhEo42VpbrEFlfmlrjtxJr-qk8hW6R/preview" width="640" height="480" allow="autoplay"></iframe>`,
+          //   description: "",
+          // },
           {
             title: "ar4",
             type: "",
@@ -2890,24 +2871,7 @@ var a = {
             link: `<iframe src="https://drive.google.com/file/d/1EFW4AuVEg-FQWLAzJ-cIFKFLu881QYmI/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
-          {
-            title: "ar6",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1m5zoLqrLk6_LDdKLD3RkIaHt-Zty66Rd/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-          {
-            title: "ar7",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1GbB49vNSxqFmqVbkVDsWMYASe4ObHeP5/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-          {
-            title: "ar8",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1mQtokQUSN0GV4D8vg2mssV9KdTAHOnu6/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
+
         ],
         chart: [],
         ppt: [],
@@ -3023,7 +2987,7 @@ var a = {
             description: "",
           },
           {
-            title: "ER2",
+            title: "ER2", ///modify
             type: "",
             link: `<iframe src="https://drive.google.com/file/d/1w6WYXiNY6Ob2UYRj79BP0LdhsS6wd5-q/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
@@ -3038,18 +3002,18 @@ var a = {
           },
         ],
         ppt: [
-          {
-            title: "PPT1",
-            type: "",
-            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRqErSOaGTq08qw9Suzz4ItUnTROoD3kU33_KCSx9gUkVtY-szgLTEs1NMebMY0Yg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
-            description: "",
-          },
-          {
-            title: "PPT2",
-            type: "",
-            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSMAzI7NuQP2bVKPoAnXbzt-ab_erXaCYc1UdZngmL_XGKfeeWD-IJ-B0hey_hwrA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="2111" height="1216" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
-            description: "",
-          },
+          // {
+          //   title: "PPT1",
+          //   type: "",
+          //   link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRqErSOaGTq08qw9Suzz4ItUnTROoD3kU33_KCSx9gUkVtY-szgLTEs1NMebMY0Yg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+          //   description: "",
+          // },
+          // {
+          //   title: "PPT2",
+          //   type: "",
+          //   link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSMAzI7NuQP2bVKPoAnXbzt-ab_erXaCYc1UdZngmL_XGKfeeWD-IJ-B0hey_hwrA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="2111" height="1216" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+          //   description: "",
+          // },
         ],
         video: [
           {
@@ -3288,12 +3252,7 @@ var a = {
           },
         ],
         ar: [
-          {
-            title: "ar1",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1VUtJpNGCYaPUiPwTNqxUkLBtTHG9MfuF/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
+
           {
             title: "ar2",
             type: "",
@@ -3437,12 +3396,6 @@ var a = {
             link: `<iframe src="https://drive.google.com/file/d/1lh7G_5uqOftwdKNuF4WwSNj56GziS9gq/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
-          {
-            title: "vid3",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1arYuPb_dK0Ef6BNI1szm8deyfY8wSTUV/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
         ],
         chart: [
           {
@@ -3520,35 +3473,35 @@ var a = {
         ppt: [],
         video: [
           {
-            title: "vid1",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1dxFqwOawgZW9rvwYzGNl5zMSfBV-D_qi/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-          {
-            title: "vid2",
+            title: "Video 1",
             type: "",
             link: `<iframe src="https://drive.google.com/file/d/1QKGHMsyiLBPbqOpojMkDJNTe7Wn1BtWi/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
           {
-            title: "vid3",
+            title: "Video 2",
             type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1kLuvVJnIsvA3iKBE_7AfwshDvfcGPGzr/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            link: `<iframe src="https://drive.google.com/file/d/1dxFqwOawgZW9rvwYzGNl5zMSfBV-D_qi/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
-          {
-            title: "vid4",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1vhGiYwowigARVB-OiYPpUkI5qQB3PlVo/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-          {
-            title: "vid5",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1v6aB88VCP7Op18av4xzs65DoKIOwjIVI/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
+          // {
+          //   title: "vid3",
+          //   type: "",
+          //   link: `<iframe src="https://drive.google.com/file/d/1kLuvVJnIsvA3iKBE_7AfwshDvfcGPGzr/preview" width="640" height="480" allow="autoplay"></iframe>`,
+          //   description: "",
+          // },
+          // {
+          //   title: "vid4",
+          //   type: "",
+          //   link: `<iframe src="https://drive.google.com/file/d/1vhGiYwowigARVB-OiYPpUkI5qQB3PlVo/preview" width="640" height="480" allow="autoplay"></iframe>`,
+          //   description: "",
+          // },
+          // {
+          //   title: "vid5",
+          //   type: "",
+          //   link: `<iframe src="https://drive.google.com/file/d/1v6aB88VCP7Op18av4xzs65DoKIOwjIVI/preview" width="640" height="480" allow="autoplay"></iframe>`,
+          //   description: "",
+          // },
         ],
       },
       10: {
@@ -4363,6 +4316,13 @@ var a = {
             link: `<iframe src="https://drive.google.com/file/d/1iVgozndK-TJob9Yyu2NyWF2orUt0DEJl/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
+          {
+            title: "Saying without speaking",
+            type: "img",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQxYi7uoVrCId_ZMqcB0vOKR5pZoez0LJX4nST8aC2ol-EcQLqM9orKe5oo3bm2cA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+
         ],
         ar: [
           {
@@ -4386,7 +4346,14 @@ var a = {
             description: "",
           },
         ],
-        ppt: [],
+        ppt: [
+          {
+            title: "Poem Explanation",
+            type: "video",
+            link: `          <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQbjsOnlf9U0cElRXB7bc8GYyL2YZRJ119rrUNLSb09LHOXNQTRQXJ0EkrYfWre_Q/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+        ],
         video: [
           {
             title: "Animated Poem video",
@@ -4485,6 +4452,12 @@ var a = {
             link: `<iframe src="https://drive.google.com/file/d/1HHjezY4rlJipq_l43981N8lLJj7ScbYn/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
+          {
+            title: "Flying High",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/10zTHVtybeNtp-Qc-uFGaAj_AQBRqtswz/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
         ],
         chart: [
           {
@@ -4494,7 +4467,14 @@ var a = {
             description: "",
           },
         ],
-        ppt: [],
+        ppt: [
+          {
+            title: "AR VR EVS Chapter 8",
+            type: "img",
+            link: `<iframe src="https://drive.google.com/file/d/10zwowAlhJyjruAA98MtViuovc0ikw4PG/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
         video: [
           {
             title: "Origami Paper cock",
@@ -6337,12 +6317,6 @@ var a = {
           {
             title: "Shapes and Design",
             type: "ppt",
-            link: `<iframe src="https://drive.google.com/file/d/1lgmNq-gqxN1ZI3kfBd-7SV3ONnrqBkBH/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-          {
-            title: "Shapes and Design",
-            type: "ppt",
             link: `<iframe src="https://drive.google.com/file/d/1W98VBbS9JwVeCsvOIx3cU3EpX1_5rQ2e/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
@@ -6416,24 +6390,6 @@ var a = {
           },
         ],
         video: [
-          {
-            title: "Age",
-            type: "video",
-            link: `<iframe src="https://drive.google.com/file/d/1MHooAdJOl8KktJ1geTo2-SZzNTkyDhlO/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-          {
-            title: "Birth Certificate",
-            type: "video",
-            link: `<iframe src="https://drive.google.com/file/d/1WMw0-hoH4K-YMoSp04p598gQApav-RQe/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-          {
-            title: "Calender",
-            type: "video",
-            link: `<iframe src="https://drive.google.com/file/d/1U-yyFxWRD-NGDVg06m8m2v3BmX6oUJ0M/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
           {
             title: "Age",
             type: "video",
@@ -6947,25 +6903,7 @@ var a = {
           {
             title: "Rupees and Paise",
             type: "video",
-            link: `<iframe src="https://drive.google.com/file/d/1RvFk4mBrtaH3IQzP_hkWBwP0UWtg3pp7/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-          {
-            title: "Rupees and Paise",
-            type: "video",
-            link: `<iframe src="https://drive.google.com/file/d/1MWsT7x8oJzDzR67EMhm_BjR1YhHw-Poc/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-          {
-            title: "Rupees and Paise",
-            type: "video",
-            link: `<iframe src="https://drive.google.com/file/d/1xS4W3poAFiCYsTz4SLVouK0mgQfeZTJh/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-          {
-            title: "Rupees and Paise",
-            type: "video",
-            link: `<iframe src="https://drive.google.com/file/d/15xxKPCBYmzq_YJPc0Zh8kmT3dNZeL2ov/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            link: `<iframe src="https://drive.google.com/file/d/1pPg-1aYRRVEyUQjrXDuLqbm4r3DeytQT/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
           {
@@ -6977,9 +6915,27 @@ var a = {
           {
             title: "Rupees and Paise",
             type: "video",
-            link: `<iframe src="https://drive.google.com/file/d/1pPg-1aYRRVEyUQjrXDuLqbm4r3DeytQT/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            link: `<iframe src="https://drive.google.com/file/d/15xxKPCBYmzq_YJPc0Zh8kmT3dNZeL2ov/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
+          {
+            title: "Rupees and Paise",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1xS4W3poAFiCYsTz4SLVouK0mgQfeZTJh/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Rupees and Paise",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1MWsT7x8oJzDzR67EMhm_BjR1YhHw-Poc/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Rupees and Paise",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1RvFk4mBrtaH3IQzP_hkWBwP0UWtg3pp7/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          }
         ],
       },
     },
