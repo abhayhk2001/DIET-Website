@@ -2831,7 +2831,7 @@ var a = {
     ENG: {
       colour: "rgb(216 255 225)",
       1: {
-        name: "First Day at School",
+        name: "First Day at School & Haldi's Adventure",
         activity: [
           {
             title: "Worksheet",
@@ -2839,16 +2839,17 @@ var a = {
             link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQUyG-l3xQ_9LxEoFm-n8IICJdf07MYsdFOSrNKkUy4HcQBzVInISl5uxr1102IJA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
             description: "",
           },
-          {
-            title: "Poem 1,2,3",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1LZaBgxsCSMmv0-TKBaG61CO-c_oixwR6/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
+
           {
             title: "First Day at School",
             type: "",
             link: `<iframe src="https://drive.google.com/file/d/1ssSafZR84UZ0z2fMfqTmTd0rBUEamt_p/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Poem 1,2,3",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1LZaBgxsCSMmv0-TKBaG61CO-c_oixwR6/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
         ],
@@ -2871,6 +2872,12 @@ var a = {
             link: `<iframe src="https://drive.google.com/file/d/1EFW4AuVEg-FQWLAzJ-cIFKFLu881QYmI/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
+          {
+            title: "ar1",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1dqxjpAB8o_lWTDlWJcVZywRje7g1wtgt/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
 
         ],
         chart: [],
@@ -2882,37 +2889,51 @@ var a = {
             link: `<iframe src="https://drive.google.com/file/d/1Tcb-OtDzsHzCMvoDMz8vNPOODNNJVQ-1/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
-        ],
-      },
-      2: {
-        name: "Haldi's Adventure",
-        activity: [
-          {
-            title: "act1",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1R_52mMQXZo4zh41c2VBzACc0UjVXbnOb/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
           {
             title: "act1",
             type: "",
             link: `<iframe src="https://drive.google.com/file/d/12C548kkklRIn9nTiwbDVWz-rXM5gmItO/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
-        ],
-        ar: [
           {
-            title: "ar1",
+            title: "HALDI'S ADVENTURE",
             type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1dqxjpAB8o_lWTDlWJcVZywRje7g1wtgt/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            link: `<iframe src="https://drive.google.com/file/d/1MK_PqchCraObbKRM-6SzsZI3cthR_5-b/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
         ],
+      },
+      2: {
+        name: "I am Lucky & I Want",
+        activity: [
+          { //// TODO: Check
+            title: "act1",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1R_52mMQXZo4zh41c2VBzACc0UjVXbnOb/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+
+        ],
+        ar: [
+
+        ],
         chart: [
-          {
+          { ///TODO: check
             title: "SAIL BARK SING PLAY RING",
             type: "",
             link: `<iframe src="https://drive.google.com/file/d/1ys8l6v-qwYi8leTfAGISOnw_S7-wbUDG/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "I am Lucky",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/15Pd6_InY5A4LLV-2C-zijI6E4Q1HskPd/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "I want",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1KBDWYCaXIT7lVAoN6-jxMQEARNTHHBtN/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
         ],
@@ -2923,7 +2944,7 @@ var a = {
             link: `<iframe src="https://drive.google.com/file/d/11KmlRvRBtxcISuMZJUvjJjjsNtDuxhby/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
-          {
+          { ///TODO: Check
             title: "PPT2",
             type: "",
             link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSSz-ZGs7bilDPxCYGmTLee4dyG-vA2_pUJJtfntPNh_9hZ40XU78F4QD18pg8ZAA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
@@ -2935,25 +2956,31 @@ var a = {
             link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRz6fgSAWjnC9_1hxHKOYQ6QDAvyC-mvi6MtgQXG2RLsUAkmwsn-v0ssJSvRYLWKg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
             description: "",
           },
-        ],
-        video: [
           {
-            title: "HALDI'S ADVENTURE",
+            title: "pdf5",
             type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1MK_PqchCraObbKRM-6SzsZI3cthR_5-b/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRtK9I-WNyHX4qElIQA9u92nKOyO5ztupqZFEQPTk-snTTLA2mjzDsafyJYUbuEsA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
             description: "",
           },
+        ],
+        video: [
           {
             title: "ar",
             type: "",
             link: `<iframe src="https://drive.google.com/file/d/1IvWHhghWS7XEwCMi5zEOWQlDCsfiBUQq/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
+          {
+            title: "I Want",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1OQ_n9v6R9GdFl1ccbOJ1xcAaME3Gb388/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
         ],
       },
       3: {
         name: "I am Lucky!",
-        activity: [
+        activity: [ /// TODO: check all 3 
           {
             title: "ACT1",
             type: "",
@@ -2972,51 +2999,25 @@ var a = {
             link: `<iframe src="https://drive.google.com/file/d/1rh8LFAU0RDmPFr6CH4D0xmXDjLc63YnZ/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
-          {
-            title: "ACT4",
-            type: "",
-            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQiO0QsF8LTtIRKvvVDrpxHxYgO2ZIoXE6yRk7PFiRmFKifd2AYf1ayMLJC-sEslg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
-            description: "",
-          },
         ],
         ar: [
-          {
-            title: "IF YOU'RE AND YOU KNOW IT",
+          { /// TODO: check
+            title: "IF YOU'RE HAPPY AND YOU KNOW IT",
             type: "",
             link: `<iframe src="https://drive.google.com/file/d/1JMaW-iJ4shswJk3Bkyr0fOzQf4pnmv1S/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
           {
-            title: "ER2", ///modify
+            title: "A Smile", ///modify
             type: "",
             link: `<iframe src="https://drive.google.com/file/d/1w6WYXiNY6Ob2UYRj79BP0LdhsS6wd5-q/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
         ],
-        chart: [
-          {
-            title: "I am Lucky",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/15Pd6_InY5A4LLV-2C-zijI6E4Q1HskPd/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-        ],
-        ppt: [
-          // {
-          //   title: "PPT1",
-          //   type: "",
-          //   link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRqErSOaGTq08qw9Suzz4ItUnTROoD3kU33_KCSx9gUkVtY-szgLTEs1NMebMY0Yg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
-          //   description: "",
-          // },
-          // {
-          //   title: "PPT2",
-          //   type: "",
-          //   link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSMAzI7NuQP2bVKPoAnXbzt-ab_erXaCYc1UdZngmL_XGKfeeWD-IJ-B0hey_hwrA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="2111" height="1216" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
-          //   description: "",
-          // },
-        ],
+        chart: [],
+        ppt: [],
         video: [
-          {
+          { ///TODO: check all 3
             title: "Marigold",
             type: "",
             link: `<iframe src="https://drive.google.com/file/d/1dMwB4XStf74gwWvF0yMvntfq0-b1tgci/preview" width="640" height="480" allow="autoplay"></iframe>`,
@@ -3038,14 +3039,7 @@ var a = {
       },
       4: {
         name: "I Want",
-        activity: [
-          {
-            title: "I want",
-            type: "",
-            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ6nn8ijRuYaEtzN6KZFqJd3BoxCbnqaNDurxV-0oTw3cGyeM6WjImfg7pGUkEH_A/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
-            description: "",
-          },
-        ],
+        activity: [],
         ar: [
           {
             title: "Rain",
@@ -3061,12 +3055,7 @@ var a = {
           },
         ],
         chart: [
-          {
-            title: "I want",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1KBDWYCaXIT7lVAoN6-jxMQEARNTHHBtN/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
+
         ],
         ppt: [
           {
@@ -3093,26 +3082,10 @@ var a = {
             link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQB_uZH7s8sb6-KGTXBuAGi_va9fJxpDILl-GifojTAWJPl3XdzFlA-xagJNTo9wQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
             description: "",
           },
-          {
-            title: "pdf5",
-            type: "",
-            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRtK9I-WNyHX4qElIQA9u92nKOyO5ztupqZFEQPTk-snTTLA2mjzDsafyJYUbuEsA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
-            description: "",
-          },
+
         ],
         video: [
-          {
-            title: "I Want",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1OQ_n9v6R9GdFl1ccbOJ1xcAaME3Gb388/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-          {
-            title: "I Want",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1h5LidmVx8Khl4pJmEtugkh-8axUBqKrp/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
+
         ],
       },
       5: {
