@@ -2766,6 +2766,12 @@ var a = {
           {
             title: "The longest step",
             type: "jpg",
+            link: `<iframe src="https://drive.google.com/file/d/1fl1jxpjdRtJlaf4W53OjFmIIJHO0se0w/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Math is Fun! Chart",
+          },
+          {
+            title: "The longest step",
+            type: "jpg",
             link: `<iframe src="https://drive.google.com/file/d/1HkPs6slhsPXZp4mQFXVRFmR2m4tXIbz3/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "Math is Fun! Chart",
           },
@@ -2776,6 +2782,18 @@ var a = {
             type: "pptx",
             link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRFPFoZWLLjVznMlzeLo3nRokij5FOJqjN78c1Yq_-lxxzA4bvMMWS6A-IL04aEXg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
             description: "PPT based on the chapter",
+          },
+          {
+            title: "The longest step",
+            type: "pptx",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT_r3Z6-_a__fa95gTHQDZoRABOOIQI24lKqHGiB95muuHVpE3R742odnxLz7M57g/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "PPT based on the chapter",
+          },
+          {
+            title: "The longest step",
+            type: "jpg",
+            link: `<iframe src="https://drive.google.com/file/d/1QJ81SZlMJ5OGGF6nFj3XrgrPtSuFfHee/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Math is Fun! Chart",
           },
         ],
         video: [
@@ -2805,12 +2823,51 @@ var a = {
             description: "Activity based chart",
           },
         ],
-        ppt: [],
-        video: [],
+        ppt: [
+          {
+            title: "Birds come and go",
+            type: "pdf",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQVTdZMF8YC2uKCbMG-WLZMYFNpixM1WZm8p8uenJzcNz5focqa85uFBs-wiK2_-g/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "Activity based chart",
+          },
+        ],
+        video: [
+          {
+            title: "Birds come and go",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/1ddyxcYU0WxrPp-jB8BxYs0ZvXJidbS68/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Activity based chart",
+          },
+          {
+            title: "Birds come and go",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/1eO4xxrRNebVzuCYRScfjYxNwHYmu3v4T/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Activity based chart",
+          },
+          {
+            title: "Birds come and go",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/1YC7TFbgUQxlO2OeCWc_2TetGuaNqtu7h/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Activity based chart",
+          },
+          {
+            title: "Birds come and go",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/1gQwiaUxMMnGnHQgHHMwGQLrard2vp-IL/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Activity based chart",
+          },
+        ],
       },
       15: {
         name: "How Many Ponytails?",
-        activity: [],
+        activity: [
+          {
+            title: "How Many Ponytails?",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/1SaedBeA_yoLWmn-hr7ToyHStG_6cqom5/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Activity based chart",
+          },
+        ],
         ar: [],
         chart: [
           {
@@ -2825,6 +2882,19 @@ var a = {
             link: `<iframe src="https://drive.google.com/file/d/13TDHiUtvb8_I1AP1hF6eHsAJMNDUGpwJ/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "Activity based chart",
           },
+          {
+            title: "How Many Ponytails?",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/13QTdDIa01BhdkANeMXRZkOautOkPUPNt/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Activity based chart",
+          },
+          {
+            title: "How Many Ponytails?",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/1lLzOh7NVOBxxBEY6_MhmJDX5wpt6fluG/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Activity based chart",
+          },
+
         ],
         ppt: [],
         video: [],
@@ -4183,21 +4253,9 @@ var a = {
         ],
         ar: [
           {
-            title: "Chapter 5 Chhotus House",
-            type: "video",
-            link: `<iframe src="https://drive.google.com/file/d/1HjsLjM7AGENa7wEvmD6g92xJ75njvmxF/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-          {
             title: "Chhotus House",
             type: "video",
             link: `<iframe src="https://drive.google.com/file/d/1dO3Wn51jgKP2onRROjVzsrXX0Q-F7k9w/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-          {
-            title: "Chhotu's House",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1DvzKZ9dPoDgcdJc453exNKNMELnBgQJ3/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
         ],
