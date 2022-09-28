@@ -2835,6 +2835,12 @@ var a = {
             link: `<iframe src="https://drive.google.com/file/d/1gT9-kziL0uSY_08ezmE-4bgXlNH369Z_/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "Activity based chart",
           },
+          {
+            title: "Birds come and go",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/1vcJaH8IJUk6sv6hC68Owz5_WC0wBHiE5/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Activity based chart",
+          },
         ],
         ppt: [
           {
@@ -2909,7 +2915,7 @@ var a = {
           },
 
         ],
-        ppt: [
+        ppt: [ //TODO: check this not working
           {
             title: "How Many Ponytails?",
             type: "pdf",
@@ -3154,6 +3160,18 @@ var a = {
         name: "Rain & Storm in the Garden",
         activity: [
           {
+            title: "act1",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1r5UpPo6LbL1_VlD5EuD09kWRtV5scgIF/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "act2",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1oJQwf4xnTeiQd8MuxAHG7KXf0Ljm57qw/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
             title: "pdf2",
             type: "",
             link: `<iframe src="https://drive.google.com/file/d/1ef5LReSlxkNub3HR6rpBqEijz4nYkGuH/preview" width="640" height="480" allow="autoplay"></iframe>`,
@@ -3194,8 +3212,45 @@ var a = {
             link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQB_uZH7s8sb6-KGTXBuAGi_va9fJxpDILl-GifojTAWJPl3XdzFlA-xagJNTo9wQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
             description: "",
           },
+          {
+            title: "ppt1",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTrQMhlHn0kkef6mkPNTa1lwirMm5UitVmUbqBCRscW35AVl59fgFAwc0GEyNXWow/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
         ],
-        video: [],
+        video: [
+          {
+            title: "rain",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1zwPn89inmNegcSfZtm-ffdCQJQSeUU_7/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "vid2",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1AS4uP5EPrvCGGO7jLBtXFWmg7bUvzVO-/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "vid3",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1uwZo_POwfGHEPNOd6MCavFO9TlVhboY5/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Storm in the garden",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1nZNC5Ed0ZrjHqtLUlOpzZeXV_pnF7-gl/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Storm in the Garden",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1s5ByniyE5UTVpqmDrP_vAH7VOI4qPsyG/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
       },
       5: {
         name: "Zoo Manners & Funny Bunny",
@@ -3327,53 +3382,15 @@ var a = {
         ],
       },
       7: {
-        name: "Rain",
-        activity: [
-          {
-            title: "act1",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1r5UpPo6LbL1_VlD5EuD09kWRtV5scgIF/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-          {
-            title: "act2",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1oJQwf4xnTeiQd8MuxAHG7KXf0Ljm57qw/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-          {
-            title: "act3",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1ha3l2IGhMaiv5MURq0Pn_lcBp_hdUuq8/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-        ],
+        name: "On my Blackboard I can Draw & Make it Shorter",
+        activity: [],
         ar: [],
         chart: [],
         ppt: [],
-        video: [
-          {
-            title: "rain",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1zwPn89inmNegcSfZtm-ffdCQJQSeUU_7/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-          {
-            title: "vid2",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1AS4uP5EPrvCGGO7jLBtXFWmg7bUvzVO-/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-          {
-            title: "vid3",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1uwZo_POwfGHEPNOd6MCavFO9TlVhboY5/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-        ],
+        video: [],
       },
       8: {
-        name: "Storm in the Garden",
+        name: "I am the Music Man & The Mumbai Musicians",
         activity: [
           {
             title: "act1",
@@ -3385,12 +3402,6 @@ var a = {
             title: "act2",
             type: "",
             link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSaafajnyFJzixI81mCz-tU8hTYZoVa1LFQB12nHy2-dOGR7QENB99eAH16tVQJLg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
-            description: "",
-          },
-          {
-            title: "act3",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1t3Nw_E8zUkOJlWNSv-B4uVOTMldDx7rD/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
         ],
@@ -3428,33 +3439,9 @@ var a = {
             description: "",
           },
         ],
-        ppt: [
-          {
-            title: "ppt1",
-            type: "",
-            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTrQMhlHn0kkef6mkPNTa1lwirMm5UitVmUbqBCRscW35AVl59fgFAwc0GEyNXWow/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
-            description: "",
-          },
-          {
-            title: "ppt2",
-            type: "",
-            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRqzUODd29ie4Xsy_30xU9N6g0dtPmqmGVB6jKSLSefKf-TCV8PCFrDTYhwNG9VIw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
-            description: "",
-          },
-        ],
+        ppt: [],
         video: [
-          {
-            title: "vid1",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1nZNC5Ed0ZrjHqtLUlOpzZeXV_pnF7-gl/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-          {
-            title: "vid2",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1s5ByniyE5UTVpqmDrP_vAH7VOI4qPsyG/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
+          // REQUEST ACCESS
           {
             title: "vid3",
             type: "",
