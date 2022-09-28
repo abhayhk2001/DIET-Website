@@ -2525,10 +2525,23 @@ var a = {
           type: "video",
           link: `<iframe src="https://drive.google.com/file/d/1R9RG_6K5pf6ZF1xDHlRlzm7qkEISHuZa/preview" width="640" height="480" allow="autoplay"></iframe>`,
           description: "",
-        }, {
+        },
+        {
           title: "Counting In Tens",
           type: "video",
           link: `<iframe src="https://drive.google.com/file/d/1RBY-BMFW-1XYY8ghpWDW67e9t9v-2lb-/preview" width="640" height="480" allow="autoplay"></iframe>`,
+          description: "",
+        },
+        {
+          title: "Chickens and the Clever Fox",
+          type: "video",
+          link: `<iframe src="https://drive.google.com/file/d/1ENe9re1G4PdfUUO0y8_gSsGAHkTrFzrT/preview" width="640" height="480" allow="autoplay"></iframe>`,
+          description: "",
+        },
+        {
+          title: "Counting In Tens",
+          type: "video",
+          link: `<iframe src="https://drive.google.com/file/d/1ySqLcs-1KeSj8abjySdLyC75gH5X_VQC/preview" width="640" height="480" allow="autoplay"></iframe>`,
           description: "",
         },
         ],
@@ -2896,7 +2909,14 @@ var a = {
           },
 
         ],
-        ppt: [],
+        ppt: [
+          {
+            title: "How Many Ponytails?",
+            type: "pdf",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRaGQgpdKbFACwkZEVLKNtEMnPKN-6tK-NPbHFCjs8hDkoKdsXm6-GDt2LENvt8ww/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "Activity based chart",
+          },
+        ],
         video: [],
       },
     },
@@ -3048,6 +3068,12 @@ var a = {
             link: `<iframe src="https://drive.google.com/file/d/1OQ_n9v6R9GdFl1ccbOJ1xcAaME3Gb388/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
+          {
+            title: "I Want",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1dMwB4XStf74gwWvF0yMvntfq0-b1tgci/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
         ],
       },
       3: {
@@ -3059,6 +3085,7 @@ var a = {
             link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRpBCB45Wi46aAf4BuT_ETtsfdsv5C6CriFDV0cZa94r6WF0mJAM4A6OzTvMcXXIA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
             description: "",
           },
+          //TODO: Check
           {
             title: "ACT2",
             type: "",
@@ -3073,45 +3100,72 @@ var a = {
           },
         ],
         ar: [
-          { /// TODO: check
+          {
             title: "IF YOU'RE HAPPY AND YOU KNOW IT",
             type: "",
             link: `<iframe src="https://drive.google.com/file/d/1JMaW-iJ4shswJk3Bkyr0fOzQf4pnmv1S/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
           {
-            title: "A Smile", ///modify
+            title: "A Smile",
             type: "",
             link: `<iframe src="https://drive.google.com/file/d/1w6WYXiNY6Ob2UYRj79BP0LdhsS6wd5-q/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
         ],
-        chart: [],
+        chart: [
+          {
+            title: "chart 1",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1NObgnTGveRpA-w0E6NI9UWZ8ynH_f4rw/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
         ppt: [],
         video: [
-          { ///TODO: check all 3
-            title: "Marigold",
+          {
+            title: "A SMILE",
             type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1dMwB4XStf74gwWvF0yMvntfq0-b1tgci/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            link: `<iframe src="https://drive.google.com/file/d/1Poto9SJusomn3knfmTqQlf7IvWPm2JC3/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "A SMILE",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1iTL3ZGaHWyCrMrhkHV3k6TEfznF5V_38/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
           {
             title: "vid1",
             type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1S-qmikevElCCWqMrls6diD7D9BQwEGeW/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            link: `<iframe src="https://drive.google.com/file/d/1qRe-x8uz3BTmoCq5HXL_jWQMunf9FbI3/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
+
           {
             title: "vid2",
             type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1oaBspkPfJYGoZgEN8SlCGOzn7P0WjFJN/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            link: `<iframe src="https://drive.google.com/file/d/1T2CMiBZ0Do7af-NgzqcHhxGQUkN57Pqu/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
         ],
       },
       4: {
-        name: "I Want",
-        activity: [],
+        name: "Rain & Storm in the Garden",
+        activity: [
+          {
+            title: "pdf2",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1ef5LReSlxkNub3HR6rpBqEijz4nYkGuH/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "pdf3",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1bo-63oA66d5YryZIHDXnYNHbvXOpk5cb/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
         ar: [
           {
             title: "Rain",
@@ -3135,18 +3189,6 @@ var a = {
             description: "",
           },
           {
-            title: "pdf2",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1ef5LReSlxkNub3HR6rpBqEijz4nYkGuH/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-          {
-            title: "pdf3",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1bo-63oA66d5YryZIHDXnYNHbvXOpk5cb/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-          {
             title: "pdf4",
             type: "",
             link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQB_uZH7s8sb6-KGTXBuAGi_va9fJxpDILl-GifojTAWJPl3XdzFlA-xagJNTo9wQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
@@ -3156,79 +3198,8 @@ var a = {
         video: [],
       },
       5: {
-        name: "A Smile",
+        name: "Zoo Manners & Funny Bunny",
         activity: [
-          {
-            title: "GUESS THE SILENT LETTER",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/18PVWbWZWIndJxAFWg8_mBTsjmRxhZpxX/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-          {
-            title: "AC2",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1rij4uJ0esO76bkjriqFvZEf51ekYbWHE/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-          {
-            title: "AC3",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/10KPApLG2ATdIEFrnLMdxxV1CvR9tvusD/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-          {
-            title: "AC4",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1NrV69Ux7JsDsCG1-Kq_MDWd74U8laYhq/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-          {
-            title: "SNAKE AND LADDER",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/17oK--XwW3cQum2VHmdpQkVUysEWthzCn/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-          {
-            title: "A SMILE",
-            type: "",
-            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTyrhkTtW3jTEB-_-vYNZmAvwFt5s_H9ci7u_uAv6fJi43NfpELeh3OTy98KfagRg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
-            description: "",
-          },
-          {
-            title: "A SMILE",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1iTL3ZGaHWyCrMrhkHV3k6TEfznF5V_38/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-        ],
-        ar: [
-          {
-            title: "ON THE WAY,THEY MET LUCKY DUCKY",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1qMn1LtxHOxPd2_8Y31yiglJUQBQT_Z7L/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-          {
-            title: "ZOO MANNERS",
-            type: "",
-            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQQkRmbp72MeyyEIDuBvFPD1OhyGPHyzAvtdo8Hgo4sIYLKc4bvWxidF4Qlfr1dwA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
-            description: "",
-          },
-          {
-            title: "FUNNY BUNNY",
-            type: "",
-            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQppChFzvmUGAOKfwPotirKiavdAfKswdkWaJ0M5bL1Cf_mm_2qlb4TRG--eELh5Q/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
-            description: "",
-          },
-          {
-            title: "ZOO MANNERS",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1r8BtpTUggRxOPSlma5X78CnOy1aDhBtf/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-        ],
-        chart: [],
-        ppt: [
           {
             title: "ppt1",
             type: "",
@@ -3260,23 +3231,40 @@ var a = {
             description: "",
           },
         ],
-        video: [
+        ar: [
           {
-            title: "A SMILE",
+            title: "ON THE WAY,THEY MET LUCKY DUCKY",
             type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1Poto9SJusomn3knfmTqQlf7IvWPm2JC3/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            link: `<iframe src="https://drive.google.com/file/d/1qMn1LtxHOxPd2_8Y31yiglJUQBQT_Z7L/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
+
           {
-            title: "A SMILE",
+            title: "ZOO MANNERS",
             type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1vxWQvNEaw3vY43MI8VHf4CeMS3qshFxB/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            link: `<iframe src="https://drive.google.com/file/d/1r8BtpTUggRxOPSlma5X78CnOy1aDhBtf/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
         ],
+        chart: [],
+        ppt: [
+          {
+            title: "ZOO MANNERS",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQQkRmbp72MeyyEIDuBvFPD1OhyGPHyzAvtdo8Hgo4sIYLKc4bvWxidF4Qlfr1dwA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+          {
+            title: "FUNNY BUNNY",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQppChFzvmUGAOKfwPotirKiavdAfKswdkWaJ0M5bL1Cf_mm_2qlb4TRG--eELh5Q/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+        ],
+        video: [],
       },
       6: {
-        name: "The Wind and the Sun",
+        name: "Mr Nobody & Curlylocks and the Three Bears",
         activity: [
           {
             title: "act1",
@@ -3292,7 +3280,6 @@ var a = {
           },
         ],
         ar: [
-
           {
             title: "ar2",
             type: "",
@@ -3307,12 +3294,7 @@ var a = {
           },
         ],
         chart: [
-          {
-            title: "char1",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1NObgnTGveRpA-w0E6NI9UWZ8ynH_f4rw/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
+
         ],
         ppt: [
           {
@@ -3341,18 +3323,7 @@ var a = {
           },
         ],
         video: [
-          {
-            title: "vid1",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1qRe-x8uz3BTmoCq5HXL_jWQMunf9FbI3/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-          {
-            title: "vid2",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1T2CMiBZ0Do7af-NgzqcHhxGQUkN57Pqu/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
+
         ],
       },
       7: {
