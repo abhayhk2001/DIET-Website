@@ -814,7 +814,7 @@ var a = {
           {
             title: "Joining Dots",
             type: "pdf",
-            link: `https://drive.google.com/file/d/1Gf36hzvFl3nkaxpKxs8bfXORX21pE50d/view`,
+            link: `<iframe src="https://drive.google.com/file/d/1Gf36hzvFl3nkaxpKxs8bfXORX21pE50d/view" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
           {
@@ -895,30 +895,6 @@ var a = {
             link: `<iframe src="https://drive.google.com/file/d/1qakLkq1YeP7_MNUsballoRYLNXeZr0v3/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
-          {
-            title: "Life Cycle-Tomato",
-            type: "video",
-            link: `<iframe src="https://drive.google.com/file/d/1nfxToUGOoL4CEr9kh8LHQJLYuEq7p5yI/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-          {
-            title: "Life Cycle-Papaya",
-            type: "video",
-            link: `<iframe src="https://drive.google.com/file/d/1x2naU_FcqIZE2PczkWTJRWNChA3mSCHT/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-          {
-            title: "Life Cycle-Coconut",
-            type: "video",
-            link: `<iframe src="https://drive.google.com/file/d/19__K2M5KhZvoJ-ByTda1S5TDCja_88gU/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-          {
-            title: "Life Cycle-Banana",
-            type: "video",
-            link: `<iframe src="https://drive.google.com/file/d/1OsTMPNzjSMUiKJaXsRIIWJMqmp0Aq_9S/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
         ],
         video: [
           {
@@ -962,6 +938,12 @@ var a = {
             link: `<iframe src="https://drive.google.com/file/d/1_NhvVSWjSDrxJRTpw-Gviz-wTy7EIGu3/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
+          {
+            title: "Dice",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1NFQg26nWvHPn2ppjLtPA-QagWtrsqq6N/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
         ],
         ar: [
           {
@@ -986,12 +968,7 @@ var a = {
           },
         ],
         ppt: [
-          {
-            title: "Dice",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1NFQg26nWvHPn2ppjLtPA-QagWtrsqq6N/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
+
         ],
         video: [
           {
@@ -1272,12 +1249,6 @@ var a = {
         name: "Around Us",
         activity: [
           {
-            title: "Activity 1",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1qeH8xvGLdgpra0Lpnw_UqWupSm4ghIav/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-          {
             title: "Activity 2",
             type: "",
             link: `<iframe src="https://drive.google.com/file/d/1RkJbOJFvhJ_JE98kOgm_DO3kOOqN2i31/preview" width="640" height="480" allow="autoplay"></iframe>`,
@@ -1348,12 +1319,6 @@ var a = {
             title: "Match the Following",
             type: "",
             link: `<iframe src="https://drive.google.com/file/d/1RNbA1LXRC4DWsS75MYZXRrI6NtTMmbtQ/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-          {
-            title: "Activity 2",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1VnmPi3eV98gV4rnG74si2OcV7n951hht/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
           {
@@ -4075,7 +4040,32 @@ var a = {
           },
         ],
         ppt: [],
-        video: [],
+        video: [
+          {
+            title: "Foods We Eat",
+            type: "img",
+            link: `<iframe src="https://drive.google.com/file/d/1roEWprWeBGFBycjq_enkqDSozREE4DAN/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Foods We Eat",
+            type: "img",
+            link: `<iframe src="https://drive.google.com/file/d/1so6IVIlKe57AvTyzrOOicKF-UBjYrEI-/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Foods We Eat",
+            type: "img",
+            link: `<iframe src="https://drive.google.com/file/d/1JsI4DKd2uxKH8JLzApqZyoe2PqhzQpi7/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Foods We Eat",
+            type: "img",
+            link: `<iframe src="https://drive.google.com/file/d/1e7-y6hG1AxLpCLl71NziApGr1DZn-Grz/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
       },
       7: {
         name: "Saying Without Speaking",
@@ -5269,6 +5259,14 @@ var a = {
 
       2: {
         name: "The Magic Garden",
+        ar: [
+          {
+            title: "The Magic Garden",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1F80YJBoyU2mU3fxyVXHsp8X41M3pejeE/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Visual explanation of the chapter",
+          },
+        ],
         video: [
           {
             title: "The Magic Garden",
@@ -5315,6 +5313,21 @@ var a = {
 
       4: {
         name: "Nina and the Baby Sparrows",
+        ar: [
+          {
+            title: "Nina And the Sparrows",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1m-B8nHCIgAk2Wfbr5rCcR1OeyI6Cy2nQ/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "visual description of the chapter",
+          },
+          {
+            title: "Nina And the Sparrows",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1zZ9XLiOxJDpvaaCjUN_5hPVkrnzn4Z9o/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "visual description of the chapter",
+          },
+
+        ],
         video: [
           {
             title: "Nina And the Sparrows",
@@ -5358,6 +5371,27 @@ var a = {
       },
       6: {
         name: "The Enormous Turnip",
+        ar: [
+          {
+            title: "Chart for The Enormous Turnip",
+            type: "img",
+            link: '<iframe src="https://drive.google.com/file/d/1SMBaueQYOiUFuJsUiTTdDus08E_h1mcL/preview" width="640" height="480" allow="autoplay"></iframe>',
+            description: "chart visualising the chapter",
+          },
+          {
+            title: "Chart for The Enormous Turnip",
+            type: "img",
+            link: '<iframe src="https://drive.google.com/file/d/1H2P4v1dyTntLid5waLOyJRcozXydwwN_/preview" width="640" height="480" allow="autoplay"></iframe>',
+            description: "chart visualising the chapter",
+          },
+          {
+            title: "Chart for The Enormous Turnip",
+            type: "img",
+            link: '<iframe src="https://drive.google.com/file/d/1zdQPSuNaDfk_AROOxbjj5QinuS92kk1v/preview" width="640" height="480" allow="autoplay"></iframe>',
+            description: "chart visualising the chapter",
+          },
+
+        ],
         chart: [
           {
             title: "Chart for The Enormous Turnip",
@@ -5463,6 +5497,14 @@ var a = {
             title: "The Balloon Man",
             type: "pdf",
             link: `<iframe src="https://drive.google.com/file/d/1HUH2MY9IQvREVSgZa_TmBMlD_XpQrxwW/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "activity for The Yellow Butterfly",
+          },
+        ],
+        ar: [
+          {
+            title: "The Balloon Man",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/143T4ngQuSw-I4bvu_Bn7vzDAq05cOPBZ/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "activity for The Yellow Butterfly",
           },
         ],
