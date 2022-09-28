@@ -1248,7 +1248,6 @@ var a = {
         ],
         ppt: [],
         video: [
-
           {
             title: "On Wheels",
             type: "",
@@ -2505,45 +2504,49 @@ var a = {
           },
         ],
         ppt: [],
-        video: [{
-          title: "Counting In Tens",
-          type: "video",
-          link: `<iframe src="https://drive.google.com/file/d/1QzlztNYkh8Yaa_O8aQa0qf3lF--7s1jE/preview" width="640" height="480" allow="autoplay"></iframe>`,
-          description: "",
-        }, {
-          title: "Counting In Tens",
-          type: "video",
-          link: `<iframe src="https://drive.google.com/file/d/1R2rhCkVJhWPMtp07E7gDkan3SplQkxkA/preview" width="640" height="480" allow="autoplay"></iframe>`,
-          description: "",
-        }, {
-          title: "Counting In Tens",
-          type: "video",
-          link: `<iframe src="https://drive.google.com/file/d/1R75BEunYoaA_rOYY9XYwcb052-3gjhFm/preview" width="640" height="480" allow="autoplay"></iframe>`,
-          description: "",
-        }, {
-          title: "Counting In Tens",
-          type: "video",
-          link: `<iframe src="https://drive.google.com/file/d/1R9RG_6K5pf6ZF1xDHlRlzm7qkEISHuZa/preview" width="640" height="480" allow="autoplay"></iframe>`,
-          description: "",
-        },
-        {
-          title: "Counting In Tens",
-          type: "video",
-          link: `<iframe src="https://drive.google.com/file/d/1RBY-BMFW-1XYY8ghpWDW67e9t9v-2lb-/preview" width="640" height="480" allow="autoplay"></iframe>`,
-          description: "",
-        },
-        {
-          title: "Chickens and the Clever Fox",
-          type: "video",
-          link: `<iframe src="https://drive.google.com/file/d/1ENe9re1G4PdfUUO0y8_gSsGAHkTrFzrT/preview" width="640" height="480" allow="autoplay"></iframe>`,
-          description: "",
-        },
-        {
-          title: "Counting In Tens",
-          type: "video",
-          link: `<iframe src="https://drive.google.com/file/d/1ySqLcs-1KeSj8abjySdLyC75gH5X_VQC/preview" width="640" height="480" allow="autoplay"></iframe>`,
-          description: "",
-        },
+        video: [
+          {
+            title: "Counting In Tens",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1QzlztNYkh8Yaa_O8aQa0qf3lF--7s1jE/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Counting In Tens",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1R2rhCkVJhWPMtp07E7gDkan3SplQkxkA/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Counting In Tens",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1R75BEunYoaA_rOYY9XYwcb052-3gjhFm/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Counting In Tens",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1R9RG_6K5pf6ZF1xDHlRlzm7qkEISHuZa/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Counting In Tens",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1RBY-BMFW-1XYY8ghpWDW67e9t9v-2lb-/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Chickens and the Clever Fox",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1ENe9re1G4PdfUUO0y8_gSsGAHkTrFzrT/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Counting In Tens",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1ySqLcs-1KeSj8abjySdLyC75gH5X_VQC/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
         ],
       },
       5: {
@@ -2913,9 +2916,9 @@ var a = {
             link: `<iframe src="https://drive.google.com/file/d/1lLzOh7NVOBxxBEY6_MhmJDX5wpt6fluG/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "Activity based chart",
           },
-
         ],
-        ppt: [ //TODO: check this not working
+        ppt: [
+          //TODO: check this not working
           {
             title: "How Many Ponytails?",
             type: "pdf",
@@ -2976,7 +2979,6 @@ var a = {
             link: `<iframe src="https://drive.google.com/file/d/1dqxjpAB8o_lWTDlWJcVZywRje7g1wtgt/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
-
         ],
         chart: [],
         ppt: [],
@@ -3004,19 +3006,18 @@ var a = {
       2: {
         name: "I am Lucky & I Want",
         activity: [
-          { //// TODO: Check
+          {
+            //// TODO: Check
             title: "act1",
             type: "",
             link: `<iframe src="https://drive.google.com/file/d/1R_52mMQXZo4zh41c2VBzACc0UjVXbnOb/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
-
         ],
-        ar: [
-
-        ],
+        ar: [],
         chart: [
-          { ///TODO: check
+          {
+            ///TODO: check
             title: "SAIL BARK SING PLAY RING",
             type: "",
             link: `<iframe src="https://drive.google.com/file/d/1ys8l6v-qwYi8leTfAGISOnw_S7-wbUDG/preview" width="640" height="480" allow="autoplay"></iframe>`,
@@ -3042,7 +3043,8 @@ var a = {
             link: `<iframe src="https://drive.google.com/file/d/11KmlRvRBtxcISuMZJUvjJjjsNtDuxhby/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
-          { ///TODO: Check
+          {
+            ///TODO: Check
             title: "PPT2",
             type: "",
             link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSSz-ZGs7bilDPxCYGmTLee4dyG-vA2_pUJJtfntPNh_9hZ40XU78F4QD18pg8ZAA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
@@ -3084,7 +3086,8 @@ var a = {
       },
       3: {
         name: "A Smile & The Wind and the Sun",
-        activity: [ /// TODO: check all 3 
+        activity: [
+          /// TODO: check all 3
           {
             title: "ACT1",
             type: "",
@@ -3373,9 +3376,7 @@ var a = {
             description: "",
           },
         ],
-        chart: [
-
-        ],
+        chart: [],
         ppt: [
           {
             title: "ppt1",
@@ -3463,12 +3464,8 @@ var a = {
             description: "",
           },
         ],
-        ar: [
-
-        ],
-        chart: [
-
-        ],
+        ar: [],
+        chart: [],
         ppt: [
           {
             title: "activity sheet",
@@ -3507,14 +3504,14 @@ var a = {
             link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSaafajnyFJzixI81mCz-tU8hTYZoVa1LFQB12nHy2-dOGR7QENB99eAH16tVQJLg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
             description: "",
           },
-        ],
-        ar: [
           {
-            title: "ar1",
+            title: "Music Instrument",
             type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1mMKxMWlLyn1xf4HoOqk_Lv9gNJqUbO2Y/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSezxUDoY3W1SzT_OZdt4gbvDI_FwGbnkM4D_wjYHZDp9SroRBqMwA-oEHY3XSZ6w/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1365" height="1053" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
             description: "",
           },
+        ],
+        ar: [
           {
             title: "ar2",
             type: "",
@@ -3542,80 +3539,6 @@ var a = {
             description: "",
           },
         ],
-        ppt: [],
-        video: [
-          // REQUEST ACCESS
-          {
-            title: "vid3",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1FQMKJoot2rDGwNUUWDVNfYsu0zt5jsLd/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-        ],
-      },
-      9: {
-        name: "Granny Granny Please Comb my Hair & The Magic Porridge Pot",
-        activity: [
-        ],
-        ar: [],
-        chart: [],
-        ppt: [],
-        video: [
-
-          // {
-          //   title: "vid3",
-          //   type: "",
-          //   link: `<iframe src="https://drive.google.com/file/d/1kLuvVJnIsvA3iKBE_7AfwshDvfcGPGzr/preview" width="640" height="480" allow="autoplay"></iframe>`,
-          //   description: "",
-          // },
-          // {
-          //   title: "vid4",
-          //   type: "",
-          //   link: `<iframe src="https://drive.google.com/file/d/1vhGiYwowigARVB-OiYPpUkI5qQB3PlVo/preview" width="640" height="480" allow="autoplay"></iframe>`,
-          //   description: "",
-          // },
-          // {
-          //   title: "vid5",
-          //   type: "",
-          //   link: `<iframe src="https://drive.google.com/file/d/1v6aB88VCP7Op18av4xzs65DoKIOwjIVI/preview" width="640" height="480" allow="autoplay"></iframe>`,
-          //   description: "",
-          // },
-        ],
-      },
-      10: { // Check to the fort
-        name: "Stragnge Talk & The Grasshopper and the Ant",
-        activity: [
-          {
-            title: "To The Fort",
-            type: "",
-            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ5vgs9IHa8e9fILnB6jmAU5VuT3YSyCL1dEgGbqmol84DYkNqs1dgKx1ThmfvOew/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
-            description: "",
-          },
-        ],
-        ar: [],
-        chart: [],
-        ppt: [],
-        video: [
-          {
-            title: "To The Fort",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1_8mNdY8ufSv4uTQe0NdWUoAR6fDDpANW/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-        ],
-      },
-      15: {
-        name: "I am the Music Man",
-        activity: [
-          {
-            title: "I am the Music Man",
-            type: "",
-            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRtYg5O17pn9_kuVj5J7BnmyAXxs__zKEa_7SirJ4YCb4reT8O90QWKPdUgAE2Fdw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
-            description: "",
-          },
-        ],
-        ar: [],
-        chart: [],
         ppt: [
           {
             title: "ppt",
@@ -3632,47 +3555,11 @@ var a = {
         ],
         video: [
           {
-            title: "I am the Music Man",
+            title: "ar1",
             type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1_B0NrXvh-bu4dCJ39FCXaueVkk8XuCoc/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            link: `<iframe src="https://drive.google.com/file/d/1mMKxMWlLyn1xf4HoOqk_Lv9gNJqUbO2Y/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
-        ],
-      },
-      16: {
-        name: "The Mumbai Musicians",
-        activity: [
-          {
-            title: "Music Instrument",
-            type: "",
-            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSezxUDoY3W1SzT_OZdt4gbvDI_FwGbnkM4D_wjYHZDp9SroRBqMwA-oEHY3XSZ6w/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1365" height="1053" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
-            description: "",
-          },
-          {
-            title: "Music Instrument",
-            type: "",
-            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRWxp5I6nRSVEwcru575GbqwWPK-0iYlRPfgYmi2MEPqEb7EVqcTCY9M-Yyl0H1ig/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
-            description: "",
-          },
-        ],
-        ar: [
-          {
-            title: "Music Instrument",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/17EFwJHktdRaIPCVbNc1vMaXnMq2zCYMw/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-        ],
-        chart: [],
-        ppt: [
-          {
-            title: "ppt",
-            type: "",
-            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS1IFCFxAZmAlouWdiSKikAcvMw7sW8z8mIzyz9GZykI18UR6CnVS3KrVRqMK_bSQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
-            description: "",
-          },
-        ],
-        video: [
           {
             title: "The Music Man",
             type: "",
@@ -3687,8 +3574,8 @@ var a = {
           },
         ],
       },
-      17: {
-        name: "Granny Granny Please Comb my Hair",
+      9: {
+        name: "Granny Granny Please Comb my Hair & The Magic Porridge Pot",
         activity: [
           {
             title: "activi",
@@ -3724,29 +3611,6 @@ var a = {
             link: `<iframe src="https://drive.google.com/file/d/1nsjhOo9OJxLxdRrDHVKxOYwGgV6gNnoK/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
-        ],
-        ppt: [
-          {
-            title: "ppt",
-            type: "",
-            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR0qBqvIZVOEKOjtRjMjPlODzaL-tI-eAjDJmoWlwAK9T4mYFzv-aW7llWyfYsgAg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
-            description: "",
-          },
-        ],
-        video: [
-          {
-            title: "My GrandParents",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1ILooakiDrjuXndBfb94CFn7XVdqn8qzg/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-        ],
-      },
-      18: {
-        name: "The Magic Porridge Pot",
-        activity: [],
-        ar: [],
-        chart: [
           {
             title: "char",
             type: "",
@@ -3758,22 +3622,59 @@ var a = {
           {
             title: "ppt",
             type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR0qBqvIZVOEKOjtRjMjPlODzaL-tI-eAjDJmoWlwAK9T4mYFzv-aW7llWyfYsgAg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+          {
+            title: "ppt",
+            type: "",
             link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTBlGFRHrvzhH6A0KK9SeItvyH83VTmVAkkjiUcN911vuq_22GNNM7MxKdCMWp4HA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
             description: "",
           },
         ],
         video: [
           {
+            title: "My GrandParents",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1ILooakiDrjuXndBfb94CFn7XVdqn8qzg/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
             title: "vid",
             type: "",
             link: `<iframe src="https://drive.google.com/file/d/1FxKfX9A3qPwDCRT3Tjs-jKy3RblPhTTq/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
+          // {
+          //   title: "vid3",
+          //   type: "",
+          //   link: `<iframe src="https://drive.google.com/file/d/1kLuvVJnIsvA3iKBE_7AfwshDvfcGPGzr/preview" width="640" height="480" allow="autoplay"></iframe>`,
+          //   description: "",
+          // },
+          // {
+          //   title: "vid4",
+          //   type: "",
+          //   link: `<iframe src="https://drive.google.com/file/d/1vhGiYwowigARVB-OiYPpUkI5qQB3PlVo/preview" width="640" height="480" allow="autoplay"></iframe>`,
+          //   description: "",
+          // },
+          // {
+          //   title: "vid5",
+          //   type: "",
+          //   link: `<iframe src="https://drive.google.com/file/d/1v6aB88VCP7Op18av4xzs65DoKIOwjIVI/preview" width="640" height="480" allow="autoplay"></iframe>`,
+          //   description: "",
+          // },
         ],
       },
-      19: {
-        name: "Strange Talk",
+      10: {
+        // Check to the fort
+        name: "Strange Talk & The Grasshopper and the Ant",
         activity: [
+          {
+            title: "To The Fort",
+            type: "",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ5vgs9IHa8e9fILnB6jmAU5VuT3YSyCL1dEgGbqmol84DYkNqs1dgKx1ThmfvOew/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
           {
             title: "act",
             type: "",
@@ -3786,29 +3687,6 @@ var a = {
             link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQMEutkeXX9w30j0vTljGCq9C2V39dVlX2peQYAgjBhzzbKyRW-bo06I2J_0umZiA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
             description: "",
           },
-        ],
-        ar: [],
-        chart: [
-          {
-            title: "char",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1aq2CyVBdx3UTnTVPf53vmjJ2Zd_hNYVN/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-        ],
-        ppt: [],
-        video: [
-          {
-            title: "vid",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/13NdKriJNazk1ZNkWgrAdHlM4w2Do16Jn/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-        ],
-      },
-      20: {
-        name: "The Grasshopper and the Ant",
-        activity: [
           {
             title: "act",
             type: "",
@@ -3838,6 +3716,18 @@ var a = {
         chart: [],
         ppt: [],
         video: [
+          {
+            title: "To The Fort",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1_8mNdY8ufSv4uTQe0NdWUoAR6fDDpANW/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "vid",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/13NdKriJNazk1ZNkWgrAdHlM4w2Do16Jn/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
           {
             title: "vid",
             type: "",
@@ -4214,7 +4104,6 @@ var a = {
             link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQxYi7uoVrCId_ZMqcB0vOKR5pZoez0LJX4nST8aC2ol-EcQLqM9orKe5oo3bm2cA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
             description: "",
           },
-
         ],
         ar: [
           {
@@ -6839,7 +6728,7 @@ var a = {
             type: "video",
             link: `<iframe src="https://drive.google.com/file/d/1RvFk4mBrtaH3IQzP_hkWBwP0UWtg3pp7/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
-          }
+          },
         ],
       },
     },
