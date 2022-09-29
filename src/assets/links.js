@@ -3779,6 +3779,12 @@ var a = {
             link: `<iframe src="https://drive.google.com/file/d/127O-HrqTIp1WWz5w7D1ZwXq3WiOVf4gR/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
+          {
+            title: "Poonam's Day Out",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1mEXy5po0a4M1Mtv0kV4hxwFlaG2l4veI/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
         ],
       },
       2: {
@@ -3794,6 +3800,12 @@ var a = {
             title: "The Plant Fairy",
             type: "",
             link: `<iframe src="https://drive.google.com/file/d/12uK7vVQiW1QcbSuGxzSWWrqrGWQh0IKQ/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Word Search",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1FnWd1anzHCPeOlOkO3WLnAIZ4q7E7N9D/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
         ],
@@ -3812,7 +3824,20 @@ var a = {
             description: "",
           },
         ],
-        chart: [],
+        chart: [
+          {
+            title: "chart 1",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1SPymVJsoQ3YMd2f3--1KEMtmqGopvqdI/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "chart 2",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1wezt0oNpBsc-4KwRib9neLj6dG2GPIh3/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          }
+        ],
         ppt: [
           {
             title: "The Plant Fairy",
