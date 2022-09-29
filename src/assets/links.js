@@ -3848,12 +3848,6 @@ var a = {
         ],
         chart: [
           {
-            title: "CHAPTER_3 CHART",
-            type: "img",
-            link: `<iframe src="https://drive.google.com/file/d/1N4KvewCp0rv3zIVDSlHQ87TxCqY2iJc0/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-          {
             title: "Water O' Water",
             type: "",
             link: `<iframe src="https://drive.google.com/file/d/14Dv4_jYkeCQfwNnEYJJsqbdCpwuV9jVC/preview" width="640" height="480" allow="autoplay"></iframe>`,
@@ -3898,13 +3892,7 @@ var a = {
             type: "",
             link: `<iframe src="https://drive.google.com/file/d/14Y-h1MjpuzuWRIcszz7nrLJpD2Xy8M8S/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
-          },
-          {
-            title: "Water O' Water",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1CnfeHwnaX4HcM8RbyJIxbopD6muixSLF/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
+          }
         ],
       },
       4: {
@@ -3912,12 +3900,6 @@ var a = {
         activity: [],
         ar: [],
         chart: [
-          {
-            title: "CHAPTER_4 CHART",
-            type: "img",
-            link: `<iframe src="https://drive.google.com/file/d/1UiIDf1JXbrM2Lw7-9bWvstkg079flO41/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
           {
             title: "Our First School",
             type: "",
@@ -4004,7 +3986,20 @@ var a = {
             description: "",
           },
         ],
-        ppt: [],
+        ppt: [
+          {
+            title: "chapter 5 ppt 1",
+            type: "video",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSe0V-ec3hotbG45qVInk9m2p_xesnwJnPHtOdSZ7Xr6HQfKnXeLGe0K4T2fuGW2w/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+          {
+            title: "chapter 5 solutions",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/1KCdK-3_T4W2rwnPGLv21_GMpe4Tp_71k/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          }
+        ],
         video: [
           {
             title: "Draw a house and colour it",
@@ -4016,7 +4011,38 @@ var a = {
       },
       6: {
         name: "Foods We Eat",
-        activity: [],
+        activity: [
+          {
+            title: "activity sheet 1",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/1feEI7vRmFbeqBfbSV1JCYgnUqv7S2vy7/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "activity sheet 2",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/19fhM6DjjFBS8Uu7hw3-a8Qv4g-0g2KOK/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "activity sheet 3",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/1w-2K4IMmexG2hxERySzoG7qZBOLlkmFS/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "activity sheet 4",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/1HXChWW6CHpC3shEApZ4Hegszh7lz9RYs/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "activity sheet 5",
+            type: "pdf",
+            link: `<iframe src="https://drive.google.com/file/d/1P-BjLLD3FC8P8A7yd6ABuhmJ_auCDi0w/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
         ar: [
           {
             title: "Video 2",
@@ -4042,6 +4068,12 @@ var a = {
             title: "TYPES OF FOOD CHART",
             type: "img",
             link: `<iframe src="https://drive.google.com/file/d/1e7-y6hG1AxLpCLl71NziApGr1DZn-Grz/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Foods We Eat",
+            type: "img",
+            link: `<iframe src="https://drive.google.com/file/d/1vkJJ9TlWtW-hB7pY9P1lXFG02Odm7gyt/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
         ],
