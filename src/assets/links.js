@@ -4070,12 +4070,6 @@ var a = {
             link: `<iframe src="https://drive.google.com/file/d/1e7-y6hG1AxLpCLl71NziApGr1DZn-Grz/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
-          {
-            title: "Foods We Eat",
-            type: "img",
-            link: `<iframe src="https://drive.google.com/file/d/1vkJJ9TlWtW-hB7pY9P1lXFG02Odm7gyt/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
         ],
         ppt: [],
         video: [
@@ -4101,6 +4095,12 @@ var a = {
             title: "Foods We Eat",
             type: "img",
             link: `<iframe src="https://drive.google.com/file/d/1e7-y6hG1AxLpCLl71NziApGr1DZn-Grz/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Foods We Eat",
+            type: "img",
+            link: `<iframe src="https://drive.google.com/file/d/1vkJJ9TlWtW-hB7pY9P1lXFG02Odm7gyt/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
         ],
