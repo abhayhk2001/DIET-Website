@@ -4183,6 +4183,12 @@ var a = {
           //   description: "",
           // },
           {
+            title: "Saying without speaking",
+            type: "video",
+            link: `<iframe src="https://drive.google.com/file/d/13H4daIrmFwx3ZNwun04LnrnLVs9M5ddz/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
             title: "Change of seasons",
             type: "video",
             link: `<iframe src="https://drive.google.com/file/d/1nkn6LmtYcZai-UhqfeIfPMUSq_ir_m-c/preview" width="640" height="480" allow="autoplay"></iframe>`,
@@ -4357,9 +4363,9 @@ var a = {
         ],
         ppt: [
           {
-            title: "Working model image",
+            title: "presentation",
             type: "image",
-            link: `<iframe src="https://drive.google.com/file/d/1HCr-XTq2SUfplzSBCorHxtPxjzGCtzGo/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRlZl3-31FjdV6o8fJG2-OONh_AEWrA-VmpYPqBB3FBnBehPXqZf4sAaN8uFsORSg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
             description: "",
           },
         ],
