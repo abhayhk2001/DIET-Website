@@ -4781,7 +4781,14 @@ var a = {
             description: "",
           },
         ],
-        ppt: [],
+        ppt: [
+          {
+            title: "ppt",
+            type: "img",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTtcPEqypkdsNK7JBMW92Gz4vijZJ9J8TT5OTQ_1NNIdSybZ7fHtDUd-IYYSPoXjQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+        ],
         video: [
           {
             title: "Animated video 1",
@@ -4867,7 +4874,20 @@ var a = {
             description: "",
           },
         ],
-        ppt: [],
+        ppt: [
+          {
+            title: "ppt",
+            type: "img",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRIv3gh_C7QGr6A9pTQ8o5vLFICJm_KZbd4-k5I2-kMHyckhk8psfWrKAg8OzDhAw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+          {
+            title: "ppt 2",
+            type: "img",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ9KX139MSVaQ7SYO-2dqwGLKg0t8M7KwGE3PzL2TvPIk-SMRnYZdq393FD-sxXRQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+        ],
         video: [
           {
             title: "AICTE",
@@ -4886,14 +4906,15 @@ var a = {
       18: {
         name: "A House Like This",
         activity: [
+        ],
+        ar: [
           {
-            title: "Demonstration",
+            title: "Journey of a letter",
             type: "video",
-            link: `<iframe src="https://drive.google.com/file/d/1darnnHzFQ__JRhCJf0dlCDq7YR_tr5Ik/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            link: `<iframe src="https://drive.google.com/file/d/1qTXDKsL-axy8moZx-AJ2I7fabKwWziWZ/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
         ],
-        ar: [],
         chart: [],
         ppt: [],
         video: [],
