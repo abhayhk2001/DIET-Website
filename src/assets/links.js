@@ -4938,7 +4938,14 @@ var a = {
             description: "",
           },
         ],
-        ppt: [],
+        ppt: [
+          {
+            title: "ppt",
+            type: "img",
+            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ1qknU85fi7VQzGajjee0R17xjbWyjoxeVrb7OvT87S07n599PtmYm47znjy7Qmw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
+            description: "",
+          },
+        ],
         video: [
           {
             title: "Video",
@@ -5001,12 +5008,7 @@ var a = {
           },
         ],
         ar: [
-          {
-            title: "AR project video",
-            type: "video",
-            link: `<iframe src="https://drive.google.com/file/d/1eCtgilwsRN2WDdcgzY_nF09L4xmXzN_U/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
+         
           {
             title: "AR final",
             type: "video",
@@ -5079,9 +5081,9 @@ var a = {
             description: "",
           },
           {
-            title: "Working Model showing Engineering Concept",
+            title: "project video",
             type: "video",
-            link: `<iframe src="https://drive.google.com/file/d/1kKCSqjOLqnuP1SgBQZQ4Czb0TS4t02_4/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            link: `<iframe src="https://drive.google.com/file/d/1eCtgilwsRN2WDdcgzY_nF09L4xmXzN_U/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
         ],
@@ -5612,12 +5614,6 @@ var a = {
           },
         ],
         ppt: [
-          {
-            title: "The Balloon Man",
-            type: "pdf",
-            link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRd50NAOWCMyYSOUaW_ZfbXkchdeakQuVuiYFsDI6ZsacN0ejSaFqHW6W7CV1ZfXw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
-            description: "activity for The Yellow Butterfly",
-          },
         ],
         video: [
           {
