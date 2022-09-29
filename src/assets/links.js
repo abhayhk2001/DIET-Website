@@ -4455,7 +4455,26 @@ var a = {
             description: "",
           },
         ],
-        chart: [],
+        chart: [
+          {
+            title: "Chart",
+            type: "img",
+            link: `<iframe src="https://drive.google.com/file/d/1ud6brsq9vq6_I3KXbhNAkszhFDOIQrPQ/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Chart 2",
+            type: "img",
+            link: `<iframe src="https://drive.google.com/file/d/1F0vnhS6wimeswzGxJqOnlKwB_gqYyBLP/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "Chart 3",
+            type: "img",
+            link: `<iframe src="https://drive.google.com/file/d/1nV-Ix3akpQB7GAInYphq04TDx1_kYoMV/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          }
+        ],
         ppt: [
           {
             title: "G10",
@@ -4516,12 +4535,6 @@ var a = {
             title: "Work We Do ",
             type: "video",
             link: `<iframe src="https://drive.google.com/file/d/142Rhg_QgCdyNTSaRtkeZ09gmYoB-y5mH/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-          {
-            title: "Working Model",
-            type: "video",
-            link: `<iframe src="https://drive.google.com/file/d/14-gkOuifoeo2X51ulPOhqa-NdzipZC4s/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
           {
