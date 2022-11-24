@@ -1,11 +1,11 @@
 var a = {
   schema: {
     name: "", // chapter name
-    activity: [{ title: "", type: "", link: ``, description: "" }],
-    ar: [{ title: "", type: "", link: ``, description: "" }],
-    chart: [{ title: "", type: "", link: ``, description: "" }],
-    ppt: [{ title: "", type: "", link: ``, description: "" }],
-    video: [{ title: "", type: "", link: ``, description: "" }],
+    activity: [],
+    ar: [],
+    chart: [],
+    ppt: [],
+    video: [],
   },
   1: {
     colour: "#8F99FF",
@@ -809,12 +809,6 @@ var a = {
             title: "Match The following",
             type: "pdf",
             link: `<iframe src="https://drive.google.com/file/d/1aKYLy40uj3NeFaWb3Kbe4n9Q7QuqLveH/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-          {
-            title: "Joining Dots",
-            type: "pdf",
-            link: `<iframe src="https://drive.google.com/file/d/1Gf36hzvFl3nkaxpKxs8bfXORX21pE50d/view" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
           {
@@ -1768,12 +1762,6 @@ var a = {
             link: `<iframe src="https://drive.google.com/file/d/1Jg6lPCyKefgDp6ZojhoUuEj4ElKL6m35/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
-          {
-            title: "Chapter 12",
-            type: "img",
-            link: `<iframe src="https://drive.google.com/file/d/1auQcuUnoxosmdhBN1mpN5A0gr83BwzrB/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
         ],
         ppt: [
           {
@@ -1844,7 +1832,7 @@ var a = {
             description: "",
           },
         ],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
+        chart: [],
         ppt: [
           {
             title: "My Happy Family",
@@ -1894,7 +1882,7 @@ var a = {
       },
       2: {
         name: "Animals Around Us",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
         ar: [
           {
             title: "Animals Around Us",
@@ -1948,7 +1936,7 @@ var a = {
       },
       3: {
         name: "Plants - Our Life",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
         ar: [
           {
             title: "Plants - Our Life",
@@ -1963,7 +1951,7 @@ var a = {
             description: "",
           },
         ],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
+        chart: [],
         ppt: [
           {
             title: "Plant Fairy",
@@ -1972,11 +1960,11 @@ var a = {
             description: "",
           },
         ],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        video: [],
       },
       4: {
         name: "Play Time",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
         ar: [
           {
             title: "Play Time",
@@ -1991,7 +1979,7 @@ var a = {
             description: "",
           },
         ],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
+        chart: [],
         ppt: [
           {
             title: "Let Us Play",
@@ -2000,7 +1988,7 @@ var a = {
             description: "",
           },
         ],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        video: [],
       },
       5: {
         name: "I Am Safe !",
@@ -2020,7 +2008,7 @@ var a = {
             description: "",
           },
         ],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
+        chart: [],
         ppt: [
           {
             title: "I Am Safe ! - 1",
@@ -2128,7 +2116,7 @@ var a = {
             description: "",
           },
         ],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
+        chart: [],
         ppt: [
           {
             title: "Worksheet 1 ",
@@ -2214,10 +2202,20 @@ var a = {
       },
       7: {
         name: "Water For Life",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [{
+          title: "",
+          type: "",
+          link: `<iframe src="https://drive.google.com/file/d/1itxAG3XA-iYeF1vdcw9VJMfhGtNkGuha/preview" width="640" height="480" allow="autoplay"></iframe>`,
+          description: "",
+        },],
+        ar: [],
+        chart: [{
+          title: "",
+          type: "",
+          link: `<iframe src="https://drive.google.com/file/d/1LfJ1ab2V0kBB4jK-wro8lHe-ewDHXFo8/preview" width="640" height="480" allow="autoplay"></iframe>`,
+          description: "",
+        },],
+        ppt: [],
         video: [
           {
             title: "",
@@ -2225,24 +2223,14 @@ var a = {
             link: `<iframe src="https://drive.google.com/file/d/1LC6_tPILhsk1moNwdpPTwuc2vtNevRxk/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
-          {
-            title: "",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1itxAG3XA-iYeF1vdcw9VJMfhGtNkGuha/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
+
           {
             title: "",
             type: "",
             link: `<iframe src="https://drive.google.com/file/d/1DSwHH318zCI0W8rEdH-JCGfThFS-slx5/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
           },
-          {
-            title: "",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1LfJ1ab2V0kBB4jK-wro8lHe-ewDHXFo8/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
+
           {
             title: "",
             type: "",
@@ -2271,10 +2259,10 @@ var a = {
       },
       8: {
         name: "Let Us Move Around",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
+        ar: [],
+        chart: [],
+        ppt: [],
         video: [
           {
             title: "Let Us Move Around - 1",
@@ -2316,9 +2304,9 @@ var a = {
       },
       9: {
         name: "Helping Hands Around Us",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
+        ar: [],
+        chart: [],
         ppt: [
           {
             title: "Activity Sheet 1",
@@ -2368,35 +2356,35 @@ var a = {
       },
       10: {
         name: "The Beautiful Sky",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
+        ar: [],
+        chart: [],
+        ppt: [],
+        video: [],
       },
       11: {
         name: "Air, Water, Food, Shelter",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
+        ar: [],
+        chart: [],
+        ppt: [],
+        video: [],
       },
       12: {
         name: "Means of Transport",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
+        ar: [],
+        chart: [],
+        ppt: [],
+        video: [],
       },
       13: {
         name: "Our Family",
-        activity: [{ title: "", type: "", link: ``, description: "" }],
-        ar: [{ title: "", type: "", link: ``, description: "" }],
-        chart: [{ title: "", type: "", link: ``, description: "" }],
-        ppt: [{ title: "", type: "", link: ``, description: "" }],
-        video: [{ title: "", type: "", link: ``, description: "" }],
+        activity: [],
+        ar: [],
+        chart: [],
+        ppt: [],
+        video: [],
       },
     },
     MAT: {
@@ -3236,24 +3224,6 @@ var a = {
             description: "",
           },
           {
-            title: "img3",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/10KPApLG2ATdIEFrnLMdxxV1CvR9tvusD/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-          {
-            title: "img4",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/1NrV69Ux7JsDsCG1-Kq_MDWd74U8laYhq/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-          {
-            title: "img5",
-            type: "",
-            link: `<iframe src="https://drive.google.com/file/d/17oK--XwW3cQum2VHmdpQkVUysEWthzCn/preview" width="640" height="480" allow="autoplay"></iframe>`,
-            description: "",
-          },
-          {
             title: "Zoo Manners",
             type: "",
             link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ3-wjWB1sn0NPjJUbhv2y6BybDUYe_T8GWHdRr8m4W_KSHJW7OqOVLKfOMf-Winw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
@@ -3275,7 +3245,24 @@ var a = {
             description: "",
           },
         ],
-        chart: [],
+        chart: [{
+          title: "img3",
+          type: "",
+          link: `<iframe src="https://drive.google.com/file/d/10KPApLG2ATdIEFrnLMdxxV1CvR9tvusD/preview" width="640" height="480" allow="autoplay"></iframe>`,
+          description: "",
+        },
+        {
+          title: "img4",
+          type: "",
+          link: `<iframe src="https://drive.google.com/file/d/1NrV69Ux7JsDsCG1-Kq_MDWd74U8laYhq/preview" width="640" height="480" allow="autoplay"></iframe>`,
+          description: "",
+        },
+        {
+          title: "img5",
+          type: "",
+          link: `<iframe src="https://drive.google.com/file/d/17oK--XwW3cQum2VHmdpQkVUysEWthzCn/preview" width="640" height="480" allow="autoplay"></iframe>`,
+          description: "",
+        },],
         ppt: [
           {
             title: "ZOO MANNERS",
@@ -5008,7 +4995,7 @@ var a = {
           },
         ],
         ar: [
-         
+
           {
             title: "AR final",
             type: "video",
