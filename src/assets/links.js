@@ -390,6 +390,12 @@ var a = {
             link: `<iframe src="https://drive.google.com/file/d/1zYFewkHEkY8H0Llya_vN_vQ90rOWZ0Ob/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "Video based on the chapter",
           },
+          {
+            title: "Measurement Activity",
+            type: "mp4",
+            link: `<iframe src="https://drive.google.com/file/d/1vaW4CYWHXNicPaDRCQ2eSQqTFL0B2s4p/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "Video based on the chapter",
+          },
         ],
       },
       8: {
@@ -961,9 +967,7 @@ var a = {
             description: "",
           },
         ],
-        ppt: [
-
-        ],
+        ppt: [],
         video: [
           {
             title: "Let US Play",
@@ -2202,19 +2206,23 @@ var a = {
       },
       7: {
         name: "Water For Life",
-        activity: [{
-          title: "",
-          type: "",
-          link: `<iframe src="https://drive.google.com/file/d/1itxAG3XA-iYeF1vdcw9VJMfhGtNkGuha/preview" width="640" height="480" allow="autoplay"></iframe>`,
-          description: "",
-        },],
+        activity: [
+          {
+            title: "",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1itxAG3XA-iYeF1vdcw9VJMfhGtNkGuha/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
         ar: [],
-        chart: [{
-          title: "",
-          type: "",
-          link: `<iframe src="https://drive.google.com/file/d/1LfJ1ab2V0kBB4jK-wro8lHe-ewDHXFo8/preview" width="640" height="480" allow="autoplay"></iframe>`,
-          description: "",
-        },],
+        chart: [
+          {
+            title: "",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1LfJ1ab2V0kBB4jK-wro8lHe-ewDHXFo8/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
         ppt: [],
         video: [
           {
@@ -3245,24 +3253,26 @@ var a = {
             description: "",
           },
         ],
-        chart: [{
-          title: "img3",
-          type: "",
-          link: `<iframe src="https://drive.google.com/file/d/10KPApLG2ATdIEFrnLMdxxV1CvR9tvusD/preview" width="640" height="480" allow="autoplay"></iframe>`,
-          description: "",
-        },
-        {
-          title: "img4",
-          type: "",
-          link: `<iframe src="https://drive.google.com/file/d/1NrV69Ux7JsDsCG1-Kq_MDWd74U8laYhq/preview" width="640" height="480" allow="autoplay"></iframe>`,
-          description: "",
-        },
-        {
-          title: "img5",
-          type: "",
-          link: `<iframe src="https://drive.google.com/file/d/17oK--XwW3cQum2VHmdpQkVUysEWthzCn/preview" width="640" height="480" allow="autoplay"></iframe>`,
-          description: "",
-        },],
+        chart: [
+          {
+            title: "img3",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/10KPApLG2ATdIEFrnLMdxxV1CvR9tvusD/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "img4",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/1NrV69Ux7JsDsCG1-Kq_MDWd74U8laYhq/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+          {
+            title: "img5",
+            type: "",
+            link: `<iframe src="https://drive.google.com/file/d/17oK--XwW3cQum2VHmdpQkVUysEWthzCn/preview" width="640" height="480" allow="autoplay"></iframe>`,
+            description: "",
+          },
+        ],
         ppt: [
           {
             title: "ZOO MANNERS",
@@ -3823,7 +3833,7 @@ var a = {
             type: "",
             link: `<iframe src="https://drive.google.com/file/d/1wezt0oNpBsc-4KwRib9neLj6dG2GPIh3/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
-          }
+          },
         ],
         ppt: [
           {
@@ -3884,7 +3894,7 @@ var a = {
             type: "",
             link: `<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTUo9ur_ZafgalM5gEaHbJCysx2JNir3ZUIDXi1ezw_HgbpHIGgKLBD6WrCKVf2Dw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>`,
             description: "",
-          }
+          },
         ],
         video: [
           {
@@ -3904,7 +3914,7 @@ var a = {
             type: "",
             link: `<iframe src="https://drive.google.com/file/d/14Y-h1MjpuzuWRIcszz7nrLJpD2Xy8M8S/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
-          }
+          },
         ],
       },
       4: {
@@ -4010,7 +4020,7 @@ var a = {
             type: "video",
             link: `<iframe src="https://drive.google.com/file/d/1KCdK-3_T4W2rwnPGLv21_GMpe4Tp_71k/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
-          }
+          },
         ],
         video: [
           {
@@ -4485,7 +4495,7 @@ var a = {
             type: "img",
             link: `<iframe src="https://drive.google.com/file/d/1nV-Ix3akpQB7GAInYphq04TDx1_kYoMV/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "",
-          }
+          },
         ],
         ppt: [
           {
@@ -4892,8 +4902,7 @@ var a = {
       },
       18: {
         name: "A House Like This",
-        activity: [
-        ],
+        activity: [],
         ar: [
           {
             title: "Journey of a letter",
@@ -4995,7 +5004,6 @@ var a = {
           },
         ],
         ar: [
-
           {
             title: "AR final",
             type: "video",
@@ -5418,7 +5426,6 @@ var a = {
             link: `<iframe src="https://drive.google.com/file/d/1zZ9XLiOxJDpvaaCjUN_5hPVkrnzn4Z9o/preview" width="640" height="480" allow="autoplay"></iframe>`,
             description: "visual description of the chapter",
           },
-
         ],
         video: [
           {
@@ -5482,7 +5489,6 @@ var a = {
             link: '<iframe src="https://drive.google.com/file/d/1zdQPSuNaDfk_AROOxbjj5QinuS92kk1v/preview" width="640" height="480" allow="autoplay"></iframe>',
             description: "chart visualising the chapter",
           },
-
         ],
         chart: [
           {
@@ -5600,8 +5606,7 @@ var a = {
             description: "activity for The Yellow Butterfly",
           },
         ],
-        ppt: [
-        ],
+        ppt: [],
         video: [
           {
             title: "Balloon Man video",
